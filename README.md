@@ -1,5 +1,7 @@
 # HOI4 magyarosítás
 
+[Steam Workshop](https://steamcommunity.com/sharedfiles/filedetails/?id=3281592737)
+
 Mint tudjuk, a Paradox Magyarország készített egy fordítást a játékhoz, amely már évek óta nem került frissítésre. Ennek a hiánynak a betöltésére szerettük volna folytatni a játék magyar nyelvre történő fordítását.
 
 __A fordítás NEM gépi fordítással készült, hanem magyar anyanyelvű fordítók által kézzel.__
