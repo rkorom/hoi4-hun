@@ -76,3 +76,6 @@
  THEATRE_UNITS:0 "A hadszíntér $N|Y$ hadosztályból áll"
  THEATRE_GROUP_UNASSIGNED:0 "Kivonva"
  CAN_ONLY_HAVE_ONE_INVASION_PER_PORT:0 "§REgy kikötôbôl csak egy partraszállási tervet lehet létrehozni.§!"
+ ORDER_PROV_TOOLTIP_PARADROP_INVALID_PROV_NOT_ENOUGH_PLANES:0 "§RThis is not a valid province for the paradrop - the province needs to have at least $NUM$ transport planes.§!"
+ ORDER_PROV_TOOLTIP_PARADROP_INVALID_PROV_TIP:0 "Please move the mouse cursor over the marked area, or existing §Yparadrop plans§!."
+ MAX_UNITS_ON_THIS_ORDER:0 "Max Supplied Divisions

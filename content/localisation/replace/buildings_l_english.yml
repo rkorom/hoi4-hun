@@ -84,4 +84,4 @@
  fuel_silo:0 "Üzemanyag-tároló"
  fuel_silo_plural:0 "Üzemanyag-tárolók"
  fuel_silo_desc:0 "Ez az épület több tárolási helyet biztosít az §Hüzemanyag§! számára."
- 
+ BUILDING_SCORCHED:0 "$BUILDING$ scorched!"

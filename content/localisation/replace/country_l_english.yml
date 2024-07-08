@@ -99,4 +99,6 @@
  CURRENT_EXPERIENCE_TOPBAR:0 "§TTapasztalat: $VALUE|Y2$§!"
  EXPERIENCE_FROM_ATTACHES:0 "Az elküldött attasénk miatt $COUNTRIES$ katonai tapasztalatának $XPSHARE|H%0$-t megkapjuk."
  RULES_TITLE:0 "§HSzabályok összefoglalása:§!"
- RULES_DESC:0 "Az országod szabályzata ideológiától függôen változik, az ideológiát pedig a frakciód, a minisztered, illetve a nemzeti jellemzô befolyásolja."
+ RULES_DESC:0 "Az országod szabályzata ideológiától függôen változik, az ideológiát pedig a frakciód, a minisztered, illetve a nemzeti jellemzô befolyásolja." MANPOWER_RAILWAY_GUN:0 "Railway Gun Service Manpower"
+ MANPOWER_RAILWAY_GUN_DESC:0 "§TThis §HRailway Gun§! requires $AMOUNT|G$ of service manpower.§!"
+ COMMAND_POWER_ALLOCATION:0 "Allocated EXPERIENCE_DAILY_GAIN_TOPBAR:0 "§TDaily Gain DAILY_EXPERIENCE_GAIN_OFFICERS:0 "Daily Gain

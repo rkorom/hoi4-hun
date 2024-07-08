@@ -59,3 +59,6 @@
  MAPMODE_ALL_ENTRY_DETAILS:0 "§GKattints§! a kiválasztáshoz.\n§GJobb-kattints§! a kiválasztáshoz és a bezáráshoz."
  MAPMODE_TOOLTIP_INFRASTRUCTURE:0 "£infrastructure_texticon  Infrastruktúra $INF|Y$"
  MAPMODE_TOOLTIP_MANPOWER:1 "£population_texticon  Népesség $MP|*Y$"
+ MAPMODE_SUPPLY_MAP_MODE_NAME:0 "Supply"
+ MAPMODE_SUPPLY_MAP_MODE:0 "§HSupply§! map mode"
+ MAPMODE_SUPPLY_MAP_MODE_DESCRIPTION:1 "Shows the current supply situation. Brighter greenish areas have more access to supply while purple have the least access. Areas where units suffer from bad supply currently go from §Yyellow§! to §Rred§!."

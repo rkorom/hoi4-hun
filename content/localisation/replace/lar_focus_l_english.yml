@@ -1274,3 +1274,9 @@
  POR_regimento_de_comandos_desc:0 "We have need of elite forces, trained for different combat situations and able to perform in the harshest conditions.\n\n"Audaces Fortuna Juvat""
  FRA_laissez_faire_tt:0 "Our economy will become more efficient after a period of about two years."
 
+ SPR_against_trotskyism_and_stalinism_tt:0 "Gains §Y$puppet_wargoal_focus$§! war goal against §YStalinist§! or §YTrotskyist Soviet Union§! or §YMexico§!."
+ has_hired_juan_negrin_tt: "§YJuan Negrín§! SPA_embrace_pan_hispanism: "Embrace Pan-Hispanic Nationalism"
+ SPA_embrace_pan_hispanism_desc: "In recent years, there has been a surge in Panhispanism throughout our old colonies, and now with our successful campaigns of reconquest, it is time to embrace their ideas, so that the Spanish Empire can stand for another thousand years!"
+ SPA_embrace_pan_hispanism_tt: "We control every core state of §Y[CHL.GetName]§!, §Y[ARG.GetName]§!, §Y[ECU.GetName]§!, §Y[PRU.GetName]§!, §Y[URG.GetName]§!, §Y[PAR.GetName]§!, §Y[BOL.GetName]§!, §Y[COL.GetName]§!, §Y[VEN.GetName]§!, §Y[PAN.GetName]§!, §Y[COS.GetName]§!, §Y[NIC.GetName]§!, §Y[HON.GetName]§!, §Y[ELS.GetName]§!, §Y[GUA.GetName]§!, §Y[MEX.GetName]§!, §Y[DOM.GetName]§!, §Y[CUB.GetName]§! and §Y[PUE.GetName]§!."
+ SPA_absorb_the_portuguese_empire_tt: "We will gain cores on any §YPortuguese§! cores we control"
+ FRA_carry_the_revolution_west_tt:0 "Grants a §YTopple Government§! wargoal against §YSpain§! or any surviving, non-communist factions of the Spanish Civil War."

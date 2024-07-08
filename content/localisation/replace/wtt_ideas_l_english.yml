@@ -92,4 +92,7 @@
  MAN_arms_seized_1_desc:0 "A Csing Birodalom egy meglepetésszerû támadást szervezett, és számos fegyverraktárat és lôszer-hulladéklerakót elfoglalt területükön. Szükségünk lesz némi idôre ahhoz, hogy területükön átrendezzük ellátásunk módját."
  MAN_underground_gun_shops:0 "Földalatti mûhelyek"
  MAN_underground_gun_shops_desc:0 "Számos elôkészítô mûhelyt hoztunk létre az udvaroban és a pincékben, hogy több berendezést gyárthassunk. A minôség talán nem annyira jó, de számok pótolják majd." 
- MAN_xian_yuan:0 "Yuan Xian"
+ MAN_xian_yuan:0 "Yuan Xian" dwight_d_eisenhower_sent_to_china: "Dwight D. Eisenhower sent to China"
+ douglas_macarthur_sent_to_china: "Douglas MacArthur sent to China"
+ LUX_alexander_von_falkenhausen:0 "Alexander von Falkenhausen"
+ MAN_aisin_gioro_puyi_xuantong_name: "Xuantong"

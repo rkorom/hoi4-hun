@@ -1499,4 +1499,4 @@
  mtg_news.64.t:0 "Németalföldi Egység"
  mtg_news.64.desc:1 "A németalföldi országok a nemzetbiztonságra veszélyes külsô fenyegetésekre hivatkozva bejelentették, hogy kormányaik és fegyveres erôik azonnal egyesülni fognak, hogy megerôsítsék védelmi képességeiket. A(z) [From.GetOldAdjective] vezetés alatt az ipari beruházások és a védelmi tervek elsôbbséget élveznek más belföldi ügyekkel szemben, amelynek célja, hogy a katonai feszültség biztosítva legyen ahhoz, hogy az új állam szuverenitását veszélyeztetôkkel szemben felléphessenek."
  mtg_news.64.a:0 "Népeink egységben védik hazájukat."
- mtg_news.64.b:0 "Újbóli egyesülés? Készüljünk föl lelkileg." 
+ mtg_news.64.b:0 "Újbóli egyesülés? Készüljünk föl lelkileg."  broken_naval_treaty_opinion_mod:0 "Ignored Treaty Sanctions"

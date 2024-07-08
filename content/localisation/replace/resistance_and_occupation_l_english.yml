@@ -210,3 +210,8 @@
  non_core_controller:0 "Non-Core Controller"
  non_core_controller_desc:0 "A State that is controlled by a non-core country"
  
+ reconciliation:0 "Reconciliation"
+ colonial_police:0 "Colonial Police"
+ colonial_police_improved:0 "$colonial_police$"
+ colonial_police_final:0 "$colonial_police$"
+ COMPLIANCE_GAIN_IS_SCALED:0 "Scaled by $RATIO|R.0%$ due to insufficient garrison!"

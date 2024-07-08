@@ -64,3 +64,4 @@
  STATE_OWNER_RESISTANCE_NON_CORE_INFO:0 "$COUNTRY|H$ csak az terület $MANPOWER|-%.0$ haderejéhez fog hozzáférni."
  STATE_OWNER_RESISTANCE_NON_CORE_INFO_WITH_MODIFIERS:0 "$COUNTRY|H$ csak a terület $MANPOWER|-%.0$ haderejéhez fog hozzáférni, ráadásul a megszállás miatt a következô módosítókat kapja:"
  STATE_OWNER_MODIFIER_INFO:0 "A terület a megszállás miatt a következô módosítókat kapja:" 
+ STATE_FOREIGN_RESOURCE_OWNER:0 "Goes to $COUNTRY|H$"

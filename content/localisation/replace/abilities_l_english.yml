@@ -42,4 +42,4 @@
  ABILITY_REQUISITION_WINTER_GEAR_DESC:1 "A téli felszerelés bónuszt biztosít a hideg idôjárásnál."
  ABILITY_ON_ADD:0 "Végrehajtás:"
  ABILITY_ON_HOURLY:0 "Minden órában:"
- ABILITY_ON_DAILY:0 "Minden nap:"
+ ABILITY_ON_DAILY:0 "Minden nap:" ABILITY_TOOLTIP_DETAILED_COST_FACTOR:0 "    - Abilities cost ABILITY_TOOLTIP_ALREADY_ACTIVE_SOME_CHILD_GROUPS:0 "§RThis Ability is already active for

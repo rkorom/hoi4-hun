@@ -350,3 +350,6 @@
  support_nationalist_spain_short_desc:0 "Küldj felszerelést a Spanyol Polgárháborúban résztvevô Nemzeti Spanyolország részére"
  may_provoke_hostility:0 "§R[This.GetName] és más nemzetek ellenségesen reagálhatnak erre a lépésre.§!"
 
+ independence_wargoal:0 "Independence"
+ independence_wargoal_short_desc:0 "War of Independence"
+ independence_wargoal_desc:0 "War of Independence"
