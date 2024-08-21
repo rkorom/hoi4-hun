@@ -53,3 +53,8 @@
  ROM_change_sides_to_axis:0 "Join the Axis"
  ROM_change_sides_to_axis_desc:0 "Changes in our government have facilitated a change in our alignment in the war. By joining with the Axis, our current “comrades” in this global conflict shall become confused as Romanian bullets find a new target."
  ROM_present_ultimatum:0 "Present the Ultimatum"
+ YUG_instigate_in_bulgaria:0 "Instigate Peasant Uprisings in Bulgaria"
+ GER_strength:0 "\n§Y[GER.GetName]§! claims: §G[?This.claim_strength_GER]§!"
+ ITA_strength:0 "\n§Y[ITA.GetName]§! claims: §G[?This.claim_strength_ITA]§!"
+ HUN_strength:0 "\n§Y[HUN.GetName]§! claims: §G[?This.claim_strength_HUN]§!"
+ newline_tt:0 "\n"

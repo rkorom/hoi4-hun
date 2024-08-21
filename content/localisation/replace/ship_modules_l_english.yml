@@ -1352,3 +1352,4 @@
  SWE_dp_ship_secondaries_2:0 "12cm/45 Bofors M24C DP"
  SWE_dp_ship_secondaries_3:0 "12cm/50 Bofors M36 DP"
  SWE_dp_ship_secondaries_4:0 "12cm/50 Bofors M42 DP"
+ EQ_MOD_CAT_ship_light_medium_battery_TITLE:0 "Light Medium Battery"

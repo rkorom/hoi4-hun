@@ -1139,3 +1139,4 @@
  britain.27.t:0 "[ICE.GetNameDefCap] rejects our proposal"
  britain.27.desc:0 "The [ICE.GetAdjective] government has rejected our ultimatum for compliance, citing their belief in neutrality and the vehement opposition to being dragged into a war which they had no part in.\nThey charge that with this order their independence is both being infringed upon and flagrantly violated. Sadly this is modern war, and in modern war there can be no neutral parties; while we regret this course of action we must do what we must do."
  britain.27.a:0 "A regrettable but necessary course"
+ SOV_GREAT_RED_MENACE_EVENT_DESC_1_COMMUNIST:0 "[SOV.GetNameDef] is, and has been, the greatest threat to the stability of Europe since its inception two decades ago"

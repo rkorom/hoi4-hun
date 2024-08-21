@@ -195,3 +195,9 @@
  alert_doctrine_unlock_instant:0 "§YDoctrines available§!"
  alert_doctrine_unlock_delayed:0 "You can unlock a new alert_officer_corps_instant:0 "§YModify Officer Corps§!"
  alert_officer_corps_spirit_delayed:0 "Military Spirits alert_officer_corps_advisor_delayed:0 "Advisors
+ alert_industrial_org_sizeup_instant: "§HUnlock traits in Military Industrial Organisations§!"
+ alert_pick_new_idea_delayed_bop:0 "§TBalance of Power:§!"
+ alert_pick_new_idea_advisor_delayed:0 "You can select a:\n$ADVISOR|Y$\n"
+ ALERT_DIVISION_NO_EQUIPMENT_NICHED:1 "$NAME|H$ $NICHE$"
+ alert_officer_corps_instant:0 "§YModify Officer Corps§!"
+ alert_officer_corps_advisor_delayed:0 "Advisors:\nYou can select a:\n$ADVISOR|Y$\n"

@@ -82,3 +82,6 @@
  TOPBAR_INTERNATIONAL_MARKET: "International Market"
  TOPBAR_INTERNATIONAL_MARKET_DESC: "Buy equipment to supplement your domestic production. Or sell equipment to boost your construction speed."
  TOPBAR_FACTORY_STATUS_OWNED: "Owned TOPBAR_FACTORY_STATUS_OCCUPIED: "From occupation TOPBAR_FACTORY_STATUS_TRADED: "From trade TOPBAR_FACTORY_STATUS_DAMAGED: "Damaged
+ TOPBAR_FACTORY_STATUS_OCCUPIED: "From occupation: §G+$COUNT$§!"
+ TOPBAR_FACTORY_STATUS_TRADED: "From trade: §G+$COUNT$§!"
+ TOPBAR_FACTORY_STATUS_DAMAGED: "Damaged: §R-$COUNT$§!"

@@ -1198,3 +1198,8 @@
  mio_cat_tech_all_motorized_mechanized: "All Motorized and Mechanized Technologies"
  militia_tech: "Militias"
  TOA_jungle_pioneers_support_tech: "Jungle Pioneers"
+ RESEARCH_REPLACE_MIO_TITLE: "Replace Design Team"
+ nsb_armour_folder:0 "Armor"
+ RESEARCH_DOCTRINE_REQUIREMENTS_SINGLE:0 "§RRequires Doctrine ($TECH$)§!"
+ LIMITED_RESEARCH_BONUS: "Limited bonuses:"
+ cat_scout_plane: "Scout Plane models"

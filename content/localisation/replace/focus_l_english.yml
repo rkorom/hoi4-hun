@@ -2410,3 +2410,7 @@
  HUN_dockyards:0 "Renew the Shipping Industry"
  HUN_dockyards_desc:0 "With our sights set firmly on the restoration of our borders, we must begin the task of developing a Mediterranean fleet to rival our past glories."
  if_no_depression_get_stuff_TT:0 "\nIf the §H$CAN_great_depression_1$§! has been removed, a different bonus will be applied.\n\n"
+ SOV_BULWARK_NAME_COMMUNIST:0 "Bulwark Against Bolshevism"
+ RAJ_integration_tooltip_post:0 "$apply_integration_effects_retroactively$"
+ CAN_demand_labrador_tooltip:0 "§H[ENG.GetName]§! will be §Rvery unlikely§! to accede to our demands unless they are in a desperate situation.\n\n"
+ tfv_canada.63.t:0 "[CAN.GetNameDef] Offers Concessions for Newfoundland"

@@ -216,3 +216,4 @@
  FE_INTERESTING_MINORS:0 "Interesting Minor Countries"
  FE_OTHER_COUNTRIES:0 "Other Countries"
  FE_RANDOM_COUNTRY_ERROR_NO_COUNTRIES:0 "No valid countries"
+ MATCHMAKING_SERVER_NAME_INVALID:0 "Your name is invalid."

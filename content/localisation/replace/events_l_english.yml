@@ -3365,3 +3365,6 @@
  AAT_germany.3.t: "[FROM.GetName] accepts our deal"
  AAT_germany.3.desc: "[FROM.GetName] has accepted our deal, something that will surely benefit us both. Lets hope that this profitable arrangement is followed by many more"
  AAT_germany.3.a: "Great"
+ germany.118.c:0 "We should follow the Morgenthau Plan."
+ germany.118.e:0 "Churchill has this idea..."
+ worrying:0 "Worrying."

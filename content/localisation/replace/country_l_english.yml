@@ -102,3 +102,6 @@
  RULES_DESC:0 "Az országod szabályzata ideológiától függôen változik, az ideológiát pedig a frakciód, a minisztered, illetve a nemzeti jellemzô befolyásolja." MANPOWER_RAILWAY_GUN:0 "Railway Gun Service Manpower"
  MANPOWER_RAILWAY_GUN_DESC:0 "§TThis §HRailway Gun§! requires $AMOUNT|G$ of service manpower.§!"
  COMMAND_POWER_ALLOCATION:0 "Allocated EXPERIENCE_DAILY_GAIN_TOPBAR:0 "§TDaily Gain DAILY_EXPERIENCE_GAIN_OFFICERS:0 "Daily Gain
+ MANPOWER_RAILWAY_GUN:0 "Railway Gun Service Manpower"
+ EXPERIENCE_DAILY_GAIN_TOPBAR:0 "§TDaily Gain: $VALUE|Y2$§!\n"
+ DAILY_EXPERIENCE_GAIN_OFFICERS:0 "Daily Gain:"

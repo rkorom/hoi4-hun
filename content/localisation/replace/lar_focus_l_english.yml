@@ -1280,3 +1280,4 @@
  SPA_embrace_pan_hispanism_tt: "We control every core state of §Y[CHL.GetName]§!, §Y[ARG.GetName]§!, §Y[ECU.GetName]§!, §Y[PRU.GetName]§!, §Y[URG.GetName]§!, §Y[PAR.GetName]§!, §Y[BOL.GetName]§!, §Y[COL.GetName]§!, §Y[VEN.GetName]§!, §Y[PAN.GetName]§!, §Y[COS.GetName]§!, §Y[NIC.GetName]§!, §Y[HON.GetName]§!, §Y[ELS.GetName]§!, §Y[GUA.GetName]§!, §Y[MEX.GetName]§!, §Y[DOM.GetName]§!, §Y[CUB.GetName]§! and §Y[PUE.GetName]§!."
  SPA_absorb_the_portuguese_empire_tt: "We will gain cores on any §YPortuguese§! cores we control"
  FRA_carry_the_revolution_west_tt:0 "Grants a §YTopple Government§! wargoal against §YSpain§! or any surviving, non-communist factions of the Spanish Civil War."
+ SPA_embrace_pan_hispanism: "Embrace Pan-Hispanic Nationalism"

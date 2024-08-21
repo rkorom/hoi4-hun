@@ -118,3 +118,7 @@
  LOGISTICS_STORAGE_GAINED_LEND_LEASE:0 "§TFrom Lend-Lease LOGISTICS_STORAGE_OPERATIONS_NEED:0 "§TFrom Operations LOGISTICS_STORAGE_GARRISON_REINFORCEMENT:0 "§TFrom Garrison Reinforcement LOGISTICS_NEED_OPERATION_REQUEST_LOW_VALUE:1 "On average, $NEED|^1Y$ units per day are needed for operations"
  LOGISTICS_NEED_OPERATION_REQUEST_HIGH_VALUE:1 "On average, $NEED|^0Y$ units per day are needed for operations"
  LOGISTICS_VIEWING_WHICH_COUNTRY:0 "Currently viewing logistics for $COUNTRY|H$."
+ LOGISTICS_NEED_GARRISON_REINFORCEMENTS_LOW_VALUE:1 "On average there are $NEED|^1Y$ units needed per day as garrison reinforcements"
+ LOGISTICS_STORAGE_OPERATIONS_NEED:0 "§TFrom Operations: $AMOUNT|Y$ units§!"
+ LOGISTICS_STORAGE_GARRISON_REINFORCEMENT:0 "§TFrom Garrison Reinforcement: $AMOUNT|Y$ units§!"
+ LOGISTICS_NEED_OPERATION_REQUEST_LOW_VALUE:1 "On average, $NEED|^1Y$ units per day are needed for operations"

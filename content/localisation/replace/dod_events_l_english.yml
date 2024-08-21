@@ -887,3 +887,5 @@
  DOD_romania.163.t:0 "Codreanu Dies"
  DOD_romania.163.desc:0 "Codreanu was a threat to the future of the Romanian state. His reckless actions were cause for arrest, for the sake of stability. His death shall serve as a valuable reminder that one can choose to be a good example, or a terrible warning. A more measured and responsible leader awaits the fascists of Romania."
  DOD_romania.163.a:0 "Gone, but not forgotten."
+ DOD_romania.30.desc_alt:0 "With tensions rising in Europe, [ROM.GetLeader] has come to us with a surprising offer: If we commit to defend Romania from any outside threat, we would be allowed to station troops on Romanian soil."
+ DOD_yugoslavia.1.a.tt:0 "§YPeter II§! becomes leader for the §Y[YUG.GetIdeologyNameWithCaps]§! party.\n"

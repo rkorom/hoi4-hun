@@ -39,3 +39,4 @@
  suez_blocked_tt:0 "[GetSuezBlockText]"
  blocked_as_part_of_sanctions_tt:0 "§RLeague of Nations' sanctions are in place, denying [ROOT.GetName] the use of the Suez Canal.§!"
  SUEZ_SANCTIONS_FLAG:0 "Suez Canal Blocked"
+ PERMISSION_ENEMY_UNNAMED_DESC:0 "Due to our rival relations with one of the controllers"

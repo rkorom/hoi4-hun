@@ -435,3 +435,5 @@
  POL_the_bombe_no_mtg_desc:0 "$POL_the_bombe_desc$"
  POL_the_cyclometer_no_mtg:0 "$POL_the_cyclometer$"
  POL_the_cyclometer_no_mtg_desc:0 "$POL_the_cyclometer_desc$"
+ POL_the_castle:0 "The Castle"
+ POL_the_north_sea:0 "The North Sea"
