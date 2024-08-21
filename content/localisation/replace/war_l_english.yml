@@ -8,5 +8,5 @@
  WAR_TAKE_CORE_NAME:0 "$ORDER$$FIRST$ igény $STATE$ területére"
  WAR_TAKE_CLAIM_NAME:0 "$ORDER$$FIRST$ igény $STATE$ területére"
  WAR_NAME_ITA_ETH:0 "Olasz-Etióp háború"
- INDEPENDENCE_WAR_NAME:0 "$ORDER$$FIRST$ War of Independence"
- create_puppet_wargoal_usa:0 "§HPuppet (Focus)§! wargoal gained by §Y[ROOT.GetNameDef]§!"
+ INDEPENDENCE_WAR_NAME:0 "$ORDER$$$FIRST$ Függetlenségi háború"
+ create_puppet_wargoal_usa:0 "§HBáb (fókusz)§! háborús cél szerzése §Y[ROOT.GetNameDef]§! által"

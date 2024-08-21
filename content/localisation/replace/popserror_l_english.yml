@@ -5,7 +5,7 @@
  POPS_ua:0 "Nem jogosult"
  POPS_not-authorized:0 "A megadott e-mail és jelszó nem egyezik"
 # These should "never" happen, we should have validated before we sent the data
- POPS_bad-password-length:0 "A jelszó túl rövid" #Lehet, hogy túl hosszú, de a felsô határ 128 karakter (az írás idején)
+ POPS_bad-password-length:0 "A jelszó túl rövid" #Lehet, hogy túl hosszú, de a felsõ határ 128 karakter (az írás idején)
  POPS_missing-required-account-details-keys:0 "Hiányzik a szükséges információ"
  POPS_invalid-country-code:0 "Az országkód érvénytelen"
  POPS_invalid-language-code:0 "A nyelvi kód érvénytelen"

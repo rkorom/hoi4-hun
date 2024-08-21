@@ -9,6 +9,10 @@ __A fordítás NEM gépi fordítással készült, hanem magyar anyanyelvű ford�
 A fordítás tartalmazza a játék összes szövegét, beleértve a DLC-két is.
 Célunk a fordítás naprakészen tartása, hogy minden játékos megfelelő minőségben élvezhesse a játékot.
 
+## Közreműködők
+
+- [Bencúr](https://steamcommunity.com/profiles/76561198344557146)
+
 ## Segítenél a fordításban?
 
-Ha észrevételeid vannak, vagy hibát találtál a fordításban, kérlek jelezd nekünk vagy forkold a repót és küldj egy pull requestet!
+Ha észrevételeid vannak, vagy hibát találtál a fordításban, jelezd nekünk vagy forkold a repót és küldj egy pull requestet!
