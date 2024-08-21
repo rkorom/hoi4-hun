@@ -272,3 +272,5 @@
  LEDGER_CIV_GRAPH_SHOW_BOMBERS:0 "§HAz elõállított és megsemmisült bombázók grafikonjának megjelenítése§!"
  LEDGER_CIV_GRAPH_SHOW_TRUCKS:0 "§HFelhalmozott teherautók grafikonjának megjelenítése§!"
  LEDGER_CIV_GRAPH_SHOW_TRAINS:0 "§HFelhalmozott vonatok grafikonjának megjelenítése§!"
+ LEDGER_TOTAL_STOCKPILE_AMOUNT_TOOLTIP: "Total: $RANGE|H$"
+ LEDGER_MARKET_STOCKPILE_AMOUNT_TOOLTIP: "  - International Market Amount: $RANGE|H$"

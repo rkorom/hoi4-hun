@@ -180,3 +180,4 @@
  TOPBAR_OFFICER_CORP_DESC:0 "Kezeld a tanácsadókat és teoretikusokat, válaszd ki a hadsereg, a haditengerészet és a légierõ jellemzõit, és oldj fel doktrínákat."
  IDEA_COST_NAVY_XP:0 "Költség (£navy_experience ): $VALUE|-0$"
  IDEA_COST_COMPACT_NAVY_XP:0 "£navy_experience  $VALUE|0$"
+ SHOW_EXILED_STATUS_LEGITIMACY:0 "Legitimacy: $VALUE|0H$"

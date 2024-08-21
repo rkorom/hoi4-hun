@@ -1500,3 +1500,4 @@
  mtg_news.64.desc:1 "A németalföldi országok a nemzetbiztonságra veszélyes külsõ fenyegetésekre hivatkozva bejelentették, hogy kormányaik és fegyveres erõik azonnal egyesülni fognak, hogy megerõsítsék védelmi képességeiket. A(z) [From.GetOldAdjective] vezetés alatt az ipari beruházások és a védelmi tervek elsõbbséget élveznek más belföldi ügyekkel szemben, amelynek célja, hogy a katonai feszültség biztosítva legyen ahhoz, hogy az új állam szuverenitását veszélyeztetõkkel szemben felléphessenek."
  mtg_news.64.a:0 "Népeink egységben védik hazájukat."
  mtg_news.64.b:0 "Újbóli egyesülés? Készüljünk föl lelkileg." 
+ broken_naval_treaty_opinion_mod:0 "Ignored Treaty Sanctions"

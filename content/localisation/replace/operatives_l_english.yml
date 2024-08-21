@@ -410,3 +410,7 @@
  OPERATIVE_RESUME_MISSION_AFTER_OPERATION_INDICATOR_TOOLTIP:0 "Az ügynök folytatja azt a küldetést, amelyhez a mũvelet megkezdésekor hozzárendelték."
  OPERATIVE_DISBAND_TITLE:0 "Ügynök felmentése"
  OPERATIVE_DISBAND_DESC:0 "Biztos, hogy el akarja bocsátani ezt az ügynököt? Idõbe fog telni, amíg új ügynököt tudsz toborozni."
+ EFFECT_STEAL_RANDOM_TECH_INSTANT_COMPLETE:0 "We have stolen the plans for an advanced technology: $TECH|H$"
+ OPERATION_NOT_ALL_OPERATIVES_ASSIGNED:0 "Not all operatives have been assigned yet"
+ OPERATION_REQUIREMENT_NEEDED:0 "You will need to collect $NUM|H$ units of $NAME|H$."
+ OPERATIVE_AVAILABLE_AGAIN_IN_DAYS:0 "This operative will be available again in $DAYS|H$ days!"

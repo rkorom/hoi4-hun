@@ -999,3 +999,10 @@
 
  restructure_supply_system:0 "Reorganize the Railway System"
  restructure_supply_system_desc:0 "By redirecting building materials and railway workers, we can quickly create a small number of make-shift supply dumps along some of our railways. This is, however, not a sustainable way of running the system. \n\n§RThis decision can only be taken once. The bonus will disappear if you construct more than 3 additional supply hubs.§!"
+ LIT_adopt_the_dobuzhinsky_flag_design_decision: "Adopt Dobuzhinsky's Heraldic Flag Design"
+ LIT_adopt_the_dobuzhinsky_flag_design_decision_desc: "The colors of our flag must match those of the coat of arms. No green color is present in the coat of arms, and as such it should not be present in the flag either. Thus we should adopt the proposal handed to us by Mstislav Dobuzhinsky and Vydūnas."
+ SOV_assassinated_stalin_flag: "Stalin has been eliminated"
+ SOV_polish_territory: "The Polish territory"
+ SOV_polish_territory_desc: "We currently control a lot of territory that were once part of the so called Polish Republic. If we were to hand some of it back, the leadership we have put in place in [POL.capital.GetCapitalVictoryPointName] would be able to use that as proof of the benefits of cooperation with [ROOT.GetNameDef]."
+ SOV_return_states_to_poland: "Return States to [POL.getname]"
+ SOV_return_states_to_poland_desc: "As a gesture of goodwill, and to demonstrate who is in charge, we should return all the territory west of [95.GetCapitalVictoryPointName] that is claimed by [POL.getNameDef] to the [POL.GetAdjective] puppet regime."

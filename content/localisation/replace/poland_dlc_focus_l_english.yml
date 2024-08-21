@@ -436,3 +436,6 @@
  POL_the_bombe_no_mtg_desc:0 "$POL_the_bombe_desc$"
  POL_the_cyclometer_no_mtg:0 "$POL_the_cyclometer$"
  POL_the_cyclometer_no_mtg_desc:0 "$POL_the_cyclometer_desc$"
+ POL_segregated_seating_abolished:0 "Segregated Seating Abolished"
+ POL_segregated_seating_abolished_desc:0 "For decades, Poland’s education had a system of segregated seating for those of different ethical backgrounds. Now that this practice has been abolished, the state is well on its way to creating a truly multicultural society of equals."
+ falangist_militarist:0 "Falangist Militarist"

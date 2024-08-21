@@ -346,3 +346,4 @@
 nuclear_espionage:0 "Beszivárgás az atomprogramba"
 nuclear_espionage_desc:0 "Nukleáris fegyverprogramunk le van maradva. Meg kell terveznünk egy mũveletet, hogy beszivárogjunk külföldi atomfegyverprogramokba, és megszerezzük a létfontosságú tervrajzokat és adatokat."
 nuclear_espionage_outcome_tt:0 "Egy ügynököt fogunk elhelyezni a [FROM.GetAdjective] nukleáris kutatási programban, aki megpróbálja átadni számunkra a saját atomprojektünkben felhasználható mũszaki dokumentációt."
+ SWI_boost_resistance_buff:0 "\nThe §YStrengthen Resistance§! Operation becomes significantly more effective."

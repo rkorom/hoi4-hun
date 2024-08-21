@@ -949,3 +949,11 @@
  develop_qatar_oil_fields:0 "A dukhani olajmezõk fejlesztése"
  burma_road_expansion_tt:0 "Befejezte a §YBurma út§! fókuszt, vagy egy olyan frakciónak tagja, vagy esetleg országhoz tartozik, amelyik ezt megtette." #NOTE: these are names of uk_burma_focus and CHI_burma_road
  
+ form_country_iceland_required_states_tt:0 "Controls all §YIcelandic§! states.\n"
+ form_country_iceland_coring_states_tt:0 "Gain cores on all §YIcelandic§! states.\n"
+ integrate_northern_gran_colombia: "Incorporate Panamá"
+ integrate_yucatan: "Incorporate the Republic of Yucatán"
+ ENG_operation_valentine: "Operation Valentine"
+ ENG_operation_valentine_desc: "We shall shield the Faroe Islands from all the severities of war and establish ourselves there conveniently by sea and air until the moment comes when they will be handed back to Denmark liberated from the foul thraldom into which they have been plunged by hostile aggression, whilst also strengthening our own position in the North Sea."
+ develop_transdanubia_aluminium_deposits:0 "Develop Transdanubia Bauxite Deposits"
+ develop_derna_oilfield:0 "Tap Derna Oilfields"

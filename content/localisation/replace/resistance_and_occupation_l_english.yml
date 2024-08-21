@@ -212,3 +212,6 @@
  non_core_controller:0 "Nem mag irányító"
  non_core_controller_desc:0 "Állapot, amelyet egy Nem mag ország irányít"
  
+ colonial_police:0 "Colonial Police"
+ colonial_police_improved:0 "$colonial_police$"
+ colonial_police_final:0 "$colonial_police$"

@@ -196,3 +196,8 @@
  alert_officer_corps_instant:0 "§YA tisztikar módosítása§!"
  alert_officer_corps_spirit_delayed:0 "Hadsereg Jellemzõ:\nVálaszthatsz egy:\n$SPIRIT|Y$"
  alert_officer_corps_advisor_delayed:0 "Tanácsadók:\nVálaszthatsz egy:\n$ADVISOR|Y$\n"
+ alert_bop_timeout_delayed:0 "These Balance of Power events or decisions are about to time out:\n$LIST$§GRight-click to dismiss§!"
+ alert_industrial_org_sizeup_instant: "§HUnlock traits in Military Industrial Organisations§!"
+ alert_industrial_org_sizeup_delayed: "You can unlock traits for the following Military Industrial Organisations:\n$LIST$§GRight-click to dismiss§!"
+ alert_pick_new_idea_delayed_bop:0 "§TBalance of Power:§!"
+ alert_pick_new_idea_advisor_delayed:0 "You can select a:\n$ADVISOR|Y$\n"

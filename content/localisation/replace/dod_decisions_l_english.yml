@@ -57,3 +57,5 @@
  ROM_change_sides_to_axis:0 "Csatlakozz a tengelyhez"
  ROM_change_sides_to_axis_desc:0 "A kormányunkban bekövetkezett változások megkönnyítették a háborúban való csatlakozásunk megváltoztatását. A Tengelyhez való csatlakozással a jelenlegi "bajtársaink" ebben a globális konfliktusban összezavarodnak, mivel a román golyók új célpontot találnak."
  ROM_present_ultimatum:0 "Az ultimátum bemutatása"
+ ROM_claim_bosnia:0 "Claim [104.GetName]"
+ ROM_claim_ljubljana:0 "Claim [853.GetName]"

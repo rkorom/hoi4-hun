@@ -1253,3 +1253,6 @@
  YUG_light_cruiser_1_desc:0 "A régi német SMS Niobe cirkálót 1925-ben eladták a fiatal Jugoszláv Királyi Haditengerészetnek, és alaposan átépítették. A Dalmacija modern légvédelmi rendszerrel és a haditengerészet legnehezebb ágyúival felszerelve elsõsorban tüzérségi kiképzõhajóként szolgált."
  screen_ship:0 "Védõhajó"
  capital_ship:0 "Anyahajó"
+ ship_hull_midget_submarine:0 "Midget Submarine"
+ ship_hull_midget_submarine_desc:0 "A small-sized submarine operated by a small crew. Its reduced range and weapon capacity is offset by a high production rate."
+ SPR_destroyer_2:0 "Churruca Class"
