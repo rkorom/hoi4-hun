@@ -10,30 +10,29 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-    - name: Checkout repository
-      uses: actions/checkout@v2
+      - name: Checkout repository
+        uses: actions/checkout@v2
 
-    - name: Install dependencies
-      run: |
-        sudo dpkg --add-architecture i386
-        sudo apt-get update
-        sudo apt-get install -y lib32gcc-s1 lib32stdc++6
+      - name: Install dependencies
+        run: |
+          sudo dpkg --add-architecture i386
+          sudo apt-get update
+          sudo apt-get install -y lib32gcc-s1 lib32stdc++6
 
-    - name: Download and install SteamCMD
-      run: |
-        mkdir -p ~/steamcmd
-        cd ~/steamcmd
-        curl -sqL "https://steamcdn-a.akamaihd.net/client/installer/steamcmd_linux.tar.gz" | tar zxvf -
-    
-    - name: Upload to Steam Workshop
-      env:
-        STEAM_USERNAME: ${{ secrets.STEAM_USERNAME }}
-        STEAM_PASSWORD: ${{ secrets.STEAM_PASSWORD }}
-        STEAM_API_KEY: ${{ secrets.STEAM_API_KEY }}
-      run: |
-        ~/steamcmd/steamcmd.sh +login ${{ env.STEAM_USERNAME }} ${{ env.STEAM_PASSWORD }} \
-        +workshop_build_item metadata.vdf +quit
+      - name: Download and install SteamCMD
+        run: |
+          mkdir -p ~/steamcmd
+          cd ~/steamcmd
+          curl -sqL "https://steamcdn-a.akamaihd.net/client/installer/steamcmd_linux.tar.gz" | tar zxvf -
 
-    - name: Logout from Steam
-      run: |
-        ~/steamcmd/steamcmd.sh +logout
+      - name: Upload to Steam Workshop
+        env:
+          STEAM_USERNAME: ${{ secrets.STEAM_USERNAME }}
+          STEAM_PASSWORD: ${{ secrets.STEAM_PASSWORD }}
+          STEAM_API_KEY: ${{ secrets.STEAM_API_KEY }}
+        run: |
+          ~/steamcmd/steamcmd.sh +login ${{ env.STEAM_USERNAME }} ${{ env.STEAM_PASSWORD }}  +workshop_build_item metadata.vdf +quit
+
+      - name: Logout from Steam
+        run: |
+          ~/steamcmd/steamcmd.sh +logout
