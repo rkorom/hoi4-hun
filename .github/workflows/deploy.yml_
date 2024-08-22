@@ -31,7 +31,7 @@ jobs:
           STEAM_PASSWORD: ${{ secrets.STEAM_PASSWORD }}
           STEAM_API_KEY: ${{ secrets.STEAM_API_KEY }}
         run: |
-          ~/steamcmd/steamcmd.sh +login ${{ env.STEAM_USERNAME }} ${{ env.STEAM_PASSWORD }}  +workshop_build_item metadata.vdf +quit
+          ~/steamcmd/steamcmd.sh +login ${{ env.STEAM_USERNAME }} ${{ env.STEAM_PASSWORD }} +workshop_build_item ${{ github.workspace }}/metadata.vdf +quit
 
       - name: Logout from Steam
         run: |
