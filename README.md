@@ -28,3 +28,18 @@ Ebben az esetben a `autonomy_occupation_zone` a kulcs, amelynek a fordítása a 
 ```yaml
 autonomy_occupation_zone:0 "Megszállási zóna"
 ```
+
+## Kapcsolat
+
+<p align="center">
+  <a href="https://discord.gg/NcptrNxQAp"><img
+    src=".github/assets/discord.svg"
+    alt="Discord"
+    height="80"
+  /></a>
+  <a href="https://steamcommunity.com/id/krm88/"><img
+    src=".github/assets/steam.svg"
+    alt="Steam"
+    height="80"
+  /></a>
+</p>
