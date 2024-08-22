@@ -1756,4 +1756,4 @@
  bftb_news.302.c:0 "Ez semmit sem ér nekik!"
  bftb_news.302.d:0 "Hũha."
 
- TUR_straits_remain_demilitarised_tt:0 "\nThe §YTurkish Straits§! will remain demilitarized and we will have no control over the naval traffic that passes through the §YTurkish Straits§! until we are at war. \n\n§RThis is our last chance to deescalate: if [SOV.GetNameDef] pushes the matter further then it will lead to war!§!"
+ TUR_straits_remain_demilitarised_tt:0 "\nA §YTörök-szörös§! demilitarizált marad és nem lesz befolyásunk a tengeri forgalom fölött, amely áthalad a §YTörök-szorosokon§!, amíg háborúban vagyunk. \n\n§REz az utolsó esélyünk a deeszkalációra: ha [SOV.GetNameDef] tovább feszegeti a kérdést, akkor az háborúhoz fog vezetni!§!"
