@@ -4,15 +4,23 @@
 
 Mint tudjuk, a Paradox Magyarország készített egy fordítást a játékhoz, amely már évek óta nem került frissítésre. Ennek a hiánynak a betöltésére szerettük volna folytatni a játék magyar nyelvre történő fordítását. A fordítás tartalmazza a játék összes szövegét, beleértve a DLC-két is.
 
-## Közreműködők
-
-- [Bencúr](https://steamcommunity.com/profiles/76561198344557146)
-
 ## Segítenél a fordításban?
 
 Ha észrevételeid vannak, vagy hibát találtál a fordításban, jelezd nekünk vagy forkold a repót és küldj egy pull requestet!
 
 ### Hogyan kezdj neki?
+
+#### Hiányzó szövegek
+
+A hiányzó szövegeket a [tobetranslated.csv](tobetranslated.csv) fájlban találod az alábbi formátumban:
+
+| Fájlnév               | Kulcs                         |
+| --------------------- | ----------------------------- |
+| aat_bop_l_english.yml | SWE_riksdag_political_balance |
+
+Ebben az esetben a `aat_bop_l_english.yml` a fájl neve, a `SWE_riksdag_political_balance` pedig a kulcs, amelynek a fordítása hiányzik.
+
+### Fordítási fájlok
 
 A fordítási fájlokat a [content/localisation/replace](content/localisation/replace) mappában találod.
 A fájlok a `yml` kiterjesztésűek, amelyek YAML formátumban vannak írva.
@@ -28,6 +36,10 @@ Ebben az esetben a `autonomy_occupation_zone` a kulcs, amelynek a fordítása a 
 ```yaml
 autonomy_occupation_zone:0 "Megszállási zóna"
 ```
+
+## Közreműködők
+
+- [Bencúr](https://steamcommunity.com/profiles/76561198344557146)
 
 ## Kapcsolat
 
