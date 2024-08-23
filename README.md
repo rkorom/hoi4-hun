@@ -10,8 +10,6 @@ Ha észrevételeid vannak, vagy hibát találtál a fordításban, jelezd nekün
 
 ### Hogyan kezdj neki?
 
-#### Hiányzó szövegek
-
 A hiányzó szövegeket a [tobetranslated.csv](tobetranslated.csv) fájlban találod az alábbi formátumban:
 
 | Fájlnév               | Kulcs                         |
@@ -19,8 +17,6 @@ A hiányzó szövegeket a [tobetranslated.csv](tobetranslated.csv) fájlban tal�
 | aat_bop_l_english.yml | SWE_riksdag_political_balance |
 
 Ebben az esetben a `aat_bop_l_english.yml` a fájl neve, a `SWE_riksdag_political_balance` pedig a kulcs, amelynek a fordítása hiányzik.
-
-### Fordítási fájlok
 
 A fordítási fájlokat a [content/localisation/replace](content/localisation/replace) mappában találod.
 A fájlok a `yml` kiterjesztésűek, amelyek YAML formátumban vannak írva.
