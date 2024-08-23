@@ -150,7 +150,7 @@
  group_armor_combat_support_title:0 "Páncélozott Harci Támogató Zászlóaljak"
  EXCEEDING_DIVISION_CAP:0 "§RTúllépés a hadosztály sablonjának limitjén§!"
  CANT_CHANGE_DUE_TO_DIVISION_CAP:0 "Nem lehet váltani erre a sablonra, mert az meghaladná a hadosztály limitjét"
- SPECIAL_FORCES_CAP_LIMIT_DESC:0 "Ez a hadosztály a különleges erők limitjét használja, mivel ez a legalacsonyabb limit."
+ SPECIAL_FORCES_CAP_LIMIT_DESC:0 "Ez a hadosztály a különleges erõk limitjét használja, mivel ez a legalacsonyabb limit."
  DIVISION_CAP_OF_TEMPLATE:0 "Ennek a sablonnak a limitje $NUM|Y$."
  DIVISION_CAP_USAGE_DESC:0 "Jelenleg $USED|Y$ hadosztály van a hadszíntéren, és $IN_TRAINING|Y$ van kiképzés alatt a megengedett $CAP|Y$ hadosztályból $NAME|Y$ sablonra."
  DIVISION_CAP_LIMIT_DESC:0 "Ez a hadosztály a sablon limitjét használja, mivel ez a legalacsonyabb limit."

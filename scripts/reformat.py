@@ -13,21 +13,13 @@ def reformat_files(directory):
             reformatted_lines = []
             for i, line in enumerate(lines):
                 # Replace 'ő' with 'õ'
-                line = line.replace(
-                    "ő", "õ"
-                ).strip()  # Strip removes any leading/trailing whitespace
+                line = line.replace("ő", "õ")
 
-                if line:  # Check if the line is not empty after stripping
-                    if i == 0:
-                        # First line with no leading space
-                        reformatted_lines.append(line)
-                    else:
-                        # Other lines with one leading space
-                        reformatted_lines.append(f" {line}")
+                reformatted_lines.append(line)
 
             # Write back the reformatted lines
             with open(file_path, "w", encoding="utf-8") as file:
-                file.writelines(line + "\n" for line in reformatted_lines)
+                file.writelines(reformatted_lines)
 
             print(f"Reformatted: {filename}")
 

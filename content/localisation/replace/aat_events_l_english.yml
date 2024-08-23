@@ -4,62 +4,62 @@
         # NORDIC SHARED #
 ########
   AAT_nordic_shared.1.t: "[FROM.GetName] meghív minket, hogy csatlakozzunk hozzájuk a [NORDIC_get_alliance_name]-ban"
-  AAT_nordic_shared.1.desc_faction_member: "[FROM.GetNameDefCap] egy lépéssel tovább akarja vinni szövetségünket, és több szinten elmélyíteni együttműködésünket. Ők a katonai szövetséget csak az első lépésnek tekintik egy erősebb, egységes északi régió felé."
+  AAT_nordic_shared.1.desc_faction_member: "[FROM.GetNameDefCap] egy lépéssel tovább akarja vinni szövetségünket, és több szinten elmélyíteni együttműködésünket. Ők a katonai szövetséget csak az elsõ lépésnek tekintik egy erõsebb, egységes északi régió felé."
   AAT_nordic_shared.1.desc_non_faction_member: "[FROM.GetNameDefCap] azon dolgozik, hogy mély együttműködést alakítson ki az összes északi ország között. Létre akarják hozni a [NORDIC_get_alliance_name]-t, és meghívnak minket, hogy csatlakozzunk hozzájuk."
   AAT_nordic_shared.1.a: "A szoros együttműködés a túlélés kulcsa"
-  AAT_nordic_shared.1.b: "Ez túl veszélyesnek hangzik, jobb, ha kimaradunk ebből"
+  AAT_nordic_shared.1.b: "Ez túl veszélyesnek hangzik, jobb, ha kimaradunk ebbõl"
   
   AAT_nordic_shared.2.t: "[FROM.GetName] kölcsönös garanciákat javasol"
-  AAT_nordic_shared.2.desc: "Ahogy a világon egyre nő a feszültség, egyre nehezebb megbízható szövetségeseket találni. A [FROM.GetAdjective] kormány javasolja, hogy mint északi országok, jelentsük be a világnak, hogy [ROOT.GetName] és [FROM.GetName] kiállnak egymásért egy idegen invázió esetén. Készen állunk erre az elköteleződésre?"
+  AAT_nordic_shared.2.desc: "Ahogy a világon egyre nõ a feszültség, egyre nehezebb megbízható szövetségeseket találni. A [FROM.GetAdjective] kormány javasolja, hogy mint északi országok, jelentsük be a világnak, hogy [ROOT.GetName] és [FROM.GetName] kiállnak egymásért egy idegen invázió esetén. Készen állunk erre az elkötelezõdésre?"
   AAT_nordic_shared.2.a: "Lehet, hogy ez az egyetlen módja a túlélésnek"
   AAT_nordic_shared.2.b: "Nem hagyjuk, hogy magukkal rántsanak minket"
   
   AAT_nordic_shared.3.t: "[FROM.GetName] velünk tart!"
-  AAT_nordic_shared.3.desc: "Hírt kaptunk arról, hogy a [FROM.GetAdjective] nép meg fogja védeni [ROOT.GetName] függetlenségét, és mi cserébe megvédjük az övéket. Az északi országoknak készen kell állniuk, hogy egyesített erőként visszaverjenek minden inváziót, ahelyett, hogy széttöredezett kis nemzetekként harcolnának."
+  AAT_nordic_shared.3.desc: "Hírt kaptunk arról, hogy a [FROM.GetAdjective] nép meg fogja védeni [ROOT.GetName] függetlenségét, és mi cserébe megvédjük az övéket. Az északi országoknak készen kell állniuk, hogy egyesített erõként visszaverjenek minden inváziót, ahelyett, hogy széttöredezett kis nemzetekként harcolnának."
   AAT_nordic_shared.3.a: "Remek hír!"
   
   AAT_nordic_shared.4.t: "Javaslatunkat elutasította [FROM.GetName]"
-  AAT_nordic_shared.4.desc: "Úgy tűnik, az évszázados közös történelem sem elég ahhoz, hogy meggyőzze a [FROM.GetAdjective] kormányt, hogy népeinknek együtt kell szembenézniük az idegen zsarnokokkal. Reméljük, hogy meggondolják magukat, mielőtt túl késő lenne."
+  AAT_nordic_shared.4.desc: "Úgy tűnik, az évszázados közös történelem sem elég ahhoz, hogy meggyõzze a [FROM.GetAdjective] kormányt, hogy népeinknek együtt kell szembenézniük az idegen zsarnokokkal. Reméljük, hogy meggondolják magukat, mielõtt túl késõ lenne."
   AAT_nordic_shared.4.a: "Szomorú hír"
   
   AAT_nordic_cooperation.1.t: "[FROM.GetNameDef] átlépte a határt!"
-  AAT_nordic_cooperation.1.desc: "Újra és újra bizonyítékokat találtunk arra, hogy [FROM.GetName] titokban támogatta háborús erőfeszítéseinket a [?GLOBAL.NORDIC_country_to_defend.GetName] ellen. \n\nTalán itt az ideje, hogy megtanítsuk őket, hogyan kell valóban háborúzni."
+  AAT_nordic_cooperation.1.desc: "Újra és újra bizonyítékokat találtunk arra, hogy [FROM.GetName] titokban támogatta háborús erõfeszítéseinket a [?GLOBAL.NORDIC_country_to_defend.GetName] ellen. \n\nTalán itt az ideje, hogy megtanítsuk õket, hogyan kell valóban háborúzni."
   AAT_nordic_cooperation.1.a: "Nem engedhetjük meg, hogy tovább eszkalálódjon ez a konfliktus"
   AAT_nordic_cooperation.1.b: "Már halottak, csak még nem tudják"
   
-  AAT_nordic_cooperation.2.t: "[FROM.GetName] segítséget ajánl háborús erőfeszítéseinkben"
-  AAT_nordic_cooperation.2.desc: "Ezekben az áruló időkben a [FROM.GetNonIdeologyName] kötései felbecsülhetetlenek voltak. Támogatást nyújtottak a [?NORDIC_attacker.GetName] elleni háborúnkban, és most készen állnak arra, hogy további lépéseket tegyenek, és felajánlották, hogy csatlakoznak országunk védelméhez. Végül is, ha együnket megtámadják, az az összes északi nemzet elleni támadás."
+  AAT_nordic_cooperation.2.t: "[FROM.GetName] segítséget ajánl háborús erõfeszítéseinkben"
+  AAT_nordic_cooperation.2.desc: "Ezekben az áruló idõkben a [FROM.GetNonIdeologyName] kötései felbecsülhetetlenek voltak. Támogatást nyújtottak a [?NORDIC_attacker.GetName] elleni háborúnkban, és most készen állnak arra, hogy további lépéseket tegyenek, és felajánlották, hogy csatlakoznak országunk védelméhez. Végül is, ha együnket megtámadják, az az összes északi nemzet elleni támadás."
   AAT_nordic_cooperation.2.a: "Segítségük jól jön"
   AAT_nordic_cooperation.2.b: "Megoldjuk nélkülük is"
   
   AAT_nordic_cooperation.3.t: "[FROM.GetName] elutasította segítségünket"
-  AAT_nordic_cooperation.3.desc: "Minden jó szándékunk ellenére úgy tűnik, hogy [FROM.GetNameDef] nem kér a segítségünkből, vagy nem akarja azt. Csak ők tudják, mi áll ennek a rejtélyes döntésnek a hátterében.\n\nEz nem jelenti azt, hogy abba kell hagynunk a támogatásukat más módon, vagy hogy [?FROM.NORDIC_attacker.GetName] háborús félként tekinthet ránk."
+  AAT_nordic_cooperation.3.desc: "Minden jó szándékunk ellenére úgy tűnik, hogy [FROM.GetNameDef] nem kér a segítségünkbõl, vagy nem akarja azt. Csak õk tudják, mi áll ennek a rejtélyes döntésnek a hátterében.\n\nEz nem jelenti azt, hogy abba kell hagynunk a támogatásukat más módon, vagy hogy [?FROM.NORDIC_attacker.GetName] háborús félként tekinthet ránk."
   AAT_nordic_cooperation.3.a: "Nos, így is van..."
   
   AAT_nordic_cooperation.4.t: "[FROM.GetName] befektetéseket keres"
-  AAT_nordic_cooperation.4.desc: "Északi szomszédaink küldöttséget küldtek, hogy befektetéseket kérjenek gazdaságuk további fejlesztésére. Ez mindenképpen előnyös lesz ipari szektorunk számára is, de biztosítanunk kell, hogy egy barátságos szomszédot támogassunk, ne egy potenciális ellenséget."
-  AAT_nordic_cooperation.4.a: "Ez mindkettőnknek hasznos"
+  AAT_nordic_cooperation.4.desc: "Északi szomszédaink küldöttséget küldtek, hogy befektetéseket kérjenek gazdaságuk további fejlesztésére. Ez mindenképpen elõnyös lesz ipari szektorunk számára is, de biztosítanunk kell, hogy egy barátságos szomszédot támogassunk, ne egy potenciális ellenséget."
+  AAT_nordic_cooperation.4.a: "Ez mindkettõnknek hasznos"
   AAT_nordic_cooperation.4.b: "Nem éri meg a kockázatot"
   
   AAT_nordic_cooperation.5.t: "[FROM.GetName] befektetései most már áramlanak"
-  AAT_nordic_cooperation.5.desc: "Északi szomszédaink elég kegyesek voltak, hogy elfogadják meghívásunkat gazdaságunkba való befektetésre. Természetesen jutalmat kapnak bizalmukért, de ami még fontosabb, lehetővé teszi, hogy gazdaságunk gyorsabb ütemben növekedjen."
+  AAT_nordic_cooperation.5.desc: "Északi szomszédaink elég kegyesek voltak, hogy elfogadják meghívásunkat gazdaságunkba való befektetésre. Természetesen jutalmat kapnak bizalmukért, de ami még fontosabb, lehetõvé teszi, hogy gazdaságunk gyorsabb ütemben növekedjen."
   AAT_nordic_cooperation.5.a: "Remek hír!"
   
   AAT_nordic_cooperation.6.t: "[FROM.GetName] visszautasította a gazdaságunkba való befektetést"
-  AAT_nordic_cooperation.6.desc: "Minden erőfeszítésünk ellenére nem sikerült meggyőznünk északi szomszédainkat, hogy segítsenek gazdaságunk további fejlesztésében. Természetesen mindig megpróbálhatjuk egy másik országgal."
+  AAT_nordic_cooperation.6.desc: "Minden erõfeszítésünk ellenére nem sikerült meggyõznünk északi szomszédainkat, hogy segítsenek gazdaságunk további fejlesztésében. Természetesen mindig megpróbálhatjuk egy másik országgal."
   AAT_nordic_cooperation.6.a: "Sajnálatos"
   
   AAT_nordic_cooperation.7.t: "[FROM.GetName] gazdasági együttműködést keres"
-  AAT_nordic_cooperation.7.desc: "Északi szomszédaink közös alapot keresnek annak érdekében, hogy kölcsönösen előnyös megállapodást hozzanak létre gazdasági és ipari együttműködésre. Ha megfelelően hajtják végre, ahogy reméljük, akkor ez mindkét gazdaságunkat egyformán fellendíti, mivel egyenlőként lépünk be ebbe.\n\nTekintettel régiónk történelmi ellenségeskedésére, óvatosnak kell lennünk, hogy ne támogassunk egy jövőbeli riválist, ha hátat fordítanának nekünk."
+  AAT_nordic_cooperation.7.desc: "Északi szomszédaink közös alapot keresnek annak érdekében, hogy kölcsönösen elõnyös megállapodást hozzanak létre gazdasági és ipari együttműködésre. Ha megfelelõen hajtják végre, ahogy reméljük, akkor ez mindkét gazdaságunkat egyformán fellendíti, mivel egyenlõként lépünk be ebbe.\n\nTekintettel régiónk történelmi ellenségeskedésére, óvatosnak kell lennünk, hogy ne támogassunk egy jövõbeli riválist, ha hátat fordítanának nekünk."
   AAT_nordic_cooperation.7.a: "Egy igazságos üzlet"
   AAT_nordic_cooperation.7.b: "Gyanúsnak tűnik"
   
   AAT_nordic_cooperation.8.t: "[FROM.GetName] elfogadta megállapodásunkat"
-  AAT_nordic_cooperation.8.desc: "Éppen most értesültünk arról, hogy a [FROM.GetAdjective] vezetők elfogadták kölcsönösen előnyös megállapodásunkat. Ez nagyszerű lesz mindkét gazdaság számára, és az északi régió számára általában."
+  AAT_nordic_cooperation.8.desc: "Éppen most értesültünk arról, hogy a [FROM.GetAdjective] vezetõk elfogadták kölcsönösen elõnyös megállapodásunkat. Ez nagyszerű lesz mindkét gazdaság számára, és az északi régió számára általában."
   AAT_nordic_cooperation.8.a: "Remek hír!"
   
-  AAT_nordic_cooperation.9.t: "A [FROM.GetName] vezetői elutasították ajánlatunkat!"
-  AAT_nordic_cooperation.9.desc: "Annak ellenére, hogy célunk az volt, hogy [FROM.GetName]-nel egyenlő feltételekkel tárgyaljunk, értesítettek bennünket, hogy nem érdeklik őket az ilyen megállapodások.\n\nMindig próbálkozhatunk újra, vagy egy másik északi országgal."
+  AAT_nordic_cooperation.9.t: "A [FROM.GetName] vezetõi elutasították ajánlatunkat!"
+  AAT_nordic_cooperation.9.desc: "Annak ellenére, hogy célunk az volt, hogy [FROM.GetName]-nel egyenlõ feltételekkel tárgyaljunk, értesítettek bennünket, hogy nem érdeklik õket az ilyen megállapodások.\n\nMindig próbálkozhatunk újra, vagy egy másik északi országgal."
   AAT_nordic_cooperation.9.a: "Megmagyarázhatatlan"
   
   NORDIC_escalation_hostility_reason: "Az északi ország védelmét segítette"
@@ -68,18 +68,18 @@
         # NORWAY #
 ########
   AAT_norway.1.t: "Fasiszták zaklatják [NOR_lev_trotsky.GetName]-t"
-  AAT_norway.1.desc: "Miközben a vitatott forradalmár horgászkiránduláson volt vendéglátójával, a Nasjonal Samling párthoz kapcsolódó fasiszták betörtek Konrad Knudsen otthonába, ahol Trotskij tartózkodott.\n\nA betörők bármilyen terhelő bizonyítékot kerestek, amely indokolná a száműzött kommunista eltávolítását, de szerencsére Knudsen lánya, Hjørdis elijesztette őket, mielőtt bármi jelentőséget szerezhettek volna."
+  AAT_norway.1.desc: "Miközben a vitatott forradalmár horgászkiránduláson volt vendéglátójával, a Nasjonal Samling párthoz kapcsolódó fasiszták betörtek Konrad Knudsen otthonába, ahol Trotskij tartózkodott.\n\nA betörõk bármilyen terhelõ bizonyítékot kerestek, amely indokolná a száműzött kommunista eltávolítását, de szerencsére Knudsen lánya, Hjørdis elijesztette õket, mielõtt bármi jelentõséget szerezhettek volna."
   AAT_norway.1.a: "Távol kell tartani a bajtól"
   AAT_norway.1.b: "Két legyet üthetünk egy csapásra"
   AAT_norway.1.c: "Adjunk ennek az embernek egy hivatalt!"
   AAT_norway.1.d: "A múltja minden bizonyíték, amire szükségünk van, börtönbe vele!"
   
-  AAT_norway.2.t: "Trotskij házi őrizetben egy farmon"
-  AAT_norway.2.desc: "Hivatkozva arra a megállapodásra, hogy száműzetése alatt tartózkodik a politikai részvételtől, és a fasiszta betörők által szerzett gyenge bizonyítékokra, elküldtük [NOR_lev_trotsky.GetName]-t egy hurumi farmra, ahol rendőri felügyelet alatt áll majd, és el lesz zárva a külvilágtól.\n\nEz egy kemény büntetés, de a [SOU.GetNameDef]-től és a helyi fasisztáktól érkező nyomás veszélyes gyűjtőponttá teszi őt."
+  AAT_norway.2.t: "Trotskij házi õrizetben egy farmon"
+  AAT_norway.2.desc: "Hivatkozva arra a megállapodásra, hogy száműzetése alatt tartózkodik a politikai részvételtõl, és a fasiszta betörõk által szerzett gyenge bizonyítékokra, elküldtük [NOR_lev_trotsky.GetName]-t egy hurumi farmra, ahol rendõri felügyelet alatt áll majd, és el lesz zárva a külvilágtól.\n\nEz egy kemény büntetés, de a [SOU.GetNameDef]-tõl és a helyi fasisztáktól érkezõ nyomás veszélyes gyűjtõponttá teszi õt."
   AAT_norway.2.a: "Ez a legjobb, amit jelenleg tehetünk"
   
   AAT_norway.3.t: "[ROOT.GetLeader.GetName] általános fellépése az ellenállással szemben"
-  AAT_norway.3.desc: "A Knudsen villáján történt összetűzés után világossá vált, hogy a politikai helyzet tele van veszélyekkel, mivel a kommunisták és fasiszták egymás torkának estek.\n\nA civakodást és a politikai zűrzavart meg kell oldani. Trotskij jelenléte kockáztatja, hogy [SOU.GetNameDef] haragját magunkra vonjuk, és ugyanakkor a Nasjonal Samling biztosan átadja az országot [FGR.GetLeader]-nek az első adandó alkalommal, így befolyásukat mindenáron korlátozni kell.\n\nA legjobb megoldás, ha Mexikóba küldjük őt, ahol [MEX.GetLeader] beleegyezett, hogy befogadja az országba."
+  AAT_norway.3.desc: "A Knudsen villáján történt összetűzés után világossá vált, hogy a politikai helyzet tele van veszélyekkel, mivel a kommunisták és fasiszták egymás torkának estek.\n\nA civakodást és a politikai zűrzavart meg kell oldani. Trotskij jelenléte kockáztatja, hogy [SOU.GetNameDef] haragját magunkra vonjuk, és ugyanakkor a Nasjonal Samling biztosan átadja az országot [FGR.GetLeader]-nek az elsõ adandó alkalommal, így befolyásukat mindenáron korlátozni kell.\n\nA legjobb megoldás, ha Mexikóba küldjük õt, ahol [MEX.GetLeader] beleegyezett, hogy befogadja az országba."
   AAT_norway.3.a: "Ez Norvégia túlélése érdekében történik"
 
   AAT_norway.4.t: "Trotskij joins our government!"
