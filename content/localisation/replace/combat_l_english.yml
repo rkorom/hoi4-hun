@@ -393,5 +393,5 @@
  PIERCING_THRESHOLD_ENTRY:0 "$NUM|H$ Ellenséges hadosztályok $PIERCE_VALUE|%H$ értékű sebzést visznek át ezen hadosztály páncélján."
  NON_PIERCING_THRESHOLD_ENTRY:0 "$NUM|H$ Ellenséges hadosztályok nem tudják átütni ezen hadosztály páncélját, és $PIERCE_VALUE|%H$ értékű sebzést okoznak."
  PIERCING_ENEMIES_THRESHOLD_ENTRY:0 "Ez a hadosztály képes $PIERCE_VALUE|%H$ értékű sebzést átvinni $NUM|H$ ellenséges hadosztály páncélján."
- COMBAT_LOG_FRIENDLY:0 "Baráti erők"
- COMBAT_LOG_ENEMY:0 "Ellenséges erők"
+ COMBAT_LOG_FRIENDLY:0 "Baráti erõk"
+ COMBAT_LOG_ENEMY:0 "Ellenséges erõk"

@@ -1282,7 +1282,7 @@
 
  bftb_bulgaria_german_influence.1.t:0 "[GER.GetNameDefCap] Repülõgépadományt ajánl fel"
  bftb_bulgaria_german_influence.1.desc:1 "[GetFirstDonation] országunk és [GER.GetNameDef] közötti kapcsolatok érdekében, Hermann Göring 12 [GER.GetAdjective] vadászgépet ajánl fel nekünk, nyilvánvalóan arra törekedve, hogy [ROOT.GetNameDef] a [GER.GetFactionName] felé igazodjon, és így erõs szövetségest nyerjen a Balkánon, hogy megvédje [GER.GetAdjective]ország érdekeit a régióban."
- bftb_bulgaria_german_influence.1.desc_first_donation:0 "A [ROOT.GetAdjective] légierő újjáépítése és megerõsítése és az"
+ bftb_bulgaria_german_influence.1.desc_first_donation:0 "A [ROOT.GetAdjective] légierõ újjáépítése és megerõsítése és az"
  bftb_bulgaria_german_influence.1.desc_more_donations:0 "A"
  bftb_bulgaria_german_influence.1.a:1 "Szívesen fogadjuk!"
  bftb_bulgaria_german_influence.1.b:1 "Udvariasan visszautasítjuk."
