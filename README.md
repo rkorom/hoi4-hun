@@ -10,7 +10,7 @@ Ha észrevételeid vannak, vagy hibát találtál a fordításban, jelezd nekün
 
 ### Hogyan kezdj neki?
 
-A hiányzó szövegeket a [tobetranslated.csv](tobetranslated.csv) fájlban találod az alábbi formátumban:
+A hiányzó szövegeket a [todo.csv](todo.csv) fájlban találod az alábbi formátumban:
 
 | Fájlnév               | Kulcs                         |
 | --------------------- | ----------------------------- |

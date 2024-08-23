@@ -1,12 +1,12 @@
 # main.py
 
 import translationupdate
-import tobetranslated
+import todo
 
 
 def main():
     translationupdate.main()
-    tobetranslated.main()
+    todo.main()
 
 
 if __name__ == "__main__":

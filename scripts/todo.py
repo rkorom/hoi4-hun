@@ -2,7 +2,7 @@ import os
 import csv
 
 
-def check_translation(srcDir, destDir, output_file="tobetranslated.csv"):
+def check_translation(srcDir, destDir, output_file="todo.csv"):
     to_translate = []
 
     for filename in os.listdir(srcDir):
