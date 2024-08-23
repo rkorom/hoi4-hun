@@ -540,6 +540,7 @@
  mtg_news.6.c:0 "A forradalom továbbhalad az elkerülhetetlen gyõzelem felé!"
  mtg_news.6.d:0 "Csak remélhetjük, hogy az igaz oldal nyert."
  mtg_news.7.t:1 "[USA.GetNameDefCap] Mindenek Felett!"
+ mtg_news.7.desc:0 "\nA több hónapja tartó vérontás és ezernyi áldozat után véget ért a második amerikai polgárháború. [USA.GetLeader] elnök vejelentette a fõbb hadmũveletek lezárását. Amíg néhány fennmaradó lázadó kormányzat továbbra is haszontalan ellenkampányt folytat, addig nagy részüket vagy bekebelezi a kormány, vagy visszatéríti õket a polgári népesség közé. [USA.GetLeader] elnök szerint a háború okozói nyilvánvalóan külföldi befolyások voltak, melyek így próbálták instabillá tenni és szétszakítani az országot. Ígéri, hogy idõvel a felelõsöket bíróság elé állítják."
  mtg_news.7.b:0 "Gyõzött az igazság!"
  mtg_news.7.c:0 "Az amerikai munkások idõvel ismét szabadon fellélegezhetnek."
  mtg_news.7.d:0 "A demokrácia jövõje csak még bizonytalanabb lett."
