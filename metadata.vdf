@@ -1,10 +1,10 @@
 "workshopitem"
 {
 	"appid"					"394360"
-	"contentfolder"			"content"
-	"previewfile"			"preview.jpg"
+	"contentfolder"			"D:/projektek/hoi4-hun/content"
+	"previewfile"			"D:/projektek/hoi4-hun/preview.jpg"
 	"visibility"			"0"
 	"title"					"Magyar nyelvű fordítás"
-	"description"			"https://github.com/rkorom/hoi4-hun/blob/main/README.md"
+	"description"			"A lehetőség bárki számára adott, hogy becsatlakozzon a projektbe! Minden információ megtalálható az alábbi linken: https://bit.ly/hoi4hun"
 	"publishedfileid"		"3281592737"
 }
