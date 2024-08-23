@@ -63,4 +63,9 @@ def update(
                         logging.info(f"Added key: {key}")
 
 
-update("D:/Steam/steamapps/common/Hearts of Iron IV/localisation/english")
+def main():
+    update("D:/Steam/steamapps/common/Hearts of Iron IV/localisation/english")
+
+
+if __name__ == "__main__":
+    main()

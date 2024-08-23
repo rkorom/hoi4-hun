@@ -44,7 +44,11 @@ def check_translation(srcDir, destDir, output_file="tobetranslated.csv"):
     print(f"A fordítandó kulcsok listája a következő fájlban található: {output_file}")
 
 
-# Example usage
-src_directory = "D:/Steam/steamapps/common/Hearts of Iron IV/localisation/english"
-dest_directory = os.path.join(os.getcwd(), "content", "localisation", "replace")
-check_translation(src_directory, dest_directory)
+def main():
+    src_directory = "D:/Steam/steamapps/common/Hearts of Iron IV/localisation/english"
+    dest_directory = os.path.join(os.getcwd(), "content", "localisation", "replace")
+    check_translation(src_directory, dest_directory)
+
+
+if __name__ == "__main__":
+    main()
