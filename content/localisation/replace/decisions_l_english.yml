@@ -182,7 +182,7 @@
  flags_raised:0 "Zászlók felvonva"
  the_day_of_sacrifice:0 "Az áldozat napja"
  blood_and_toil:0 "Vér és verejték"
- available_mio_tt: "§GSzabad§! mint §YKatonai Ipari Szervezet§!: "
+ available_mio_tt: "§GElérhető§! mint §YKatonai Ipari Szervezet§!: "
  foreign_mio_decisions_category: "Külföldi iparágak meghívása"
  invite_GER_henschel_organization: "Meghívás §Y$GER_henschel_organization$§! §Y[ROOT.GetNameWithFlag]§!-ba!"
  invite_SOV_okmo_organization: "Meghívás §Y$SOV_okmo_organization$§! §Y[ROOT.GetNameWithFlag]§!-ba!"
