@@ -10,14 +10,20 @@ pipeline {
     stages {
         stage('Checkout Repository') {
             steps {
-                checkout scm
+                checkout([$class: 'GitSCM',
+                          branches: [[name: '*/main']],
+                          doGenerateSubmoduleConfigurations: false,
+                          extensions: [],
+                          userRemoteConfigs: [[credentialsId: "${env.GIT_CREDENTIAL}", url: 'https://github.com/rkorom/hoi4-hun.git']]
+                ])
             }
         }
 
         stage('Clone Repository') {
             steps {
                 git credentialsId: "${env.GIT_CREDENTIAL}",
-                    url: 'https://github.com/rkorom/hoi4-hun.git'
+                    url: 'https://github.com/rkorom/hoi4-hun.git',
+                    branch: 'main'
             }
         }
 
