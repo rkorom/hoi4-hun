@@ -30,9 +30,9 @@ pipeline {
         stage('Install Dependencies') {
             steps {
                 sh '''
-                    sudo dpkg --add-architecture i386
-                    sudo apt-get update
-                    sudo apt-get install -y lib32gcc-s1 lib32stdc++6
+                    dpkg --add-architecture i386
+                    apt-get update
+                    apt-get install -y lib32gcc-s1 lib32stdc++6
                 '''
             }
         }
