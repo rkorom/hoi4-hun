@@ -51,9 +51,7 @@ pipeline {
             steps {
                 sh '''
                     if [ ! -f ~/steamcmd/ssfn* ]; then
-                        ~/steamcmd/steamcmd.sh +login $STEAM_USERNAME $STEAM_PASSWORD || exit 1
-                        # Itt be kell kézzel írni a Steam Guard kódot, ha kéri
-                        # A fájlokat későbbi futásokhoz megtartjuk
+                        ~/steamcmd/steamcmd.sh +login $STEAM_USERNAME $STEAM_PASSWORD
                     fi
 
                     ~/steamcmd/steamcmd.sh +login $STEAM_USERNAME $STEAM_PASSWORD +workshop_build_item ${WORKSPACE}/metadata.vdf +quit
