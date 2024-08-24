@@ -1,53 +1,53 @@
 ﻿l_english:
 
   #### ICELAND ####
-  ICE_drilling_for_oil_off_shore: "Drill for Off-Shore Oil and Gas"
-  ICE_drilling_for_oil_off_shore_repeat_tt: "This decision can be retaken again after §Y180§! days"
-  no_more_oil_tt: "§RNo more oil can be found§!"
-  no_more_oil_flag: "Oil fields have run dry"
+  ICE_drilling_for_oil_off_shore: "Parton túli olaj- és gázkitermelés"
+  ICE_drilling_for_oil_off_shore_repeat_tt: "Ezt a döntést újra lehet használni §Y180§! nap múlva"
+  no_more_oil_tt: "§RNem lehet több olajat találni§!"
+  no_more_oil_flag: "Az olajmezők elapadtak"
 
-  ICE_improve_the_viking_spirit: "Venerating our Ancestors"
-  ICE_already_improving_the_viking_spirit_flag: "Already improving the Viking Spirit"
+  ICE_improve_the_viking_spirit: "Őseink tisztelete"
+  ICE_already_improving_the_viking_spirit_flag: "Már javítja a Viking jellemzőt"
 
-  ICE_a_new_yggdrasill: "A Modern Yggdrasil"
-  ICE_a_new_yggdrasill_desc: "Now that the people know of their great ancestry, we should strive to construct great projects and improve the island of Iceland so that it may live up to Miðgarður and Yggdrasil of Legend!"
-  ICE_has_best_spirit_idea: "We have fully venerated our ancestors"
+  ICE_a_new_yggdrasill: "Egy Modern Yggdrasil"
+  ICE_a_new_yggdrasill_desc: "Most, hogy az emberek tudnak nagyszerű őseikről, arra kell törekednünk, hogy nagyszerű projekteket építsünk és fejlesszük Izland szigetét, hogy méltó legyen a legendás Miðgarðurhoz és Yggdrasilhoz!"
+  ICE_has_best_spirit_idea: "Teljes mértékben tiszteljük őseinket"
 
-  ICE_the_wisdom_of_odin: "The Wisdom of Óðinn"
-  ICE_the_wisdom_of_odin_desc: "Óðinn is a god associated with everything from wisdom, healing, death, royalty, the gallows, knowledge, war, battle, victory, sorcery, poetry, and frenzy to the runic alphabet. He was granted his immense wisdom when he offered up his eye to drink from the Mímisbrunnr, which granted him the ability of infinite knowledge of the present, the future and the past. We should attempt to embody his spirit, and carry on his legacy into the future!"
+  ICE_the_wisdom_of_odin: "Óðinn bölcsessége"
+  ICE_the_wisdom_of_odin_desc: "Óðinn egy isten, akit a bölcsességtől, a gyógyítástól, a haláltól, a királyi hatalomtól, az akasztófától, a tudástól, a háborútól, a csatától, a győzelemtől, a varázslástól, a költészettől és az őrülettől kezdve a rovásírásos ábécéig mindennel kapcsolatba hoznak. Hatalmas bölcsességét akkor kapta, amikor felajánlotta szemét, hogy igyon a Mímisbrunnrból, ami megadta neki a jelen, a jövő és a múlt végtelen ismeretének képességét. Meg kell próbálnunk megtestesíteni szellemét, és továbbvinni örökségét a jövőbe!"
 
-  ICE_the_might_of_thor: "The Might of Þór"
-  ICE_the_might_of_thor_desc: "Þór is the god of thunder, strength and the protection of humankind. Wielding his hammer Mjölnir, he struck the clouds to make it storm, and our army shall strike that same thunder and fear into our opponents!"
+  ICE_the_might_of_thor: "Þór hatalma"
+  ICE_the_might_of_thor_desc: "Þór a mennydörgés, az erő és az emberiség védelmének istene. Mjölnir kalapácsát forgatva csapott le a felhőkre, hogy vihart keltsen, és a mi seregünknek ugyanezt a mennydörgést és félelmet kell ellenfeleinkbe vernie!"
 
-  ICE_the_guidance_of_aegir_and_ran: "The Guidance of Ægir and Rán"
-  ICE_the_guidance_of_aegir_and_ran_desc: "Under the guidance of Rán and Ægir, the personification of the sea and her jötunn husband, our ships will achieve supremacy over the northern seas."
+  ICE_the_guidance_of_aegir_and_ran: "Ægir és Rán útmutatása"
+  ICE_the_guidance_of_aegir_and_ran_desc: "Rán és Ægir, a tenger megszemélyesítője és jötunn férje vezetésével hajóink uralmat szereznek az északi tengerek felett."
 
-  ICE_the_ferocity_of_the_fenrir: "The Ferocity of the Fenrisúlfr"
-  ICE_the_ferocity_of_the_fenrir_desc: "The Fenrisúlfr is along with Hel and the World Serpent, a child of Loki and giantess Angrboða. During Ragnarök, it was supposed to kill Óðinn, yet failed, despite its great strength and ferocity. Our soldiers must embody it's essence on the battlefield in order to defeat the enemy in both field and mind."
+  ICE_the_ferocity_of_the_fenrir: "A Fenrisúlfr kegyetlensége"
+  ICE_the_ferocity_of_the_fenrir_desc: "A Fenrisúlfr Hel és a Világkígyó mellett Loki és Angrboða óriásnő gyermeke. A Ragnarök idején Óðinnt kellett volna megölnie, de nagy ereje és vadsága ellenére nem sikerült. Katonáinknak meg kell testesíteniük a harcmezőn a lényegét, hogy legyőzzék az ellenséget mind a mezőn, mind a lélekben."
 
-  ICE_the_fertility_of_freya: "The Fertility of Freyja"
-  ICE_the_fertility_of_freya_desc: "Freyja is among other things the goddess of love, beauty and fertility. We should invoke her name to make sure that our people have children that can one day grow into great warriors."
+  ICE_the_fertility_of_freya: "Freyja termékenysége"
+  ICE_the_fertility_of_freya_desc: "Freyja többek között a szerelem, a szépség és a termékenység istennője. Az ő nevét kell segítségül hívnunk, hogy népünknek olyan gyermekei szülessenek, akik egy napon nagy harcosokká válhatnak."
 
-  ICE_a_monument_to_leif: "Raise a Monument to Leifur Eiríksson"
-  ICE_a_monument_to_leif_desc: "Despite the common myth spread by the southerners that Christopher Columbus was the first European to discover the Americas, our great ancestor Leifur Eiríksson was undoubtedly the actual first one to do so. To honor his memory, we should raise a monument dedicated to him in Vinland, as we conquer the lands for ourselves."
+  ICE_a_monument_to_leif: "Emeljünk emlékművet Leifur Eiríksson emlékére"
+  ICE_a_monument_to_leif_desc: "A déliek által terjesztett mítosz ellenére, miszerint Kolumbusz Kristóf volt az első európai, aki felfedezte Amerikát, kétségtelenül nagy ősünk, Leifur Eiríksson volt a tényleges első. Emlékének tiszteletére egy neki szentelt emlékművet kellene emelnünk Vinlandon, miközben meghódítjuk magunknak a földeket."
 
- ICE_infiltrate_the_british_isles_category: "Infiltrating the British Isles"
- ICE_infiltrate_the_british_isles_category_desc: "The workers' revolution needs to spread. The perfect starting point is the oppressed workers in the British isles. The anti-imperialist and anti-capitalist sentiment could, and should, be used to its full advantage."
+ ICE_infiltrate_the_british_isles_category: "Beszivárgás a Brit-szigetekre"
+ ICE_infiltrate_the_british_isles_category_desc: "A munkásforradalomnak terjednie kell. A tökéletes kiindulópont az elnyomott munkások a brit szigeteken. Az antiimperialista és antikapitalista hangulatot teljes mértékben ki lehetne és ki kellene használni."
 
- ICE_incite_communist_uprising_scotland: "Incite an uprising in Scotland"
- ICE_incite_communist_uprising_scotland_desc: "With a little push on the way, we should be able to make the Scottish workers rise up in [121.GetCapitalVictoryPointName] and declare their independence from the government in [121.owner.capital.GetCapitalVictoryPointName]." 
- ICE_uprising_scotland_tt: "§Y[121.owner.GetName]§!: More than [?ICE.communism_support_needed|%Y0] support for [121.owner.GetCommunistParty]"
- ICE_incite_communist_uprising_scotland_tt: "§Y[SCO.GetName]§! starts a War of Independence against §Y[121.owner.GetName]§! in [121.GetName]"
+ ICE_incite_communist_uprising_scotland: "Felkelés szítása Skóciában"
+ ICE_incite_communist_uprising_scotland_desc: "Egy kis nyomással képesnek kell lennünk arra, hogy a skót munkások felkeljenek [121.GetCapitalVictoryPointName] városában és kikiáltják függetlenségüket a kormánytól [121.owner.capital.GetCapitalVictoryPointName]ban." 
+ ICE_uprising_scotland_tt: "§Y[121.owner.GetName]§!: Több mint [?ICE.communism_support_needed|%Y0] támogatás a [121.owner.GetCommunistParty]nak"
+ ICE_incite_communist_uprising_scotland_tt: "§Y[SCO.GetName]§! függetlenségi háborút indít §Y[121.owner.GetName]§! ellen [121.GetName]ban"
 
- ICE_incite_communist_uprising_wales: "Incite an uprising in Wales"
- ICE_incite_communist_uprising_wales_desc: "With a little push on the way, we should be able to make the Welsh workers rise up in [122.GetCapitalVictoryPointName] and declare their independence from the government in [122.owner.capital.GetCapitalVictoryPointName]." 
- ICE_uprising_wales_tt: "§Y[122.owner.GetName]§!: More than [?ICE.communism_support_needed|%Y0] support for [122.owner.GetCommunistParty]"
- ICE_incite_communist_uprising_wales_tt: "§Y[WLS.GetName]§! starts a War of Independence against §Y[122.owner.GetName]§! in [122.GetName]"
+ ICE_incite_communist_uprising_wales: "Felkelés szítása Walesben"
+ ICE_incite_communist_uprising_wales_desc: "Egy kis nyomással képesnek kell lennünk arra, hogy a walesi munkások felkeljenek [122.GetCapitalVictoryPointName] városában és kikiáltják függetlenségüket a kormánytól [122.owner.capital.GetCapitalVictoryPointName]ban." 
+ ICE_uprising_wales_tt: "§Y[122.owner.GetName]§!: Több mint [?ICE.communism_support_needed|%Y0] támogatás a [122.owner.GetCommunistParty]nak"
+ ICE_incite_communist_uprising_wales_tt: "§Y[WLS.GetName]§! függetlenségi háborút indít §Y[122.owner.GetName]§! ellen [122.GetName]ban"
 
- ICE_incite_communist_uprising_ni: "Incite an uprising in Northern Ireland"
- ICE_incite_communist_uprising_ni_desc: "With a little push on the way, we should be able to make the workers of Northern Ireland rise up in [119.GetCapitalVictoryPointName] and declare their independence from the government in [119.owner.capital.GetCapitalVictoryPointName]." 
- ICE_uprising_ni_tt: "§Y[119.owner.GetName]§!: More than [?ICE.communism_support_needed|%Y0] support for [119.owner.GetCommunistParty]"
- ICE_incite_communist_uprising_ni_tt: "§Y[WLS.GetName]§! starts a War of Independence against §Y[119.owner.GetName]§! in [119.GetName]"
+ ICE_incite_communist_uprising_ni: "Felkelés szítása Észak-Írországban"
+ ICE_incite_communist_uprising_ni_desc: "Egy kis nyomással képesnek kell lennünk arra, hogy az Észak-Írországi munkások felkeljenek [119.GetCapitalVictoryPointName] városában és kikiáltják függetlenségüket a kormánytól [119.owner.capital.GetCapitalVictoryPointName]ban." 
+ ICE_uprising_ni_tt: "§Y[119.owner.GetName]§!: Több mint [?ICE.communism_support_needed|%Y0] támogatás a [119.owner.GetCommunistParty]nak"
+ ICE_incite_communist_uprising_ni_tt: "§Y[WLS.GetName]§! függetlenségi háborút indít §Y[119.owner.GetName]§! ellen [119.GetName]ban"
    
   # NORWAY
   NOR_democratic_preparation_decisions_category: "Building Our Nation"
