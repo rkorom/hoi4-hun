@@ -26,6 +26,10 @@ jobs:
           cd ~/steamcmd
           curl -sqL "https://steamcdn-a.akamaihd.net/client/installer/steamcmd_linux.tar.gz" | tar zxvf -
 
+      - name: Modify metadata.vdf
+        run: |
+          sed -i "s|D:/projektek/hoi4-hun/|${{ github.workspace }}/|g" ${{ github.workspace }}/metadata.vdf
+
       - name: Upload to Steam Workshop
         env:
           STEAM_USERNAME: ${{ secrets.STEAM_USERNAME }}
