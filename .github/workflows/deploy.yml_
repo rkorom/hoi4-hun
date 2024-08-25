@@ -7,7 +7,7 @@ on:
 
 jobs:
   upload:
-    if: github.repository == 'rkorom/hoi4-hun'
+    if: github.event.repository.fork == false
     runs-on: ubuntu-latest
 
     steps:
