@@ -2,7 +2,8 @@
 
 [Steam Workshop](https://steamcommunity.com/sharedfiles/filedetails/?id=3281592737)
 
-Mint tudjuk, a Paradox Magyarország készített egy fordítást a játékhoz, amely már évek óta nem került frissítésre. Ennek a hiánynak a betöltésére szerettük volna folytatni a játék magyar nyelvre történő fordítását. A fordítás tartalmazza a játék összes szövegét, beleértve a DLC-két is.
+Mint tudjuk, a Paradox Magyarország készített egy fordítást a játékhoz, amely 2020 óta nem került frissítésre.
+Azóta számos próbálkozás történt a magyarosítás megvalósítására, de egyik sem érte el a kívánt minőséget, ezért úgy döntöttem, hogy elkezdem a magyarosítást open-source formában. Ennek köszönhetően bárki hozzájárulhat a fejlesztéshez, szemben az összes eddigi próbálkozással.
 
 ## Segítenél a fordításban?
 
