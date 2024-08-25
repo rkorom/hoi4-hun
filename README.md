@@ -1,13 +1,18 @@
 # HOI4 magyarosítás
 
-[Steam Workshop](https://steamcommunity.com/sharedfiles/filedetails/?id=3281592737)
-
 Mint tudjuk, a Paradox Magyarország készített egy fordítást a játékhoz, amely 2020 óta nem került frissítésre.
 Azóta számos próbálkozás történt a magyarosítás megvalósítására, de egyik sem érte el a kívánt minőséget, ezért úgy döntöttem, hogy elkezdem a magyarosítást open-source formában. Ennek köszönhetően bárki hozzájárulhat a fejlesztéshez, szemben az összes eddigi próbálkozással.
+
+## Telepítés
+
+Iratkozz fel a modra [Steam Workshop](https://steamcommunity.com/sharedfiles/filedetails/?id=3281592737)-on keresztül, majd állítsd be a játék nyelvének az angolt. A magyarosítás automatikusan kicseréli az angol szövegeket magyarra.
+
+Amennyiben a játékot nem a Steamen keresztül vásároltad meg, úgy a [content](content) mappában található fájlokat kell a játék mappájába másolnod kézileg. Fontos, hogy ebben az esetben a mod nem fog automatikusan frissülni, így neked kell gondoskodnod a fordítások rendszeres frissítéséről.
 
 ## Segítenél a fordításban?
 
 Ha észrevételeid vannak, vagy hibát találtál a fordításban, jelezd nekünk vagy forkold a repót és küldj egy pull requestet!
+Amennyiben elakadtál, vagy kérdésed van, vedd fel velem a kapcsolatot [Discordon](https://discord.gg/NcptrNxQAp) vagy [Steamen](https://steamcommunity.com/id/krm88/) keresztül.
 
 ### Hogyan kezdj neki?
 
@@ -37,18 +42,3 @@ autonomy_occupation_zone:0 "Megszállási zóna"
 ## Közreműködők
 
 - [Bencúr](https://steamcommunity.com/profiles/76561198344557146)
-
-## Kapcsolat
-
-<p align="center">
-  <a href="https://discord.gg/NcptrNxQAp"><img
-    src=".github/assets/discord.svg"
-    alt="Discord"
-    height="80"
-  /></a>
-  <a href="https://steamcommunity.com/id/krm88/"><img
-    src=".github/assets/steam.svg"
-    alt="Steam"
-    height="80"
-  /></a>
-</p>
