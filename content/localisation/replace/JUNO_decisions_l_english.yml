@@ -1,7 +1,7 @@
 ﻿l_english:
  
- PRU_pastaza_conflict: "Tensions in the Amazon"
- PRU_pastaza_conflict_desc: "Though our leaders settled the border disputes with Colombia in the Rio Protocol of 1934, conflict still looms with the Ecuadorians. They continue to claim areas with ambiguous de-facto owners such as the regions of Napo Pastaza and Santiago Zamora. If there comes an opportunity, we should seize the region from them, by force if necessary."
+ PRU_pastaza_conflict: "Feszültségek az Amazonas-ban"
+ PRU_pastaza_conflict_desc: "Annak ellenére, hogy a vezetőink elintézték a határ viszályokat Kolumbiával az 1934-es riói protokolban, a konfliktus még mindig kiemelkedik az Ekvádoriakkal. They continue to claim areas with ambiguous de-facto owners such as the regions of Napo Pastaza and Santiago Zamora. If there comes an opportunity, we should seize the region from them, by force if necessary."
 
  PRU_start_military_conflict_with_ecuador: "Move to Secure [490.GetName]"
 
