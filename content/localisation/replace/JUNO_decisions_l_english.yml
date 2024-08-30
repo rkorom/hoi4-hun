@@ -81,24 +81,24 @@
  JUNO_purchase_aircraft_tt: "100 darab véletlen típusú repülőgépet fogunk kapni"
 
  CHL_industrial_decisions: " [CHL.GetName] iparosítása"
- CHL_industrial_decisions_desc: "Our economy was shattered by the Wall Street Crash and ensuing depression. For the economy and our people to once again prosper, we must rebuild the industries, restart the exports and branch out our national specialisms."
+ CHL_industrial_decisions_desc: "Gazdaságunk megtört a Wall street-i összeomlásban és az azt követő világválságban. Ahhoz hogy gazdaságunk és népünk újra virágozni tudjon, újjá kell építenünk az ipart, újra elindítani a kivitelt és szétágazni az országos szakterületeket."
 
- CHL_reintigrate_tacna_fascist: "Reintegrate Tacna"
- CHL_intigrate_tierra_del_fuego_fascist: "Integrate Tierra Del Fuego"
- CHL_integrate_rio_de_la_plata: "Integrate the Río de la Plata Region"
+ CHL_reintigrate_tacna_fascist: "Tacna reintegnálása"
+ CHL_intigrate_tierra_del_fuego_fascist: "Tierra Del Fuego integrálása"
+ CHL_integrate_rio_de_la_plata: "A Río de la Plata régió integrálása"
 
- CHL_occupy_the_panama_canal: "Occupy the [685.GetName]"
- CHL_occupy_belize: "Occupy [311.GetName]"
+ CHL_occupy_the_panama_canal: "A(z)[685.GetName] elfoglalása"
+ CHL_occupy_belize: "[311.GetName] elfoglalása"
 
- CHL_invite_peter_adolf_ceasar_to_chile: "Invite Peter Adolf Caesar Hansen to Chile"
- CHL_invite_peter_adolf_ceasar_to_chile_tt: "§YPeter Adolf Caesar Hansen§! becomes a General"
+ CHL_invite_peter_adolf_ceasar_to_chile: " Peter Adolf Caesar Hansen meghívása Chile-be"
+ CHL_invite_peter_adolf_ceasar_to_chile_tt: "§YPeter Adolf Caesar Hansen§! tábornokká válik"
 
- CHL_anti_colonialism_category: "Anti-Colonialism"
+ CHL_anti_colonialism_category: "Gyarmatosítás-ellenesség"
 
- CHL_support_resistance_decision: "Support Anti-[FROM.OWNER.GetAdjective] Resistance in [FROM.GetName]"
- CHL_support_resistance_decision_desc: "Support resistance fighters to overthrow [FROM.Owner.GetAdjective] rule."
- CHL_arm_resistance_decision: "Arm the anti-[FROM.OWNER.GetAdjective] resistance in [FROM.GetName]"
- CHL_arm_resistance_decision_desc: "Arm resistance fighters in this state."
+ CHL_support_resistance_decision: " Anti-[FROM.OWNER.GetAdjective] ellenállás támgoatása [FROM.GetName]-ban"
+ CHL_support_resistance_decision_desc: "Ellenállók támogatása [FROM.Owner.GetAdjective] hatalmának megdöntése végett."
+ CHL_arm_resistance_decision: " Anti-[FROM.OWNER.GetAdjective] ellenálás felfegyverzése [FROM.GetName]-ban"
+ CHL_arm_resistance_decision_desc: "Ellenállók felfegyverzése ebben az államban."
 
  CHL_resistance_support_progress_flag: "Currently training local resistance"
  CHL_arm_resistance_flag: "Arming resistance in a colonial state."
