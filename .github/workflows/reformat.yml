@@ -6,6 +6,9 @@ on:
       - main
   workflow_dispatch:
 
+permissions:
+  contents: write
+
 jobs:
   reformat_and_commit:
     runs-on: ubuntu-latest
@@ -26,15 +29,10 @@ jobs:
       - name: Run reformat script
         run: python scripts/reformat.py
 
-      - name: Check for changes
-        id: changes
-        run: |
-          git diff --exit-code || echo "Changes detected"
-
       - name: Commit and push changes
         run: |
           git config --global user.name "GitHub Action"
           git config --global user.email "action@github.com"
           git add .
           git commit -m "Reformatted files"
-          git push origin main
+          git push
