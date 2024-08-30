@@ -1,7 +1,7 @@
 ﻿l_english:
  
  PRU_pastaza_conflict: "Feszültségek az Amazonas-ban"
- PRU_pastaza_conflict_desc: "Annak ellenére, hogy a vezetőink elintézték a határ viszályokat Kolumbiával az 1934-es riói protokolban, a konfliktus még mindig feltűnik az Ekvádoriakkal. Folytatják területek igénylését a kétes de-facto tulajdonosokkal mint például Napo Pastaza és Santiago Zamora régiója. Ha adatik rá lehetőség, megkell ragadnunk ezeket a régiókat, akár erővel ha szükséges."
+ PRU_pastaza_conflict_desc: "Annak ellenére, hogy a vezetõink elintézték a határ viszályokat Kolumbiával az 1934-es riói protokolban, a konfliktus még mindig feltűnik az Ekvádoriakkal. Folytatják területek igénylését a kétes de-facto tulajdonosokkal mint például Napo Pastaza és Santiago Zamora régiója. Ha adatik rá lehetõség, megkell ragadnunk ezeket a régiókat, akár erõvel ha szükséges."
 
  PRU_start_military_conflict_with_ecuador: " [490.GetName] biztosítása"
 
@@ -14,22 +14,22 @@
  PRU_has_ended_their_invasion_lost: "Már kivonulva az Amazonas-ból"
 
  hispaniola_category: " Hispaniola egyesülése"
- hispaniola_category_desc: "Hosszú és relatív hasonló történelmük ellenére, nyugat és kelet Hispaniola régóta nem lett egyesítve. Most azonban, eljött az idő a sziget egyesítésére!"
+ hispaniola_category_desc: "Hosszú és relatív hasonló történelmük ellenére, nyugat és kelet Hispaniola régóta nem lett egyesítve. Most azonban, eljött az idõ a sziget egyesítésére!"
 
  unite_hispaniola: "Hispaniola egyesítése"
 
  peru_bolivia_category: "A perui-bolíviai konföderáció"
- peru_bolivia_category_desc: "Annak ellenére, hogy a perui-bolíviai konföderáció csak 1836 és 1839 között létezett, még mindig jelen van népünk tudatában. Hogyha vissza szeretnénk régi határaink nagy részét állítani, nem lenne kétségtelen az elveszett állam újjáélesztése és magunk ki kiáltása vezetőjévé."
+ peru_bolivia_category_desc: "Annak ellenére, hogy a perui-bolíviai konföderáció csak 1836 és 1839 között létezett, még mindig jelen van népünk tudatában. Hogyha vissza szeretnénk régi határaink nagy részét állítani, nem lenne kétségtelen az elveszett állam újjáélesztése és magunk ki kiáltása vezetõjévé."
 
  reunite_peru_bolivia: "A konföderáció felélesztése"
 
  guianas_category: "Guyana egyesülése"
- guianas_category_desc: "Guyana régiója régóta a megszálló gyarmatosító erők között van felosztva, magába foglalva Cayenne alterületeit, Guyana, Amapa, Suriname és Guayana-t.Éppen itt az idő a régió felszabadítására a megszálló erőktől!"
+ guianas_category_desc: "Guyana régiója régóta a megszálló gyarmatosító erõk között van felosztva, magába foglalva Cayenne alterületeit, Guyana, Amapa, Suriname és Guayana-t.Éppen itt az idõ a régió felszabadítására a megszálló erõktõl!"
 
  unite_guiana: "Guyana egyesítése"
 
  drill_for_oil_in_chaco_boreal: "Olaj keresése Chaco-ban"
- drill_for_oil_in_chaco_boreal_desc: "Az amerikai "Standard Oil" vállalat olajat fedezett fel a régióban a késő 20-as években, de sosem folytatta tovább felfedezését, mivel túl drágának lett ítélve. Azonban ha szeretnénk, meg kísérelhetnénk végre hajtani a törekvést amit ők nem tettek meg akkoriban."
+ drill_for_oil_in_chaco_boreal_desc: "Az amerikai "Standard Oil" vállalat olajat fedezett fel a régióban a késõ 20-as években, de sosem folytatta tovább felfedezését, mivel túl drágának lett ítélve. Azonban ha szeretnénk, meg kísérelhetnénk végre hajtani a törekvést amit õk nem tettek meg akkoriban."
 
  drill_for_oil_in_chaco_boreal_2: "Mélyebbre kell mennünk"
 
@@ -41,7 +41,8 @@
  improving_our_army_category: "[SMB_armed_forces_decision] fejlesztése"
  improving_our_army_spanish: "Fuerzas Armadas"
  improving_our_army_portugese: "Forças Armadas"
- improving_our_army_category_desc: "Ha azt szeretnénk, hogy seregünknek legyen esélye a gyilkos erő ellen ami az Egyesült Államok, gyorsan modernizálnunk kell azt."
+ improving_our_army_category_desc: "Ha azt szeretnénk, hogy seregünknek legyen esélye a gyilkos erõ ellen ami az Egyesült Államok, gyorsan modernizálni kell azt."
+ 
  decision_cost_CP_40:0 "£command_power  §Y40§!"
  decision_cost_CP_40_blocked:0 "£command_power  §R40§!"
  decision_cost_CP_40_tooltip:0 "Ez a döntés £command_power  §Y40§!-t vesz igénybe."
