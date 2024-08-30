@@ -1,0 +1,65 @@
+name: Post commit tasks
+
+on:
+  push:
+    branches:
+      - main
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  yaml_reformat:
+    runs-on: ubuntu-latest
+    if: github.event.repository.fork == false
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v3
+
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: "3.x"
+
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+
+      - name: Run reformat script
+        run: python scripts/reformat.py
+
+      - name: Commit and push changes
+        run: |
+          git config --global user.name "GitHub Action"
+          git config --global user.email "action@github.com"
+          git add .
+          if git diff-index --quiet HEAD --; then
+            echo "No changes to commit"
+          else
+            git commit -m "Reformat files [GitHub Action]"
+            git push
+          fi
+
+  version_update:
+    runs-on: ubuntu-latest
+    if: github.event.repository.fork == false
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v3
+
+      - name: Update changenote in metadata.vdf
+        run: |
+          # Get the latest commit hash
+          COMMIT_HASH=$(git rev-parse HEAD)
+
+          # Update the changenote field in metadata.vdf
+          sed -i "s#\"changenote\".*#\"changenote\"\t\t\t\"$COMMIT_HASH\"#g" ${{ github.workspace }}/metadata.vdf
+
+      - name: Commit and push version update
+        run: |
+          git config --global user.name "GitHub Action"
+          git config --global user.email "action@github.com"
+          git add ${{ github.workspace }}/metadata.vdf
+          git commit -m "Update changenote to $COMMIT_HASH [GitHub Action]"
+          git push
