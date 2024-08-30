@@ -77,12 +77,12 @@
 
  JUNO_promoted_immigration: "Támogatott bevándorlás"
 
- JUNO_purchase_aircraft: "Repülőgépek vásárlása"
- JUNO_purchasing_aircraft_flag: "Jelenleg repülőgépeket vásárol"
- JUNO_purchase_aircraft_tt: "100 darab véletlen típusú repülőgépet fogunk kapni"
+ JUNO_purchase_aircraft: "Repülõgépek vásárlása"
+ JUNO_purchasing_aircraft_flag: "Jelenleg repülõgépeket vásárol"
+ JUNO_purchase_aircraft_tt: "100 darab véletlen típusú repülõgépet fogunk kapni"
 
  CHL_industrial_decisions: " [CHL.GetName] iparosítása"
- CHL_industrial_decisions_desc: "Gazdaságunk megtört a Wall street-i összeomlásban és az azt követő világválságban. Ahhoz hogy gazdaságunk és népünk újra virágozni tudjon, újjá kell építenünk az ipart, újra elindítani a kivitelt és szétágazni az országos szakterületeket."
+ CHL_industrial_decisions_desc: "Gazdaságunk megtört a Wall street-i összeomlásban és az azt követõ világválságban. Ahhoz hogy gazdaságunk és népünk újra virágozni tudjon, újjá kell építenünk az ipart, újra elindítani a kivitelt és szétágazni az országos szakterületeket."
 
  CHL_reintigrate_tacna_fascist: "Tacna reintegnálása"
  CHL_intigrate_tierra_del_fuego_fascist: "Tierra Del Fuego integrálása"
