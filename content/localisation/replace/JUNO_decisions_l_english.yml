@@ -21,27 +21,27 @@
  peru_bolivia_category: "A perui-bolíviai konföderáció"
  peru_bolivia_category_desc: "Annak ellenére, hogy a perui-bolíviai konföderáció csak 1836 és 1839 között létezett, még mindig jelen van népünk tudatában. Hogyha vissza szeretnénk régi határaink nagy részét állítani, nem lenne kétségtelen az elveszett állam újjáélesztése és magunk ki kiáltása vezetőjévé."
 
- reunite_peru_bolivia: "Revive the Confederation"
+ reunite_peru_bolivia: "A konföderáció felélesztése"
 
- guianas_category: "Uniting Guiana"
- guianas_category_desc: "The Guiana region has long been split among occupying colonialist powers, occupying the sub-regions of Cayenne, Guyana, Amapa, Suriname and Guayana. It is high time the region is liberated from the forces occupying it!"
+ guianas_category: "Guyana egyesülése"
+ guianas_category_desc: "Guyana régiója régóta a megszálló gyarmatosító erők között van felosztva, magába foglalva Cayenne alterületeit, Guyana, Amapa, Suriname és Guayana-t.Éppen itt az idő a régió felszabadítására a megszálló erőktől!"
 
- unite_guiana: "Unite the Guianas"
+ unite_guiana: "Guyana egyesítése"
 
- drill_for_oil_in_chaco_boreal: "Drill for oil in Chaco"
- drill_for_oil_in_chaco_boreal_desc: "The American Company Standard Oil had discovered oil in the region in the late 20s, but chose to never explore it further, as it was deemed to expensive. If we wish however, we could attempt to undertake the endeavor that they did not do back then."
+ drill_for_oil_in_chaco_boreal: "Olaj keresése Chaco-ban"
+ drill_for_oil_in_chaco_boreal_desc: "Az amerikai "Standard Oil" vállalat olajat fedezett fel a régióban a késő 20-as években, de sosem folytatta tovább felfedezését, mivel túl drágának lett ítélve. Azonban ha szeretnénk, meg kísérelhetnénk végre hajtani a törekvést amit ők nem tettek meg akkoriban."
 
- drill_for_oil_in_chaco_boreal_2: "We must drill deeper"
+ drill_for_oil_in_chaco_boreal_2: "Mélyebbre kell mennünk"
 
- JUNO_already_specialized_in_tanks: "Already Specialized in a type of Tanks"
- JUNO_already_specialized_in_tanks_dummy: "Already Specialized in a type of Tanks"
- JUNO_specialize_in_infantry_tanks: "Specialization in Infantry Support Tanks"
- JUNO_specialize_in_breakthrough_tanks: "Specialization in Spearhead Tanks"
+ JUNO_already_specialized_in_tanks: "Már egy tank típusban specializálódott"
+ JUNO_already_specialized_in_tanks_dummy: "Már egy tank típusban specializálódott"
+ JUNO_specialize_in_infantry_tanks: "Specializálódás gyalogsági harckocsikban"
+ JUNO_specialize_in_breakthrough_tanks: "Specializálódás élvonali tankokban"
 
- improving_our_army_category: "Improving the [SMB_armed_forces_decision]"
+ improving_our_army_category: "[SMB_armed_forces_decision] fejlesztése"
  improving_our_army_spanish: "Fuerzas Armadas"
  improving_our_army_portugese: "Forças Armadas"
- improving_our_army_category_desc: "If we want our army to stand a chance against the juggernaut that is the United States, we need to modernize it rapidly."
+ improving_our_army_category_desc: "Ha azt szeretnénk, hogy seregünknek legyen esélye a gyilkos erő ellen ami az Egyesült Államok, gyorsan modernizálni kell azt."
  decision_cost_CP_40:0 "£command_power  §Y40§!"
  decision_cost_CP_40_blocked:0 "£command_power  §R40§!"
  decision_cost_CP_40_tooltip:0 "It costs £command_power  §Y40§! to take the decision"
