@@ -1,4 +1,4 @@
-name: Reformat and Commit
+name: YAML files reformat
 
 on:
   push:
@@ -34,5 +34,5 @@ jobs:
           git config --global user.name "GitHub Action"
           git config --global user.email "action@github.com"
           git add .
-          git commit -m "Reformat [GitHub Action]"
+          git commit -m "Reformat files [GitHub Action]"
           git push
