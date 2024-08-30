@@ -1,25 +1,25 @@
 ﻿l_english:
  
  PRU_pastaza_conflict: "Feszültségek az Amazonas-ban"
- PRU_pastaza_conflict_desc: "Annak ellenére, hogy a vezetőink elintézték a határ viszályokat Kolumbiával az 1934-es riói protokolban, a konfliktus még mindig kiemelkedik az Ekvádoriakkal. They continue to claim areas with ambiguous de-facto owners such as the regions of Napo Pastaza and Santiago Zamora. If there comes an opportunity, we should seize the region from them, by force if necessary."
+ PRU_pastaza_conflict_desc: "Annak ellenére, hogy a vezetőink elintézték a határ viszályokat Kolumbiával az 1934-es riói protokolban, a konfliktus még mindig feltűnik az Ekvádoriakkal. Folytatják területek igénylését a kétes de-facto tulajdonosokkal mint például Napo Pastaza és Santiago Zamora régiója. Ha adatik rá lehetőség, megkell ragadnunk ezeket a régiókat, akár erővel ha szükséges."
 
- PRU_start_military_conflict_with_ecuador: "Move to Secure [490.GetName]"
+ PRU_start_military_conflict_with_ecuador: " [490.GetName] biztosítása"
 
- PRU_has_invaded_ecuador: "§YPeru§! has Invaded §YEcuador§!"
- PRU_has_ended_their_invasion: "§YPeru§! has Ended their Invasion of §YEcuador§!"
+ PRU_has_invaded_ecuador: "§YPeru§! megtámadta §YEcuador§-t!"
+ PRU_has_ended_their_invasion: "§YPeru§! felhagyott az §YEcuador§! elleni támadásával"
 
- PRU_force_peace_ecuador_good: "Enforce Our Claims to [490.GetName]"
- PRU_has_ended_their_invasion_won: "Already pressed claims on [490.GetName]"
- PRU_force_peace_ecuador_bad: "Withdraw from the Amazon"
- PRU_has_ended_their_invasion_lost: "Already withdrawn from the Amazon"
+ PRU_force_peace_ecuador_good: "Követeléseink érvényesítése [490.GetName]-hoz"
+ PRU_has_ended_their_invasion_won: "Már érvényesített követelések [490.GetName]-on"
+ PRU_force_peace_ecuador_bad: "Kivonulás az Amazonas-ból"
+ PRU_has_ended_their_invasion_lost: "Már kivonulva az Amazonas-ból"
 
- hispaniola_category: "The Unification of Hispaniola"
- hispaniola_category_desc: "Despite its long and relatively similar history, west and east Hispaniola haven't been unified since long ago. Now however, the time has come for unification of the island!"
+ hispaniola_category: " Hispaniola egyesülése"
+ hispaniola_category_desc: "Hosszú és relatív hasonló történelmük ellenére, nyugat és kelet Hispaniola régóta nem lett egyesítve. Most azonban, eljött az idő a sziget egyesítésére!"
 
- unite_hispaniola: "Unite Hispaniola"
+ unite_hispaniola: "Hispaniola egyesítése"
 
- peru_bolivia_category: "The Peru-Bolivian Confederation"
- peru_bolivia_category_desc: "Though the Peru-Bolivian Confederation only lasted between 1836 and 1839, it is still etched into the mind of our people. If we were to restore a large portion of the old borders, it would not be out of the question for us to once again revive the lost state, and proclaim ourselves the new leaders of it."
+ peru_bolivia_category: "A perui-bolíviai konföderáció"
+ peru_bolivia_category_desc: "Annak ellenére, hogy a perui-bolíviai konföderáció csak 1836 és 1839 között létezett, még mindig jelen van népünk tudatában. Hogyha vissza szeretnénk régi határaink nagy részét állítani, nem lenne kétségtelen az elveszett állam újjáélesztése és magunk ki kiáltása vezetőjévé."
 
  reunite_peru_bolivia: "Revive the Confederation"
 
@@ -502,7 +502,7 @@
  CHL_released_charrua_flag: "Released Charrua"
  CHL_released_Itza_flag: "Released Itza"
  CHL_released_nahua_flag: "Released Nahua"
- CHL_released_isthmo_amerindia_flag: "Released Isthmo Amerindia"
+ CHL_released_isthmo_amerindia_flag: "Released Isthmo Amerindia"      
  CHL_reorganized_bolivia_flag: "Reorganized Bolivia"
  CHL_reorganized_brazil_flag: "Reorganized Brazil"
  CHL_reorganized_mexico_flag: "Reorganized Mexico"
