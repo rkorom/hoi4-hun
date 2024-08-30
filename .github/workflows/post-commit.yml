@@ -49,16 +49,13 @@ jobs:
           # Get the latest commit hash
           COMMIT_HASH=$(git rev-parse HEAD)
 
-          # Extract the last 7 characters of the commit hash
-          SHORT_HASH=${COMMIT_HASH: -7}
-
           # Update the changenote field in metadata.vdf
-          sed -i "s#\"changenote\".*#\"changenote\"\t\t\t\"$SHORT_HASH\"#g" ${{ github.workspace }}/metadata.vdf
+          sed -i "s#\"changenote\".*#\"changenote\"\t\t\t\"$COMMIT_HASH\"#g" ${{ github.workspace }}/metadata.vdf
 
       - name: Commit and push version update
         run: |
           git config --global user.name "GitHub Action"
           git config --global user.email "action@github.com"
           git add ${{ github.workspace }}/metadata.vdf
-          git commit -m "Update changenote to $SHORT_HASH [GitHub Action]"
+          git commit -m "Update changenote to $COMMIT_HASH [GitHub Action]"
           git push
