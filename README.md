@@ -9,6 +9,11 @@ Iratkozz fel a modra [Steam Workshop](https://steamcommunity.com/sharedfiles/fil
 
 Amennyiben a játékot nem a Steamen keresztül vásároltad meg, úgy a [content](content) mappában található fájlokat kell a játék mappájába másolnod kézileg. Fontos, hogy ebben az esetben a mod nem fog automatikusan frissülni, így neked kell gondoskodnod a fordítások rendszeres frissítéséről.
 
+## Közreműködők
+
+[![Contributors](.github/assets/contributors.svg)](https://github.com/rkorom/hoi4-hun/graphs/contributors)
+
+ 
 ## Segítenél a fordításban?
 
 Ha észrevételeid vannak, vagy hibát találtál a fordításban, jelezd nekünk vagy forkold a repót és küldj egy pull requestet!
@@ -39,6 +44,4 @@ Ebben az esetben a `autonomy_occupation_zone` a kulcs, amelynek a fordítása a 
 autonomy_occupation_zone:0 "Megszállási zóna"
 ```
 
-## Közreműködők
-
-- [Bencúr](https://steamcommunity.com/profiles/76561198344557146)
+__Hivatalos dokumentáció a fordításról: [Paradox Interactive - Localisation](https://hoi4.paradoxwikis.com/Localisation)__
