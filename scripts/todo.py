@@ -2,10 +2,16 @@ import os
 import csv
 
 
-def check_translation(srcDir, destDir, output_file="todo.csv"):
+def check_translation(srcDir, destDir, output_file="todo.csv", ignore_files=None):
+    if ignore_files is None:
+        ignore_files = []
+
     to_translate = []
 
     for filename in os.listdir(srcDir):
+        if filename in ignore_files:
+            continue  # Skip files that are in the ignore list
+
         src_file_path = os.path.join(srcDir, filename)
         dst_file_path = os.path.join(destDir, filename)
 
@@ -19,7 +25,12 @@ def check_translation(srcDir, destDir, output_file="todo.csv"):
                         continue  # Skip the first line
                     row = line.split(":", 1)  # Split only at the first colon
                     if len(row) == 2:
-                        srcKeys[row[0].strip()] = row[1].strip()  # Clean key and value
+                        key = row[0].strip()
+                        value = row[1].strip()
+                        if not (value.startswith('"$') and value.endswith('$"')):
+                            srcKeys[key] = (
+                                value  # Clean key and value, and skip if value is surrounded by "$"
+                            )
 
             # Read the destination file
             with open(dst_file_path, "r", encoding="utf-8") as dst_file:
@@ -28,7 +39,12 @@ def check_translation(srcDir, destDir, output_file="todo.csv"):
                         continue  # Skip the first line
                     row = line.split(":", 1)  # Split only at the first colon
                     if len(row) == 2:
-                        destKeys[row[0].strip()] = row[1].strip()  # Clean key and value
+                        key = row[0].strip()
+                        value = row[1].strip()
+                        if not (value.startswith('"$') and value.endswith('$"')):
+                            destKeys[key] = (
+                                value  # Clean key and value, and skip if value is surrounded by "$"
+                            )
 
             # Compare keys
             for key, value in srcKeys.items():
@@ -47,7 +63,8 @@ def check_translation(srcDir, destDir, output_file="todo.csv"):
 def main():
     src_directory = "D:/Steam/steamapps/common/Hearts of Iron IV/localisation/english"
     dest_directory = os.path.join(os.getcwd(), "content", "localisation", "replace")
-    check_translation(src_directory, dest_directory)
+    ignore_files = ["aat_characters_l_english.yml"]  # List of files to ignore
+    check_translation(src_directory, dest_directory, ignore_files=ignore_files)
 
 
 if __name__ == "__main__":
