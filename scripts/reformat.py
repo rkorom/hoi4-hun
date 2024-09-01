@@ -25,7 +25,7 @@ def reformat_files(directory):
 
 
 def main():
-    target_directory = os.path.join(os.getcwd(), "content", "localisation", "replace")
+    target_directory = os.path.join(os.getcwd(), "src", "content", "localisation", "replace")
     reformat_files(target_directory)
 
 

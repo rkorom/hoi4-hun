@@ -62,7 +62,7 @@ def check_translation(srcDir, destDir, output_file="todo.csv", ignore_files=None
 
 def main():
     src_directory = "D:/Steam/steamapps/common/Hearts of Iron IV/localisation/english"
-    dest_directory = os.path.join(os.getcwd(), "content", "localisation", "replace")
+    dest_directory = os.path.join(os.getcwd(), "src", "content", "localisation", "replace")
     ignore_files = ["aat_characters_l_english.yml"]  # List of files to ignore
     check_translation(src_directory, dest_directory, ignore_files=ignore_files)
 

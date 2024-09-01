@@ -7,7 +7,7 @@ Azóta számos próbálkozás történt a magyarosítás megvalósítására, de
 
 Iratkozz fel a modra [Steam Workshop](https://steamcommunity.com/sharedfiles/filedetails/?id=3281592737)-on keresztül, majd állítsd be a játék nyelvének az angolt. A magyarosítás automatikusan kicseréli az angol szövegeket magyarra.
 
-Amennyiben a játékot nem a Steamen keresztül vásároltad meg, úgy a [content](content) mappában található fájlokat kell a játék mappájába másolnod kézileg. Fontos, hogy ebben az esetben a mod nem fog automatikusan frissülni, így neked kell gondoskodnod a fordítások rendszeres frissítéséről.
+Amennyiben a játékot nem a Steamen keresztül vásároltad meg, úgy a(z) [src/content](src/content) mappában található fájlokat kell a játék mappájába másolnod kézileg. Fontos, hogy ebben az esetben a mod nem fog automatikusan frissülni, így neked kell gondoskodnod a fordítások rendszeres frissítéséről.
 
 ## Közreműködők
 
@@ -27,9 +27,9 @@ A hiányzó szövegeket a [todo.csv](todo.csv) fájlban találod az alábbi form
 | --------------------- | ----------------------------- |
 | aat_bop_l_english.yml | SWE_riksdag_political_balance |
 
-Ebben az esetben a `aat_bop_l_english.yml` a fájl neve, a `SWE_riksdag_political_balance` pedig a kulcs, amelynek a fordítása hiányzik.
+A fenit példában a(z) `aat_bop_l_english.yml` a fájl neve, a(z) `SWE_riksdag_political_balance` pedig a kulcs, amelynek a fordítása hiányzik.
 
-A fordítási fájlokat a [content/localisation/replace](content/localisation/replace) mappában találod.
+A fordítási fájlokat a [src/content/localisation/replace](src/content/localisation/replace) mappában találod.
 A fájlok a `yml` kiterjesztésűek, amelyek YAML formátumban vannak írva.
 
 Például:
@@ -45,3 +45,11 @@ autonomy_occupation_zone:0 "Megszállási zóna"
 ```
 
 __Hivatalos dokumentáció a fordításról: [Paradox Interactive - Localisation](https://hoi4.paradoxwikis.com/Localisation)__
+
+### Projekt struktúra
+
+1. __`.github/` mappa__: A GitHub-specifikus beállítások, mint például a workflow-k (GitHub Actions), a hozzájárulási útmutatók, és egyéb GitHub-specifikus fájlok tárolása.
+2. __`.vscode/` mappa__:  A Visual Studio Code-specifikus beállítások tárolása.
+3. __`scripts/`__ mappa: Különböző segédszkriptek, például formázási és fordítási szkriptek tárolása. Ez a mappa lehetővé teszi a fejlesztéshez szükséges segédeszközök elkülönítését.
+4. __`src/` mappa__: A projekt forrásfájljainak tárolása, ebben az esetben a mod tartalmai, mint a `content`, valamint a modhoz szükséges egyéb fájlok, mint a `descriptor.mod`, `metadata.vdf`, és a `preview.jpg`.
+5. __Projekt gyökérmappája__:  Itt találhatók a globális konfigurációs fájlok, licenc, README, és más dokumentációs fájlok.

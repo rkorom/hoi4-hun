@@ -9,11 +9,11 @@ logging.basicConfig(
     handlers=[logging.StreamHandler(), logging.FileHandler("update_log.txt", mode="w")],
 )
 
-destDir = os.path.join(os.getcwd(), "content", "localisation", "replace")
+destDir = os.path.join(os.getcwd(), "src", "content", "localisation", "replace")
 
 
 def update(
-    srcDir, destDir=os.path.join(os.getcwd(), "content", "localisation", "replace")
+    srcDir, destDir=os.path.join(os.getcwd(), "src", "content", "localisation", "replace")
 ):
     for filename in os.listdir(srcDir):
 
