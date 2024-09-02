@@ -41,25 +41,25 @@ jobs:
             git push
           fi
 
-  version_update:
-    runs-on: ubuntu-latest
-    if: github.event.repository.fork == false
-    steps:
-      - name: Checkout repository
-        uses: actions/checkout@v3
+  # version_update:
+  #   runs-on: ubuntu-latest
+  #   if: github.event.repository.fork == false
+  #   steps:
+  #     - name: Checkout repository
+  #       uses: actions/checkout@v3
 
-      - name: Update changenote in metadata.vdf
-        run: |
-          # Get the latest commit hash
-          COMMIT_HASH=$(git rev-parse HEAD)
+  #     - name: Update changenote in metadata.vdf
+  #       run: |
+  #         # Get the latest commit hash
+  #         COMMIT_HASH=$(git rev-parse HEAD)
 
-          # Update the changenote field in metadata.vdf
-          sed -i "s#\"changenote\".*#\"changenote\"\t\t\t\"$COMMIT_HASH\"#g" ${{ github.workspace }}/src/metadata.vdf
+  #         # Update the changenote field in metadata.vdf
+  #         sed -i "s#\"changenote\".*#\"changenote\"\t\t\t\"$COMMIT_HASH\"#g" ${{ github.workspace }}/src/metadata.vdf
 
-      - name: Commit and push version update
-        run: |
-          git config --global user.name "GitHub Action"
-          git config --global user.email "action@github.com"
-          git add ${{ github.workspace }}/src/metadata.vdf
-          git commit -m "Update changenote [GitHub Action]"
-          git push
+  #     - name: Commit and push version update
+  #       run: |
+  #         git config --global user.name "GitHub Action"
+  #         git config --global user.email "action@github.com"
+  #         git add ${{ github.workspace }}/src/metadata.vdf
+  #         git commit -m "Update changenote [GitHub Action]"
+  #         git push
