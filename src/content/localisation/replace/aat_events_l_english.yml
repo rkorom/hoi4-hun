@@ -82,64 +82,64 @@
   AAT_norway.3.desc: "A Knudsen villáján történt összetűzés után világossá vált, hogy a politikai helyzet tele van veszélyekkel, mivel a kommunisták és fasiszták egymás torkának estek.\n\nA civakodást és a politikai zűrzavart meg kell oldani. Trotskij jelenléte kockáztatja, hogy [SOU.GetNameDef] haragját magunkra vonjuk, és ugyanakkor a Nasjonal Samling biztosan átadja az országot [FGR.GetLeader]-nek az elsõ adandó alkalommal, így befolyásukat mindenáron korlátozni kell.\n\nA legjobb megoldás, ha Mexikóba küldjük õt, ahol [MEX.GetLeader] beleegyezett, hogy befogadja az országba."
   AAT_norway.3.a: "Ez Norvégia túlélése érdekében történik"
 
-  AAT_norway.4.t: "Trotskij joins our government!"
-  AAT_norway.4.desc: "The solution to the [NOR.GetAdjective] people's woes was right under our noses. [NOR_lev_trotsky.GetName] is not only one of the greatest Marxist writers of our time, but also a charismatic revolutionary and an outstanding general.\n\nThis will certainly cause some tension with [SOV.GetNameDef], but it will be worth it. After all, his experience can lead our young nation, and the workers of Scandinavia to greatness."
-  AAT_norway.4.a: "One nation's exile is another one's savior!"
+  AAT_norway.4.t: "Trotskij csatlakozik a kormányunkhoz!"
+  AAT_norway.4.desc: "A [NOR.GetAdjective] nép problémáinak megoldása az orrunk előtt volt. [NOR_lev_trotsky.GetName] nem csak korunk egyik legnagyobb marxista írója, hanem karizmatikus forradalmár és kiváló hadvezér is.\n\nEz bizonyosan feszültséget okoz majd [SOV.GetNameDef]-vel, de megéri. Végül is, tapasztalata fiatal nemzetünket és Skandinávia munkásait nagyságra vezetheti."
+  AAT_norway.4.a: "Egy nemzet száműzöttje a másik megmentője!"
+
+  AAT_norway.5.t: "[NOR_lev_trotsky.GetName] bebörtönözve!"
+  AAT_norway.5.desc: "Mások talán azt mondanák, hogy a Knudsen otthonában talált bizonyítékok gyenge lábakon állnak, jelentéktelenek vagy akár kitaláltak is, és igazuk lehet, de talán bizonyos körülmények között egy bíró elfogadhatja azok érvényességét. Emellett az is tény, hogy jelenleg nem kockáztathatjuk a Nasjonal Samling elidegenítését. Ezért [NOR_lev_trotsky.GetName] azonnali hatállyal őrizetbe került.\n\nAz, hogy mikor vagy hogyan látja meg újra a napvilágot, jelenleg nem fontos, de gondoskodunk arról, hogy legalább jobb körülmények között legyen, mint Szibériában."
+  AAT_norway.5.a: "Meg kellett állítani"
+
+  AAT_norway.6.t: "Trotskij sorsa"
+  AAT_norway.6.desc: "Már egy ideje házi őrizetben tartjuk [NOR_lev_trotsky.GetName]-t egy farmon Hurumban, és ez nem tűnik jó megoldásnak semelyik érintett fél számára. [SOV.GetNameDefCap] kiadatását követeli, a Nasjonal Samling az akasztását akarja, és mindenki más, aki nem megrögzött trotskista, azt akarja, hogy eltűnjön. El kell döntenünk, mit kezdünk ezzel a problémás száműzöttel.\n\nA mexikói elnök [MEX.GetLeader] felajánlotta, hogy befogadja, ha úgy döntünk, hogy hagyjuk folytatni száműzetését, de akár elküldhetjük [SOV.GetLeader]-hez is baráti gesztusként."
+  AAT_norway.6.a: "Élvezni fogja a mexikói napsütést"
+  AAT_norway.6.b: "Sztálin imádni fog minket ezért!"
+
+  AAT_norway.7.t: "[get_trotsky_lastname] megérkezik Mexikóba"
+  AAT_norway.7.desc: "Évek kínos száműzetése után hazánkban, a problémás száműzött [NOR_lev_trotsky] megérkezett Mexikóba, ahol Frida Kahlo és Diego Rivera festőművészek látják vendégül, akik biztosan jól kijönnek majd vele és feleségével.\n\nValószínűleg biztonságban lesz [SOV.GetNameDef]-től, de ami a legfontosabb, már nem a mi problémánk lesz."
+  AAT_norway.7.a: "Végre némi nyugalom"
   
-  AAT_norway.5.t: "[NOR_lev_trotsky.GetName] imprisoned!"
-  AAT_norway.5.desc: "Others may call the evidence found in Knudsen's home flimsy, inconsequential or even fabricated, and they could be right, but perhaps at some point, under certain circumstances a judge will accept its validity. Besides, the fact remains that we cannot risk alienating the Nasjonal Samling at this moment. This is why [NOR_lev_trotsky.GetName] has been put into custody, effective immediately.\n\nWhen, or how, he will see the light of day again is a matter of little importance at the moment, but we will make sure he at least has better accommodation than he had in Siberia."
-  AAT_norway.5.a: "He had to be stopped"
-  
-  AAT_norway.6.t: "The Fate of Trotskij"
-  AAT_norway.6.desc: "It's been some time since we put [NOR_lev_trotsky.GetName] in house arrest in a farm in Hurum, and it does not seem to be a good arrangement for any party involved. [SOV.GetNameDefCap] wants extradition, the Nasjonal Samling wants him hanged, and everyone else who is not a die-hard trotskyist wants him out. We need to decide what to do with this troublesome exile.\n\nThe Mexican President [MEX.GetLeader] has offered to take him in if we choose to let him continue his exile, but we could also just send him to [SOV.GetLeader] as a token of friendship."
-  AAT_norway.6.a: "He will enjoy the Mexican sunshine"
-  AAT_norway.6.b: "Stalin will love us for this!" 
-  
-  AAT_norway.7.t: "[get_trotsky_lastname] Arrives in Mexico"
-  AAT_norway.7.desc: "After years of awkward exile in our country, the troublesome exile [NOR_lev_trotsky] has arrived in Mexico, where he will be hosted by the painters Frida Kahlo and Diego Rivera, who will certainly get along swimmingly with him and his wife.\n\nHe will probably be safe from [SOV.GetNameDef], but most importantly, he won't be our problem anymore."
-  AAT_norway.7.a: "Finally some peace"
-  
-  AAT_norway.8.t: "[get_trotsky_lastname] Arrives to Moscow"
-  AAT_norway.8.desc_SOV: "We have dreamed of this moment for years. The treacherous snake [SOV_lev_trotsky.GetName] is in our possession. He will pay for his crimes against The Revolution, and most importantly, against comrade Stalin. Not that there is any difference between those in the eyes of the proletariat."
-  AAT_norway.8.desc_NOR: "The troublesome former revolutionary [NOR_lev_trotsky.GetName] was taken to Moscow, where he will be contained, or perhaps executed depending on [SOU.GetLeader]'s whims.\n\nRegardless of his fate, we can finally wash our hands off this lengthy affair, with the added benefit of growing closer to [SOU.GetNameDef]."
-  AAT_norway.8.a: "Finally!"
-  AAT_norway.8.b: "Good Riddance!"
-  
-  AAT_norway.9.t: "Nygaardsvold's Cabinet"
-  AAT_norway.9.desc: "The government led by the Labor Party, with [NOR_johan_nygaardsvold.GetName] at the helm, is the first stable government with a clear majority our young nation has ever had. The cabinet has been hard at work for the past year, pushing for measures that, albeit slowly, will help [NOR.GetName] come out of the deep economic crisis the country is in right now, securing the welfare of the people living in it.\n\nOf course, these measures come of at the cost of any military preparations we might need should we found ourselves enveloped by war. We can only hope these won't be needed."
-  AAT_norway.9.a: "Only peace and stability ahead!"
-  
-  AAT_norway.10.t: "The Storting Stumbles"
-  AAT_norway.10.desc: "As war in Europe looms ever more inevitable, the [NOR.GetAdjective] parliament, or Storting, is rocked by waves of chaos and discord. The indications that the Nygaardsvold cabinet would bring forth an era of stability are long forgotten, as members of parliament can't seem to agree on any coherent measure to steer [NOR.GetName] safely through the coming storm.\n\nMeanwhile, the enemies of the people sharpen their knives to feast on the strife, growing until [NOR.GetName] is consumed by the flames of war."
-  AAT_norway.10.a: "How fast will our fall be?"
-  
-  AAT_norway.11.t: "The People of [ROOT.GetName] Are Waking Up!"
-  AAT_norway.11.desc: "After centuries of being subjugated by other Scandinavian powers, then left at the mercy of the capitalist industrialists, the people of [ROOT.GetNonIdeologyName] are learning to stand together against their oppressors and reject their hegemony.\n\nNow the [ROOT.GetAdjective]s are looking for an inspiration for their revolution!"
-  AAT_norway.11.a: "The people of this ancient land are asleep no more!"
-  
-  AAT_norway.12.t: "No Confidence Vote Against Johan Nygaardsvold"
-  AAT_norway.12.desc: "Despite its early promise, it seems the government that Johan Nygaardsvold formed last year was not only failing to deliver, but was also hell-bent on disarming. Many members of the parliament believed that [ROOT.GetName] should develop its industry in a way that allows for investing in the fledgling [NOR.GetAdjective] armed forces, with the intent of deterring a foreign power from invading.\n\nAnd so, a vote of no confidence was triggered by members of the conservative party, Høyre. Though its chairman, the industrialist Johan H. Andresen was already thinking about retiring, he's seized the opportunity to lead Norway in a new direction; presenting himself as the pragmatic and efficient alternative to Nygaardsvold's social progress dreams."
-  AAT_norway.12.a: "Nygaardsvold is out, Andresen is in"
-  
-  AAT_norway.13.t: "Quisling's Coup"
-  AAT_norway.13.desc: "While we were busy moving our economy forward and keeping a watchful eye over the fascists abroad, we allowed domestic fascism to fester, right under our noses. Despite his diminishing base of support and his party, the Nasjonal Samling, never achieving a single seat in the storting, Vidkun Quisling formed a [?NOR.NOR_cw_fascist_attacker.GetAdjective]-backed government, and claims to have seized the levers of power in [ROOT.GetNonIdeologyName]."
-  AAT_norway.13.a: "Quisling's time has finally come!"
-  AAT_norway.13.b: "The people of [ROOT.GetNonIdeologyName] will never forgive you, traitor."
-  AAT_norway.13.c: "We must do everything in our power to delay them!"
-  
-  AAT_norway.14.t: "A useful collaborator"
-  AAT_norway.14.desc: "Vidkun Quisling, who for years has been the biggest proponent of Fascism in [NOR.GetNonIdeologyName], has offered his help in our invasion of his fatherland.\n\nHe wants to launch a coup d'etat in Oslo with our support, and establish a regime friendly to [ROOT.GetNameDef]. Once settled, he will pave the way of our invasion and legitimize the [ROOT.GetAdjective] occupation of [NOR.GetName]."
-  AAT_norway.14.a: "He will be useful"
-  AAT_norway.14.b: "This buffoon? We'll take care of [NOR.GetNonIdeologyName] ourselves."
-  
-  AAT_norway.15.t: "Quisling's Coup is Inevitable Now!"
-  AAT_norway.15.desc: "Despite our best efforts, Vidkun Quisling has launched his attempt to seize power in Oslo. With support from the invading fascists, he is broadcasting his proclamation of a new government, dedicated to collaboration with our enemies.\n\nThere is no way to dress this, we were losing before and this coup will only exacerbate our war efforts."
-  AAT_norway.15.a: "The future of [NOR.GetName] might unfortunately be Quisling's"
-  AAT_norway.15.b: "We will fight on!"
-  
-  AAT_norway.16.t: "We are exiled but not empty handed"
-  AAT_norway.16.desc: "Despite our tragic retreat from [NOR.GetName], we can at least find solace in the fact that our leaders had the foresight to prepare for the worst and diverted resources to serve us in retaking [NOR.GetAdjective] territory.\n\nThese tools should make it easier to start the odyssey to our shores of old."
-  AAT_norway.16.a: "We'll be back!"
+  AAT_norway.8.t: "[get_trotsky_lastname] Moszkvába érkezik"
+  AAT_norway.8.desc_SOV: "Éveken át álmodtunk erről a pillanatról. Az áruló kígyó, [SOV_lev_trotsky.GetName], most a mi kezünkben van. Meg fog fizetni a forradalom, és legfőképpen Sztálin elvtárs ellen elkövetett bűneiért. Nem mintha a proletariátus szemében lenne különbség e kettő között."
+  AAT_norway.8.desc_NOR: "A problémás egykori forradalmárt, [NOR_lev_trotsky.GetName]-t Moszkvába szállították, ahol vagy fogva tartják, vagy akár kivégzik, attól függően, hogy [SOU.GetLeader] mit dönt.\n\nBármi is lesz a sorsa, végre megszabadulhatunk ettől a hosszadalmas ügytől, és közelebb kerülhetünk [SOU.GetNameDef]-hez."
+  AAT_norway.8.a: "Végre!"
+  AAT_norway.8.b: "Jó megszabadulni tőle!"
+
+  AAT_norway.9.t: "Nygaardsvold kormánya"
+  AAT_norway.9.desc: "A Munkáspárt által vezetett kormány, élén [NOR_johan_nygaardsvold.GetName]-nel, az első stabil kormány, amely világos többséggel rendelkezik, amit fiatal nemzetünk valaha is látott. A kabinet az elmúlt évben keményen dolgozott, olyan intézkedéseket hozva, amelyek, bár lassan, de segítenek [NOR.GetName]-nek kilábalni az országot sújtó mély gazdasági válságból, biztosítva a benne élő emberek jólétét.\n\nTermészetesen ezek az intézkedések azzal a költséggel járnak, hogy minden katonai előkészületet fel kell adni, amelyekre szükségünk lehet, ha háborúba keverednénk. Csak reménykedhetünk, hogy ezekre nem lesz szükség."
+  AAT_norway.9.a: "Csak béke és stabilitás előttünk!"
+
+  AAT_norway.10.t: "A Storting botladozik"
+  AAT_norway.10.desc: "Ahogy az európai háború egyre elkerülhetetlenebbé válik, a [NOR.GetAdjective] parlament, vagyis a Storting, káosz és széthúzás hullámaitól szenved. A jelek, hogy a Nygaardsvold kabinet stabilitást hozna, már rég feledésbe merültek, mivel a parlamenti tagok nem tudnak megegyezni semmilyen koherens intézkedésben, amely biztonságosan átnavigálná [NOR.GetName]-t a közelgő viharon.\n\nEközben a nép ellenségei élezik késeiket, hogy lakomázhassanak a széthúzáson, míg [NOR.GetName] el nem pusztul a háború lángjaiban."
+  AAT_norway.10.a: "Milyen gyors lesz a bukásunk?"
+
+  AAT_norway.11.t: "[ROOT.GetName] népe felébred!"
+  AAT_norway.11.desc: "Miután évszázadokon át más skandináv hatalmak alávetettek minket, majd a kapitalista iparosok kegyére hagytak, [ROOT.GetNonIdeologyName] népe megtanul együtt fellépni elnyomóik ellen, és elutasítani hegemóniájukat.\n\nMost a [ROOT.GetAdjective]k inspirációt keresnek forradalmukhoz!"
+  AAT_norway.11.a: "Ezen ősi föld népe többé nem alszik!"
+
+  AAT_norway.12.t: "Bizalmatlansági szavazás Johan Nygaardsvold ellen"
+  AAT_norway.12.desc: "Annak ellenére, hogy kezdetben ígéretesnek tűnt, úgy tűnik, hogy Johan Nygaardsvold tavaly alakított kormánya nemcsak hogy nem teljesített, de még a leszerelésre is elszánt volt. Sok parlamenti képviselő úgy vélte, hogy [ROOT.GetName]-nek úgy kell fejlesztenie iparát, hogy az lehetővé tegye a [NOR.GetAdjective] hadsereg megerősítését, amely elrettenthet egy idegen hatalmat a megszállástól.\n\nÍgy a konzervatív párt, a Høyre tagjai bizalmatlansági indítványt kezdeményeztek. Bár a pártelnök, az iparos Johan H. Andresen már a visszavonulást fontolgatta, megragadta az alkalmat, hogy új irányba vezesse Norvégiát, pragmatikus és hatékony alternatívaként bemutatva magát Nygaardsvold szociális progresszióról szóló álmai helyett."
+  AAT_norway.12.a: "Nygaardsvold kint van, Andresen bent van"
+
+  AAT_norway.13.t: "Quisling puccsa"
+  AAT_norway.13.desc: "Miközben gazdaságunk előmozdításával és a külföldi fasiszták figyelésével voltunk elfoglalva, hagytuk, hogy a hazai fasizmus az orrunk előtt burjánozzon. Annak ellenére, hogy támogatottsága csökkent, és pártja, a Nasjonal Samling soha nem szerzett egyetlen helyet sem a stortingban, Vidkun Quisling egy [?NOR.NOR_cw_fascist_attacker.GetAdjective] támogatású kormányt alakított, és azt állítja, hogy átvette a hatalmat [ROOT.GetNonIdeologyName]-ban."
+  AAT_norway.13.a: "Quisling ideje végre elérkezett!"
+  AAT_norway.13.b: "[ROOT.GetNonIdeologyName] népe soha nem fog megbocsátani neked, áruló."
+  AAT_norway.13.c: "Mindent meg kell tennünk, hogy késleltessük őket!"
+
+  AAT_norway.14.t: "Egy hasznos kollaboráns"
+  AAT_norway.14.desc: "Vidkun Quisling, aki évek óta a fasizmus legnagyobb támogatója [NOR.GetNonIdeologyName]-ban, felajánlotta segítségét hazája megszállásában.\n\nÁllamcsínyt akar indítani Oslóban a támogatásunkkal, és egy [ROOT.GetNameDef]-barát rezsimet akar létrehozni. Ha hatalomra kerül, megnyitja az utat inváziónk előtt, és legitimálja [NOR.GetName] [ROOT.GetAdjective] megszállását."
+  AAT_norway.14.a: "Hasznos lesz"
+  AAT_norway.14.b: "Ez a bohóc? [NOR.GetNonIdeologyName]-t mi magunk fogjuk kezelni."
+
+  AAT_norway.15.t: "Quisling puccsa most már elkerülhetetlen!"
+  AAT_norway.15.desc: "Legjobb erőfeszítéseink ellenére Vidkun Quisling megkezdte hatalomátvételi kísérletét Oslóban. A fasiszta megszállók támogatásával egy új kormány megalakulását hirdeti, amely elkötelezett az ellenségeinkkel való együttműködés mellett.\n\nEzt nem lehet szépíteni, már korábban is vesztésre álltunk, és ez a puccs csak tovább rontja hadviselési erőfeszítéseinket."
+  AAT_norway.15.a: "[NOR.GetName] jövője sajnos Quislingé lehet"
+  AAT_norway.15.b: "Tovább harcolunk!"
+
+  AAT_norway.16.t: "Száműzöttként, de nem üres kézzel"
+  AAT_norway.16.desc: "Annak ellenére, hogy tragikus visszavonulásra kényszerültünk [NOR.GetName]-ből, legalább az vigasztalhat bennünket, hogy vezetőink előrelátással készültek a legrosszabbra, és erőforrásokat irányítottak át, amelyek segíteni fognak visszaszerezni [NOR.GetAdjective] területeinket.\n\nEzek az eszközök megkönnyítik majd az ősi partjainkhoz való visszatérésünket."
+  AAT_norway.16.a: "Visszatérünk!"
 
   AAT_norway.17.t: "[NOR.GetAdjective] Territorial Demands"
   AAT_norway.17.desc_monarchist: "Citing centuries-old documents, the [FROM.GetAdjective] crown is claiming that we are in control of territories that are De Jure part of the royal titles inherited by King Haakon VII of Norway.\n\nMore specifically, they refer to [GetNorwegianClaims]."
