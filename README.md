@@ -1,4 +1,4 @@
-# HOI4 magyarosítás
+# Hearts of Iron IV magyarosítás
 
 Mint tudjuk, a Paradox Magyarország készített egy fordítást a játékhoz, amely 2020 óta nem került frissítésre.
 Azóta számos próbálkozás történt a magyarosítás megvalósítására, de egyik sem érte el a kívánt minőséget, ezért úgy döntöttem, hogy elkezdem a magyarosítást open-source formában. Ennek köszönhetően bárki hozzájárulhat a fejlesztéshez, szemben az összes eddigi próbálkozással.
