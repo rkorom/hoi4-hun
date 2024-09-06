@@ -8,7 +8,7 @@
 	"description"			"Ez a mod nyílt forráskódú (open source) projekt, amelynek forráskódja elérhető a GitHubon. Ha szeretnéd megnézni vagy közreműködni a fejlesztésében, látogass el ide: https://github.com/rkorom/hoi4-hun"
 	"publishedfileid"		"3281592737"
 	"language"				"Hungarian"
-	"changenote"			"ffc5fd47f0f2794c292892b809017d415044a8f9"
+    "changenote"			"912a8f146991fe5ae834df25cc619e31294bc4fb"
 	"tags"
 	{
 		"0"		"Localization"
