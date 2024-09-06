@@ -3,3 +3,4 @@ venv/
 update_log.txt
 __pycache__/
 .env
+*.log

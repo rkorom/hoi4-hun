@@ -1,6 +1,14 @@
 import subprocess
 import os
+import logging
 from dotenv import load_dotenv
+
+# Logger konfigurálása
+logging.basicConfig(
+    level=logging.INFO,
+    format="%(asctime)s - %(levelname)s - %(message)s",
+    handlers=[logging.FileHandler("deploy.log"), logging.StreamHandler()],
+)
 
 
 def load_environment_variables(project_root):
@@ -12,7 +20,8 @@ def load_environment_variables(project_root):
     steam_cmd_path = os.getenv("STEAM_CMD_PATH")
 
     if not steam_username:
-        raise ValueError("Hiba: A Steam felhasználónév nem található a .env fájlban.")
+        logging.error("Hiba: A Steam felhasználónév nem található a .env fájlban.")
+        raise ValueError("A Steam felhasználónév nem található a .env fájlban.")
 
     return steam_username, steam_cmd_path
 
@@ -33,7 +42,7 @@ def update_metadata_file(metadata_file_path, latest_commit_id):
 
     for i, line in enumerate(lines):
         if '"changenote"' in line:
-            lines[i] = f'	"changenote"\t\t\t"{latest_commit_id}"\n'
+            lines[i] = f'    "changenote"\t\t\t"{latest_commit_id}"\n'
             break
 
     with open(metadata_file_path, "w", encoding="utf-8") as file:
@@ -69,26 +78,40 @@ def git_add_commit_push(project_root, metadata_file_path, latest_commit_id):
     subprocess.run(["git", "push"], cwd=project_root)
 
 
+def git_pull(project_root):
+    """Pulls the latest changes from the main branch."""
+    subprocess.run(["git", "pull", "origin", "main"], cwd=project_root)
+
+
 def main():
     project_root = os.path.abspath(os.path.join(os.path.dirname(__file__), ".."))
 
-    # 1. Load environment variables
+    # 1. Git pull from origin/main
+    logging.info("Pulling latest changes from origin/main...")
+    git_pull(project_root)
+
+    # 2. Load environment variables
+    logging.info("Loading environment variables...")
     steam_username, steam_cmd_path = load_environment_variables(project_root)
 
-    # 2. Get the latest commit ID
+    # 3. Get the latest commit ID
+    logging.info("Getting the latest commit ID...")
     latest_commit_id = get_latest_commit_id(project_root)
 
-    # 3. Update the metadata file
+    # 4. Update the metadata file
     metadata_file_path = os.path.join(project_root, "src", "metadata.vdf")
+    logging.info(f"Updating metadata file: {metadata_file_path}")
     update_metadata_file(metadata_file_path, latest_commit_id)
 
-    # 4. Run the Steam workshop update
+    # 5. Run the Steam workshop update
+    logging.info("Running Steam workshop update...")
     steam_workshop_update(steam_cmd_path, steam_username, metadata_file_path)
 
-    # 5. Git add, commit, and push
+    # 6. Git add, commit, and push
+    logging.info("Adding, committing, and pushing changes...")
     git_add_commit_push(project_root, metadata_file_path, latest_commit_id)
 
-    print("Deploy script sikeresen lefutott!")
+    logging.info("Deploy script successfully completed!")
 
 
 if __name__ == "__main__":
