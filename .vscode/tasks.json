@@ -1,0 +1,20 @@
+{
+  "version": "2.0.0",
+  "tasks": [
+    {
+      "label": "Frissítések letöltése az upstream repositoryból",
+      "type": "shell",
+      "command": "powershell",
+      "args": [
+        "-Command",
+        "if (!(git remote | Select-String -Pattern 'upstream')) { git remote add upstream https://github.com/rkorom/hoi4-hun.git }; git fetch upstream; git checkout main; git merge upstream/main; git push origin main"
+      ],
+      "problemMatcher": [],
+      "group": {
+        "kind": "build",
+        "isDefault": true
+      },
+      "detail": "Ez a feladat letölti a legfrissebb változatot az upstream repositoryból, és összefésüli a lokális változattal."
+    }
+  ]
+}
