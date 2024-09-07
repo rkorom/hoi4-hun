@@ -27,8 +27,9 @@
       "problemMatcher": [],
       "group": {
         "kind": "build",
-        "detail": "Ez a feladat hozzáadja az src mappa tartalmát, commitolja a 'Fordítások frissítése' üzenettel, és feltölti a saját main branch-be."
-      }
+        "isDefault": true
+      },
+      "detail": "Ez a feladat hozzáadja az src mappa tartalmát, commitolja a 'Fordítások frissítése' üzenettel, és feltölti a saját main branch-be."
     }
   ]
 }
