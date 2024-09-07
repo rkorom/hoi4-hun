@@ -17,7 +17,7 @@
       "detail": "Ez a feladat letölti a legfrissebb változatot az upstream repositoryból, és összefésüli a lokális változattal."
     },
     {
-      "label": "Frissítések feltöltése a saját main branch-be",
+      "label": "Fordítások feltöltése a saját main branch-be",
       "type": "shell",
       "command": "powershell",
       "args": [
