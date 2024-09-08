@@ -1,7 +1,6 @@
 # Hearts of Iron IV magyarosítás
 
 [![Steam feliratkozók](https://img.shields.io/steam/subscriptions/3281592737?label=Steam-feliratkozók)](https://steamcommunity.com/sharedfiles/filedetails/?id=3281592737)
-[![Steam kedvenc](https://img.shields.io/steam/favorites/3281592737?label=Steam-kedvenc)](https://steamcommunity.com/sharedfiles/filedetails/?id=3281592737)
 [![Steam csomagméret](https://img.shields.io/steam/size/3281592737?label=Steam-csomagméret)](https://steamcommunity.com/sharedfiles/filedetails/?id=3281592737)
 [![GPLv3 License](https://img.shields.io/badge/License-GPL%20v3-yellow.svg)](https://opensource.org/licenses/)
 
