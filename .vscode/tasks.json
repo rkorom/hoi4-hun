@@ -1,7 +1,7 @@
 {
   "version": "2.0.0",
   "tasks": [
-    {
+    /*{
       "label": "Frissítések letöltése az upstream repositoryból",
       "type": "shell",
       "command": "powershell",
@@ -15,7 +15,7 @@
         "isDefault": true
       },
       "detail": "Ez a feladat letölti a legfrissebb változatot az upstream repositoryból, és összefésüli a lokális változattal."
-    },
+    },*/
     {
       "label": "Fordítások feltöltése a saját main branch-be",
       "type": "shell",
