@@ -31,13 +31,15 @@ jobs:
 
       - name: Commit and push changes
         run: |
-          git config --global user.name "GitHub Action"
-          git config --global user.email "action@github.com"
+          git config user.name 'github-actions[bot]'
+          git config user.email 'github-actions[bot]@users.noreply.github.com'
+
           git add .
+
           if git diff-index --quiet HEAD --; then
             echo "No changes to commit"
           else
-            git commit -m "YAML reformat [GitHub Action]"
+            git commit -m "YAML reformat"
             git push
           fi
 
