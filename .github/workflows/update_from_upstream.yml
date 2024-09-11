@@ -4,22 +4,21 @@ on:
   schedule:
     - cron: "0 0 * * *" # Minden nap éjfélkor fut
 
+permissions:
+  contents: write
+
 jobs:
   update-repo:
     runs-on: ubuntu-latest
     if: github.event.repository.fork == true
-    permissions:
-      contents: write
     steps:
       - name: Checkout the forked repository
-        uses: actions/checkout@v2
-        with:
-          persist-credentials: false
+        uses: actions/checkout@v3
 
       - name: Set up Git user
         run: |
-          git config user.name 'github-actions[bot]'
-          git config user.email 'github-actions[bot]@users.noreply.github.com'
+          git config --global user.name "GitHub Action"
+          git config --global user.email "action@github.com"
 
       - name: Add upstream repository
         run: git remote add upstream https://github.com/rkorom/hoi4-hun.git
