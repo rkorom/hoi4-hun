@@ -726,45 +726,45 @@ AAT_norway_news.99.a: "This is getting out of hand!"
   AAT_Sweden_flashpoints.19.a: "Nem hagynak nekünk más választást."
   AAT_Sweden_flashpoints.19.b: "Meg kell engesztelnünk a [SWE.GetAdjective]-okat. Egyelõre."
 
-  AAT_Sweden_flashpoints.20.t: "[SWE.GetName] Proposes Anti-[SOV.GetAdjective] Alliance"
-  AAT_Sweden_flashpoints.20.desc: "With the recent escalation of tensions between [SWE.GetName] and [SOV.GetNameDef] breaking into open conflict, [SWE.GetAdjective] ambassadors have suggested working more closely with them in a military alliance against our common enemy."
-  AAT_Sweden_flashpoints.20.a: "Together, we can overcome the [SOV.GetAdjective] threat."
-  AAT_Sweden_flashpoints.20.b: "We’re managing on our own."
-  SWE_nordic_defense_pact: "Nordic Defense Pact"
+AAT_Sweden_flashpoints.20.t: "[SWE.GetName] Anti-[SOV.GetAdjective] Szövetséget Javasol"
+AAT_Sweden_flashpoints.20.desc: "A [SWE.GetName] és [SOV.GetNameDef] közötti feszültségek legutóbbi fokozódásával, amely nyílt konfliktusba torkollott, a [SWE.GetAdjective] nagykövetek javasolták, hogy szorosabban működjünk együtt velük egy katonai szövetségben közös ellenségünk ellen."
+AAT_Sweden_flashpoints.20.a: "Együtt legyőzhetjük a [SOV.GetAdjective] fenyegetést."
+AAT_Sweden_flashpoints.20.b: "Meglátjuk, hogyan boldogulunk egyedül."
+SWE_nordic_defense_pact: "Északi Védelmi Paktum"
 
-  AAT_Sweden_flashpoints.21.t: "[SWE.GetAdjective]-[FIN.GetAdjective] Alliance"
-  AAT_Sweden_flashpoints.21.desc: "With the recent escalation of tensions between [SWE.GetName] and [SOV.GetNameDef] breaking into open conflict, diplomats are suggesting that we reach out to their [FIN.GetAdjective] counterparts and form a military alliance against our common enemy."
-  AAT_Sweden_flashpoints.21.a: "We should promote more cooperation between our nations."
-  AAT_Sweden_flashpoints.21.b: "We can defeat [SOV.GetLeader] without [FIN.GetAdjective] support."
+AAT_Sweden_flashpoints.21.t: "[SWE.GetAdjective]-[FIN.GetAdjective] Szövetség"
+AAT_Sweden_flashpoints.21.desc: "A [SWE.GetName] és [SOV.GetNameDef] közötti feszültségek legutóbbi fokozódásával, amely nyílt konfliktusba torkollott, a diplomaták azt javasolják, hogy keressük meg [FIN.GetAdjective] megfelelőiket, és alakítsunk katonai szövetséget közös ellenségünk ellen."
+AAT_Sweden_flashpoints.21.a: "Támogatnunk kellene a nemzeteink közötti szorosabb együttműködést."
+AAT_Sweden_flashpoints.21.b: "Legyőzhetjük [SOV.GetLeader]-t [FIN.GetAdjective] támogatása nélkül is."
 
-  AAT_Sweden_flashpoints.22.t: "[FIN.GetName] Rejects Alliance Proposal"
-  AAT_Sweden_flashpoints.22.desc: "[FIN.GetAdjective] diplomats have informed us that despite sharing a common enemy in [SOV.GetNameDef], their government’s strategic objectives are too dissimilar to our own. As such, they have unfortunately rejected our alliance proposal."
-  AAT_Sweden_flashpoints.22.a: "An unfortunate decision."
+AAT_Sweden_flashpoints.22.t: "[FIN.GetName] Elutasítja a Szövetségi Javaslatot"
+AAT_Sweden_flashpoints.22.desc: "[FIN.GetAdjective] diplomaták tájékoztattak minket, hogy bár közös ellenségünk [SOV.GetNameDef], kormányuk stratégiai céljai túlságosan eltérnek a mieinktől. Ezért sajnálatos módon elutasították szövetségi javaslatunkat."
+AAT_Sweden_flashpoints.22.a: "Sajnálatos döntés."
 
-  AAT_Sweden_flashpoints.30.t: "Transit Rights in [SWE.GetName]"
-  AAT_Sweden_flashpoints.30.desc: "Although we have successfully gained a foothold in Scandinavia, transporting troops and equipment through the Danish Belts can be hazardous. Convoys can often fall prey to enemy air and naval attacks when out in the open sea. Therefore, minimizing the use of sea lanes as much as possible would be beneficial to our war effort. \n\nAs such, it may be worth putting pressure on neighboring [SWE.GetName] to allow us access to their train and communications networks. However, we shall have to be tactful and chip away gradually at their neutrality if we are to avoid them becoming a base of operation for our enemies."
-  AAT_Sweden_flashpoints.30.a: "Approach [SWE.GetName] with a request for humanitarian transit via their rail network."
-  AAT_Sweden_flashpoints.30.b: "We don’t need [SWE.GetAdjective] infrastructure."
+AAT_Sweden_flashpoints.30.t: "Átjárási Jog [SWE.GetName]-ben"
+AAT_Sweden_flashpoints.30.desc: "Bár sikerült lábnyomot szereznünk Skandináviában, a csapatok és felszerelések szállítása a Dán Belteken keresztül veszélyes lehet. A konvojok gyakran eshetnek áldozatul ellenséges légi és tengeri támadásoknak, amikor nyílt tengeren tartózkodnak. Ezért előnyös lenne, ha a tengeri útvonalak használatát minimálisra csökkentenénk háborús erőfeszítéseink érdekében.\n\nEnnek érdekében érdemes lehet nyomást gyakorolni a szomszédos [SWE.GetName]-ra, hogy engedélyezzék számunkra a vasúti és kommunikációs hálózataikhoz való hozzáférést. Azonban taktikusan kell eljárnunk, és fokozatosan kell gyengítenünk semlegességüket, ha el akarjuk kerülni, hogy ellenségeink bázisává váljanak."
+AAT_Sweden_flashpoints.30.a: "Keressük meg [SWE.GetName]-t humanitárius átjárási jog iránti kéréssel a vasúti hálózatukon."
+AAT_Sweden_flashpoints.30.b: "Nincs szükségünk a [SWE.GetAdjective] infrastruktúrára."
 
-  AAT_Sweden_flashpoints.31.t: "[GER.GetName] Request Transit Rights for Wounded"
-  AAT_Sweden_flashpoints.31.desc: "We have been approached by members of the [GER.GetAdjective] government with a request for limited use of our rail network to allow wounded troops and those on leave to travel to and from [GER.GetNameDef] via [SWE.GetName] and [DEN.GetName]. Whilst they insist the request is purely for humanitarian reasons, it is not hard to imagine that they would use this to gradually erode our neutrality."
-  AAT_Sweden_flashpoints.31.a: "Survival is more important than neutrality."
-  AAT_Sweden_flashpoints.31.b: "Reject the request and remind them of our neutrality."
+AAT_Sweden_flashpoints.31.t: "[GER.GetName] Átjárási Jogot Kér a Sebesültek Számára"
+AAT_Sweden_flashpoints.31.desc: "A [GER.GetAdjective] kormány tagjai megkerestek minket egy korlátozott vasúthálózati használati kérvénnyel, hogy a sebesült katonák és a szabadságon lévők [GER.GetNameDef]-ból [SWE.GetName] és [DEN.GetName] felé utazhassanak. Bár ragaszkodnak hozzá, hogy a kérésük kizárólag humanitárius célú, nem nehéz elképzelni, hogy ezt arra használnák fel, hogy fokozatosan erodálják semlegességünket."
+AAT_Sweden_flashpoints.31.a: "A túlélés fontosabb, mint a semlegesség."
+AAT_Sweden_flashpoints.31.b: "Utáljuk el a kérelmet, és emlékeztessük őket semlegességünkre."
 
-  AAT_Sweden_flashpoints.32.t: "[SWE.GetName] Refuses Request"
-  AAT_Sweden_flashpoints.32.desc: "[SWE.GetName] has stubbornly refused to allow us access to their infrastructure whilst citing their commitment to neutrality. Perhaps they need a firmer response to remind them that their continued independence is merely a reward from us for their compliance as we reorganize Europe. "
-  AAT_Sweden_flashpoints.32.a: "Inform them that [GER.GetLeader] is beginning to doubt their neutrality."
-  AAT_Sweden_flashpoints.32.b: "Drop the issue, we can’t risk them joining the enemy. "
+AAT_Sweden_flashpoints.32.t: "[SWE.GetName] Elutasítja a Kérelmet"
+AAT_Sweden_flashpoints.32.desc: "[SWE.GetName] makacsul elutasította, hogy hozzáférést biztosítson az infrastruktúrájához, miközben a semlegességük iránti elkötelezettségükre hivatkoznak. Talán keményebb válaszra van szükségük, hogy emlékeztessük őket arra, hogy folyamatos függetlenségük csupán jutalom a mi megfelelésünkért, ahogy átszervezzük Európát."
+AAT_Sweden_flashpoints.32.a: "Tájékoztassuk őket, hogy [GER.GetLeader] kezd kételkedni a semlegességükben."
+AAT_Sweden_flashpoints.32.b: "Hagyjuk a dolgot, nem kockáztathatjuk, hogy csatlakoznak az ellenséghez."
 
-  AAT_Sweden_flashpoints.33.t: "Adolf Hitler Questions [SWE.GetAdjective] Neutrality"
-  AAT_Sweden_flashpoints.33.desc: "We have received a strongly worded telegram from [GER.Capital.GetCapitalVictoryPointName] informing us that [GER.GetLeader] is dismayed at our rejection of their recent request. Apparently the [GER.GetAdjective] leader is beginning to question our neutrality and believes our recent actions are indicative of a slide towards siding with the [GER.GetName]’s enemies. \n\nIt would seem that they may be willing to escalate the situation to conflict if necessary. Therefore, it may be time for us to reevaluate our current stance."
-  AAT_Sweden_flashpoints.33.a: "Survival is more important than neutrality."
-  AAT_Sweden_flashpoints.33.b: "We will not be coerced by [GER.GetLeader], begin mobilizing our forces. "
+AAT_Sweden_flashpoints.33.t: "Adolf Hitler Kétségbe vonja a [SWE.GetAdjective] Semlegességet"
+AAT_Sweden_flashpoints.33.desc: "Egy kemény hangvételű táviratot kaptunk [GER.Capital.GetCapitalVictoryPointName]-ból, amelyben tájékoztatnak minket arról, hogy [GER.GetLeader] csalódott a közelmúltbeli kérelmük elutasítása miatt. Úgy tűnik, hogy a [GER.GetAdjective] vezető kezd kételkedni semlegességünkben, és úgy véli, hogy közelmúltbeli tetteink azt jelzik, hogy hajlamosak vagyunk a [GER.GetName] ellenségei felé hajlani.\n\nÚgy tűnik, hogy készek lehetnek eszkalálni a helyzetet konfliktussá, ha szükséges. Ezért itt az ideje, hogy újragondoljuk jelenlegi álláspontunkat."
+AAT_Sweden_flashpoints.33.a: "A túlélés fontosabb, mint a semlegesség."
+AAT_Sweden_flashpoints.33.b: "Nem fogadjuk el [GER.GetLeader] zsarolását, kezdjük meg erőink mozgósítását."
 
-  AAT_Sweden_flashpoints.34.t: "[SWE.GetName] Raises Military Readiness"
-  AAT_Sweden_flashpoints.34.desc: "The [SWE.GetAdjective] military has been set to a heightened state of readiness in a deliberately provocative manner, likely to demonstrate their willingness to resist us exerting pressure over them. We must tread carefully, or we risk embroiling ourselves in yet another conflict in Scandinavia."
-  AAT_Sweden_flashpoints.34.a: "Begin preparations to attack [SWE.GetName] and send them an ultimatum."
-  AAT_Sweden_flashpoints.34.b: "This isn't worth the risk."
+AAT_Sweden_flashpoints.34.t: "[SWE.GetName] Növeli a Katonai Készültséget"
+AAT_Sweden_flashpoints.34.desc: "A [SWE.GetAdjective] katonai erők magasabb készültségi szintre kerültek egy szándékosan provokatív módon, valószínűleg annak demonstrálása céljából, hogy készek ellenállni az általunk rájuk gyakorolt nyomásnak. Óvatosan kell eljárnunk, különben újabb konfliktusba keveredhetünk Skandináviában."
+AAT_Sweden_flashpoints.34.a: "Kezdjük meg [SWE.GetName] elleni támadás előkészületeit, és küldjünk nekik egy ultimátumot."
+AAT_Sweden_flashpoints.34.b: "Ez nem éri meg a kockázatot."
 
   AAT_Sweden_flashpoints.35.t: "[GER.GetName] Issues Ultimatum"
   AAT_Sweden_flashpoints.35.desc: "[GER.GetNameDefCap] has issued a stern ultimatum, in which they demand we concede to their most recent demands for access to our infrastructure. It states that if we fail to do so, they shall consider us an enemy of [GER.GetNameDef] and use all force necessary to secure their interests in Scandinavia."
@@ -2308,98 +2308,105 @@ AAT_norway_news.99.a: "This is getting out of hand!"
  ###################
  ### NEWS EVENTS ###
  ###################
- aat_news.100.t: "The [FIN.GetAdjective] Continuation War"
- aat_news.100.desc: "Following their defeat in their previous war against the [SOV.GetAdjective] government, the [FIN.GetAdjective] people have now mobilized and stand ready to reclaim the territories they lost, and liberate the [FIN.GetAdjective] and [KAR.GetAdjective] people from foreign oppression, as a spiritual successor to the [FIN.GetAdjective] War for Independence and Heimosodat."
- aat_news.100.a: "Forward to ultimate victory!"
- aat_news.100.b: "And they will not fight alone!"
- aat_news.100.c: "The Finns will pay for this!"
- aat_news.100.d: "Yet another puppet of [GER.GetLeader] joins the war..."
+aat_news.100.t: "A [FIN.GetAdjective] folytatólagos háború"
+aat_news.100.desc: "A [SOV.GetAdjective] kormány elleni korábbi háborújukban elszenvedett vereséget követően a [FIN.GetAdjective] nép most mozgósította magát, és készen áll visszaszerezni az elvesztett területeket, valamint felszabadítani a [FIN.GetAdjective] és [KAR.GetAdjective] népet az idegen elnyomás alól, mint a [FIN.GetAdjective] függetlenségi háború és a Heimosodat lelki utóda."
+aat_news.100.a: "Előre a végső győzelemért!"
+aat_news.100.b: "És nem fognak egyedül harcolni!"
+aat_news.100.c: "A finnek meg fogják fizetni ennek az árát!"
+aat_news.100.d: "Még egy báb, aki csatlakozik [GER.GetLeader] háborújához..."
 
- aat_news.101.t: "Remilitarization of the Åland Islands" 
- aat_news.101.desc: "Following the Russian defeat in the Crimean War, the Åland islands have been demilitarized, and their inhabitants exempt from any form of conscription. Though this status has been contested many times, it is still enforced by many of the great powers of the world. Now however, following the [FIN.GetAdjective] Operation Kilpapurjehdus, the islands have again been remilitarized."
- aat_news.101.a: "It is a necessary measure."
- aat_news.101.b: "That will not stop us."
- aat_news.101.c: "Peace cannot last..."
+aat_news.101.t: "Az Åland-szigetek remilitarizálása"
+aat_news.101.desc: "A krími háborúban elszenvedett orosz vereséget követően az Åland-szigeteket demilitarizálták, és lakosaikat mentesítették mindenféle besorozás alól. Bár ezt a státuszt sokszor vitatták, még mindig számos nagyhatalom érvényben tartja. Most azonban, a [FIN.GetAdjective] Kilpapurjehdus hadművelet után, a szigeteket ismét remilitarizálták."
+aat_news.101.a: "Ez egy szükséges lépés."
+aat_news.101.b: "Ez nem fog megállítani minket."
+aat_news.101.c: "A béke nem tarthat örökké..."
 
- aat_news.666.t: "Restoration of the North Sea Empire" 
- aat_news.666.desc: "Having retaken all the lands once ruled by Cnut the Great, the [From.GetOldAdjective] government has now begun increasing moves towards integration of the newly-conquered territories. As a result, in an attempt to rally the people behind the state, there has been an increase in pan-nationalist propaganda with clear support from the government.\n\nThe [FROM.GetOldAdjective] leader [FROM.GetLeader] has declared that the united Realms of [DEN.GetOldNameDef], [NOR.GetOldNameDef], and England will from now on be known as '[From.GetNameDef]'."
- aat_news.666.a: "It appears the Vikings have returned"
+aat_news.666.t: "Az Északi-tengeri Birodalom helyreállítása"
+aat_news.666.desc: "Miután visszafoglalták az összes területet, amelyet egykor Nagy Károly uralt, a [From.GetOldAdjective] kormány most növeli az újonnan meghódított területek integrációját célzó lépéseit. Ennek eredményeként, a nép állam mögé állításának érdekében, megnövekedett a pán-nacionalista propaganda, amelyet egyértelműen támogat a kormány.\n\nA [FROM.GetOldAdjective] vezető, [FROM.GetLeader] bejelentette, hogy a [DEN.GetOldNameDef], [NOR.GetOldNameDef] és Anglia egyesült királyságait mostantól '[From.GetNameDef]' néven ismerik."
+aat_news.666.a: "Úgy tűnik, a vikingek visszatértek"
 
- aat_news.777.t: "Formation of the Baltic Sea Empire" 
- aat_news.777.desc: "Having managed to conquer most of the Baltic Sea region, the [From.GetOldAdjective] government has now begun increasing moves towards integration of the newly-conquered territories. As a result, in an attempt to rally the people behind the state, there has been an increase in pan-nationalist propaganda with clear support from the government.\n\nThe [FROM.GetOldAdjective] leader [FROM.GetLeader] gave a speech about how [FROM.GetOldNameDef] has managed to do what no other country has and laid the Baltic Sea under its rule. [FROM.GetSheHeCap] finished the speech by proclaiming the formation of '[From.GetNameDef]'."
- aat_news.777.a: "Dominium maris baltici"
+aat_news.777.t: "A Balti-tengeri Birodalom megalakulása"
+aat_news.777.desc: "Miután sikerült meghódítani a Balti-tenger térségének nagy részét, a [From.GetOldAdjective] kormány most növeli az újonnan meghódított területek integrációját célzó lépéseit. Ennek eredményeként, a nép állam mögé állításának érdekében, megnövekedett a pán-nacionalista propaganda, amelyet egyértelműen támogat a kormány.\n\nA [FROM.GetOldAdjective] vezető, [FROM.GetLeader] beszédet mondott arról, hogyan sikerült [FROM.GetOldNameDef]-nak olyasmit véghez vinnie, amit egyetlen más ország sem, és a Balti-tenger uralma alá hajtotta. [FROM.GetSheHeCap] a beszédet azzal zárta, hogy kihirdette a '[From.GetNameDef]' megalakulását."
+aat_news.777.a: "Dominium maris baltici"
 
 
 #######################
 ###  NARVIK EVENTS  ###
 #######################
 
-AAT_britain_narvik.1.t: "[SWE.GetAdjective] mines have been blown up"
-AAT_britain_narvik.1.desc: "We have successfully blown up the [SWE.GetAdjective] mines and robbed [GER.GetNameDef] of one of its most important import resource. Despite the promise of aid to [FIN.GetName] as the prime motivation for this endeavor, it was never really a viability to engage in direct conflict with [SOV.GetNameDef] and we have dealt a major blow to our main adversary. We have no real enemy in [SWE.GetNameDefCap], and now need to decide what to do next."
-AAT_britain_narvik.1.a: "Withdraw"
-AAT_britain_narvik.1.b: "Continue the campaign"
-AAT_britain_narvik.2.t: "[ENG.GetName] invades [SWE.GetName]"
-AAT_britain_narvik.2.desc: "[ENG.GetAdjective] troops have crossed the border into [SWE.GetName]. WIth no declaration of war the silence from the [ENG.GetAdjective] government the [SWE.GetAdjective] authorities are outraged at the lack of respect for [SWE.GetAdjective] sovereignty. The most likely explanation for this is that the [ENG.GetAdjective] troops are trying to reach the mines in Gällivare and Kiruna to sabotage them in order to prevent the high grade ore from reaching [GER.GeName], which would be a huge blow to the both [GER.GetAdjective] and [SWE.GetAdjective] economies and a huge breach of [SWE.GetAdjective] neutrality."
-AAT_britain_narvik.2.a: "How dare they?!"
-AAT_britain_narvik.2.b: "We must stop them!"
+AAT_britain_narvik.1.t: "[SWE.GetAdjective] bányák felrobbantása"
+AAT_britain_narvik.1.desc: "Sikeresen felrobbantottuk a [SWE.GetAdjective] bányákat, és megfosztottuk [GER.GetNameDef]-t egyik legfontosabb importforrásától. Annak ellenére, hogy a [FIN.GetName] megsegítésére tett ígéret volt a fő motiváció e vállalkozás mögött, soha nem volt valós lehetőség a közvetlen konfliktusra [SOV.GetNameDef]-vel, és ehelyett jelentős csapást mértünk fő ellenfelünkre. Nem tekintjük [SWE.GetNameDefCap]-t valódi ellenségünknek, és most el kell döntenünk, mi legyen a következő lépés."
+AAT_britain_narvik.1.a: "Visszavonulás"
+AAT_britain_narvik.1.b: "Folytassuk a hadjáratot"
 
-AAT_britain_narvik.3.t: "[ENG.GetName] sabotages [SWE.GetAdjective] mines"
-AAT_britain_narvik.3.desc: "[ENG.GetNameDefCap] has illegally invaded [SWE.GetName] and destroyed their mines, without a proper declaration of war. A key economic engine of the [SWE.GetAdjective] economy is now but a ruined quarry. The [ENG.GetAdjective] government has defended their actions by arguing that trading with [GER.GetNameDefCap] is just as bad as siding with them, and that the actions are justified, but it seems that even their domestic population is uncomfortable with their governments explanation."
-AAT_britain_narvik.3.a: "This is an outrage"
+AAT_britain_narvik.2.t: "[ENG.GetName] megszállja [SWE.GetName]-t"
+AAT_britain_narvik.2.desc: "[ENG.GetAdjective] csapatok átlépték a határt [SWE.GetName]-ba. Hadüzenet nélkül, és [ENG.GetAdjective] kormányának hallgatásával, a [SWE.GetAdjective] hatóságok felháborodtak a [SWE.GetAdjective] szuverenitásának semmibe vételén. A legvalószínűbb magyarázat erre az, hogy az [ENG.GetAdjective] csapatok megpróbálják elérni a Gällivare és Kiruna bányákat, hogy szabotálják azokat, megakadályozva ezzel a magas minőségű érc eljutását [GER.GeName]-ba, ami óriási csapást jelentene mind a [GER.GetAdjective], mind a [SWE.GetAdjective] gazdaság számára, és hatalmas mértékű semlegességi sértés lenne [SWE.GetAdjective] részéről."
+AAT_britain_narvik.2.a: "Hogy merészelik?!"
+AAT_britain_narvik.2.b: "Meg kell állítanunk őket!"
 
-AAT_britain_narvik.4.t: "[ENG.GetName] pulls out of [SWE.GetName]"
-AAT_britain_narvik.4.desc: "[ENG.GetName] has announced that its strategic objective in [SWE.GetName] has been accomplished and is pulling out its troops. Its government also reiterates that it has no real enmity towards the [SWE.GetAdjective] state, and that its action in [SWE.GetName] is purely in the interest of the defense of democracy. Both the [GER.GetAdjective] and [SWE.GetAdjective] embassy has delivered a letter of protest, the [GER.GetAdjective] side arguing that [ENG.GetName] breached neutrality and invaded a foreign nation in a combat zone, and [SWE.GetAdjective] lambasting the [ENG.GetAdjective] government that despite its lofty goals of helping [FIN.GetName] it is now clear that it was a poorly constructed ploy to achieve their own ends, an the cost of [SWE.GetAdjective] lives."
-AAT_britain_narvik.4.a: "This is still an outrage"
+AAT_britain_narvik.3.t: "[ENG.GetName] szabotálja a [SWE.GetAdjective] bányákat"
+AAT_britain_narvik.3.desc: "[ENG.GetNameDefCap] törvénytelenül megszállta [SWE.GetName]-t és elpusztította a bányáikat, megfelelő hadüzenet nélkül. A [SWE.GetAdjective] gazdaság kulcsfontosságú motorja most csupán egy lerombolt kőfejtő. Az [ENG.GetAdjective] kormány védelmébe vette cselekedeteiket azzal érvelve, hogy a [GER.GetNameDefCap]-val való kereskedelem éppolyan rossz, mint az oldalukon állni, és hogy a tetteik igazolhatóak, de úgy tűnik, hogy még a saját hazai lakosságuk is kényelmetlenül érzi magát a kormányuk magyarázata miatt."
+AAT_britain_narvik.3.a: "Ez felháborító"
+
+AAT_britain_narvik.4.t: "[ENG.GetName] kivonul [SWE.GetName]-ból"
+AAT_britain_narvik.4.desc: "[ENG.GetName] bejelentette, hogy stratégiai célját [SWE.GetName]-ban elérte, és kivonja csapatait. Kormányuk azt is hangsúlyozza, hogy nincs valódi ellenségeskedésük a [SWE.GetAdjective] állammal szemben, és hogy [SWE.GetName]-ban tett lépéseik tisztán a demokrácia védelmének érdekében történtek. Mind a [GER.GetAdjective], mind a [SWE.GetAdjective] nagykövetség tiltakozó levelet nyújtott be, a [GER.GetAdjective] fél azzal érvel, hogy [ENG.GetName] megsértette a semlegességet és megszállta egy idegen nemzetet egy harci övezetben, míg a [SWE.GetAdjective] fél az [ENG.GetAdjective] kormányt bírálja, hogy bár a [FIN.GetName] megsegítésének magasztos céljával indokolták tetteiket, mostanra világossá vált, hogy ez egy rosszul megtervezett trükk volt saját céljaik elérésére, a [SWE.GetAdjective] életek árán."
+AAT_britain_narvik.4.a: "Ez még mindig felháborító"
+
  ######################
  ### GENERIC EVENTS ###
  ######################
 
  ### MIO EVENTS ###
 
- AAT_MIO_events.2.t: "$CZE_skoda_works$ Investments"
- AAT_MIO_events.2.desc: "The industrialists at $CZE_skoda_works$ are eager for investment, however we can only afford to sink money into one of the three branches within the company. Doing so will allow them to prioritize the development of either ships, tanks or artillery equipment."
- AAT_MIO_events.2.a: "Invest in $CZE_skoda_shipyards$"
- AAT_MIO_events.2.b: "Invest in $CZE_skoda_armor$"
- AAT_MIO_events.2.c: "Invest in $CZE_skoda_artillery$"
+AAT_MIO_events.2.t: "$CZE_skoda_works$ Befektetések"
+AAT_MIO_events.2.desc: "A $CZE_skoda_works$ iparosai lelkesednek a befektetések iránt, azonban csak az egyik három ágazatba tudunk pénzt fektetni a vállalaton belül. Ennek eredményeként prioritást adhatnak a hajók, tankok vagy tüzérségi eszközök fejlesztésének."
+AAT_MIO_events.2.a: "Fektess be a $CZE_skoda_shipyards$-ba"
+AAT_MIO_events.2.b: "Fektess be a $CZE_skoda_armor$-ba"
+AAT_MIO_events.2.c: "Fektess be a $CZE_skoda_artillery$-ba"
 
 
  ######################
  ### AMERICA EVENTS ###
  ######################
 
- AAT_USA_events.01.t: "[USA.GetNameDefCap] Occupies Greenland"
- AAT_USA_events.01.desc: "The [USA.GetAdjective] government lead by [USA.GetLeader] has announced the occupation of Greenland as a part of their new Greenland Patrol, an operation to secure North America from foreign threats and influence as decided on in the Havana Conference. They have promised to hand it back over to us once the ongoing situation in the world has calmed down."
- AAT_USA_events.01.a: "At least they will give it back later..."
+AAT_USA_events.01.t: "[USA.GetNameDefCap] Elfoglalja Grönlandot"
+AAT_USA_events.01.desc: "A [USA.GetAdjective] kormány, [USA.GetLeader] vezetésével, bejelentette Grönland megszállását, amely a Havannai Konferencián eldöntött új Grönland Járőr része, egy művelet Észak-Amerika külföldi fenyegetésektől és befolyástól való megvédésére. Megígérték, hogy visszaadják nekünk, amint a világ jelenlegi helyzete megnyugszik."
+AAT_USA_events.01.a: "Legalább vissza fogják adni később..."
 
- AAT_USA_events.02.t: "[FROM.GetNameDefCap] Occupies the Faroes"
- AAT_USA_events.02.desc: "The [FROM.GetAdjective] have stated that they are at this moment occupying the Faroe Islands, which belong to Denmark and which are a strategic point of high importance. They claim that they shall shield the Faroe Islands from all the severities of war and establish themselves there conveniently by sea and air until the moment comes when the isles will be handed back to us, liberated from the foul thraldom into which they have been plunged by [?DEN.DEN_overlord_nation.GetAdjective] aggression."
- AAT_USA_events.02.a: "At least our people are in safe hands..."
+AAT_USA_events.02.t: "[FROM.GetNameDefCap] Elfoglalja a Feröer-szigeteket"
+AAT_USA_events.02.desc: "A [FROM.GetAdjective] közölték, hogy jelenleg megszállják a Feröer-szigeteket, amelyek Dánia részét képezik, és stratégiailag kiemelt fontosságúak. Azt állítják, hogy megvédik a Feröer-szigeteket a háború minden súlyosságától, és kényelmesen megtelepednek ott a tengeren és a levegőben, amíg el nem jön az idő, amikor a szigeteket visszaadják nekünk, felszabadítva őket a [?DEN.DEN_overlord_nation.GetAdjective] agresszió által rájuk kényszerített szörnyű rabságból."
+AAT_USA_events.02.a: "Legalább a népünk biztonságban van..."
 
- AAT_USA_events.03.t: "[FROM.GetName] Wants the Faroes Back"
- AAT_USA_events.03.desc: "[FROM.GetLeader] of [FROM.GetNameDef] calls on us to honor our promises and as agreed return the Faroe Islands to them, now that they are once again free from oppression."
- AAT_USA_events.03.a: "We Promised"
- AAT_USA_events.03.b: "Actually, we have changed our minds"
- AAT_USA_events.04.t: "[FROM.GetName] Rejects our Demands"
- AAT_USA_events.04.desc: "[FROM.GetLeader] of [FROM.GetNameDef] has denied our request, claiming that after a referendum, the people of the Faroe Islands clearly want to be under no other's rule than that of the [FROM.getAdjective]."
- AAT_USA_events.04.a: "Not like we can challenge them anyway"
- AAT_USA_events.04.b: "They've got it coming"
- AAT_USA_events.05.t: "[FROM.GetName] Wants Greenland Back"
- AAT_USA_events.05.desc: "[FROM.GetLeader] of [FROM.GetNameDef] calls on us to honor our promises and as agreed return Greenland to them, now that they are once again free from oppression."
- AAT_USA_events.06.t: "[FROM.GetName] Rejects our Demands"
- AAT_USA_events.06.desc: "[FROM.GetLeader] of [FROM.GetNameDef] has denied our request, claiming that after a referendum, the people of Greenland clearly want to be under no other's rule than that of the [FROM.getAdjective]."
+AAT_USA_events.03.t: "[FROM.GetName] Vissza Akarja Kapni a Feröer-szigeteket"
+AAT_USA_events.03.desc: "[FROM.GetLeader] a [FROM.GetNameDef]-ból felszólít minket, hogy tartsuk be ígéreteinket, és a megállapodás szerint adjuk vissza a Feröer-szigeteket, most, hogy ismét szabadok az elnyomástól."
+AAT_USA_events.03.a: "Megígértük"
+AAT_USA_events.03.b: "Valójában meggondoltuk magunkat"
 
- AAT_USA_events.07.t: "[FROM.GetName] Returns Territory"
- AAT_USA_events.07.desc: "[FROM.GetLeader] of [FROM.GetNameDef] has honored their promise and has agreed to return the territories they held for safe keeping, now that we are once again free from oppression."
- AAT_USA_events.07.a: "Greenland Returns!"
- AAT_USA_events.07.b: "The Faroe Islands Returns!"
+AAT_USA_events.04.t: "[FROM.GetName] Elutasítja Követeléseinket"
+AAT_USA_events.04.desc: "[FROM.GetLeader] a [FROM.GetNameDef]-ból elutasította kérésünket, azzal érvelve, hogy a népszavazás után a Feröer-szigetek lakossága egyértelműen nem kíván más uralom alatt lenni, csak a [FROM.getAdjective] alatt."
+AAT_USA_events.04.a: "Úgysem tudunk szembeszállni velük"
+AAT_USA_events.04.b: "Megkapják, amit érdemelnek"
 
- AAT_USA_events.08.t: "[FROM.GetNameDefCap] Requests Danish Territory"
- AAT_USA_events.08.desc: "[FROM.GetLeader] of [FROM.GetNameDef] has sent us a request for returning un-lawfully held Danish territory to its rightful owner."
- AAT_USA_events.08.a: "Return the territories"
- AAT_USA_events.08.b: "We will not yield to oppressors!"
- AAT_USA_events.09.t: "[FROM.GetNameDefCap] Returns Danish Territory"
- AAT_USA_events.09.desc: "[FROM.GetLeader] of [FROM.GetNameDef] has agreed to return un-lawfully held Danish territory to its rightful owner."
- AAT_USA_events.09.a: "How thoughtful"
+AAT_USA_events.05.t: "[FROM.GetName] Vissza Akarja Kapni Grönlandot"
+AAT_USA_events.05.desc: "[FROM.GetLeader] a [FROM.GetNameDef]-ból felszólít minket, hogy tartsuk be ígéreteinket, és a megállapodás szerint adjuk vissza Grönlandot, most, hogy ismét szabadok az elnyomástól."
+
+AAT_USA_events.06.t: "[FROM.GetName] Elutasítja Követeléseinket"
+AAT_USA_events.06.desc: "[FROM.GetLeader] a [FROM.GetNameDef]-ból elutasította kérésünket, azzal érvelve, hogy a népszavazás után Grönland lakossága egyértelműen nem kíván más uralom alatt lenni, csak a [FROM.getAdjective] alatt."
+
+AAT_USA_events.07.t: "[FROM.GetName] Visszaadja a Területet"
+AAT_USA_events.07.desc: "[FROM.GetLeader] a [FROM.GetNameDef]-ból teljesítette ígéretét, és beleegyezett, hogy visszaadja azokat a területeket, amelyeket biztonsági okokból tartottak, most, hogy ismét szabadok vagyunk az elnyomástól."
+AAT_USA_events.07.a: "Grönland Visszatér!"
+AAT_USA_events.07.b: "A Feröer-szigetek Visszatérnek!"
+
+AAT_USA_events.08.t: "[FROM.GetNameDefCap] Dán Területet Követel"
+AAT_USA_events.08.desc: "[FROM.GetLeader] a [FROM.GetNameDef]-ból kérést küldött nekünk, hogy az illegálisan birtokolt dán területet adjuk vissza jogos tulajdonosának."
+AAT_USA_events.08.a: "Adják vissza a területeket"
+AAT_USA_events.08.b: "Nem engedünk az elnyomóknak!"
+
+AAT_USA_events.09.t: "[FROM.GetNameDefCap] Visszaadja a Dán Területet"
+AAT_USA_events.09.desc: "[FROM.GetLeader] a [FROM.GetNameDef]-ból beleegyezett, hogy az illegálisan birtokolt dán területet visszaadja jogos tulajdonosának."
+AAT_USA_events.09.a: "Milyen figyelmes"
+
 
 
 
