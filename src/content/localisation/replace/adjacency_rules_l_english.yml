@@ -35,7 +35,8 @@
   DARDANELLES_STRAIT_BLOCKED_FOR_COUNTRY:0 "A Dardanellák blokkolva [ROOT.GetName] számára"
   dardanelles_strait_blocked_tt:0 "§RA szoros le van zárva [ROOT.GetName] számára mert, a szoros irányítójával megromlott a kapcsolat.§!"
   HORMUZ_STRAIT:0 "Hormuzi-szoros"
-  OTRANTO_STRAIT:0 "Strait of Otranto"
+  OTRANTO_STRAIT:0 "Otrantói-szoros"
   suez_blocked_tt:0 "[GetSuezBlockText]"
-  blocked_as_part_of_sanctions_tt:0 "§RLeague of Nations' sanctions are in place, denying [ROOT.GetName] the use of the Suez Canal.§!"
-  SUEZ_SANCTIONS_FLAG:0 "Suez Canal Blocked"
+  blocked_as_part_of_sanctions_tt:0 "§RA Nemzetek Szövetségének szankciói érvényben vannak, megakadályozva [ROOT.GetName]-t a Szuezi-csatorna használatában.§!"
+  SUEZ_SANCTIONS_FLAG:0 "Szuezi-csatorna blokkolva"
+
