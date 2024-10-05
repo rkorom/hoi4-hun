@@ -39,4 +39,4 @@
   suez_blocked_tt:0 "[GetSuezBlockText]"
   blocked_as_part_of_sanctions_tt:0 "§RA Nemzetek Szövetségének szankciói érvényben vannak, megakadályozva [ROOT.GetName]-t a Szuezi-csatorna használatában.§!"
   SUEZ_SANCTIONS_FLAG:0 "Szuezi-csatorna blokkolva"
-
+  

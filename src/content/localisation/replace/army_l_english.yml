@@ -241,11 +241,11 @@
   OFFICER_CORP_COUP_POSITIVE_PROGRESS:0 "A puccsot elõrevivõ tényezõk: $VAL|0+%$"
   OFFICER_CORP_COUP_NEGATIVE_PROGRESS:0 "A puccsot akadályozó tényezõk: $VAL|0+%$"
   ARMY_MOTORIZATION_PRIORITY:0 "§HMotorizációs prioritás§!\nA motorizáció a raktárból származó teherautókat helyezi elõtérbe, hogy a hadsereg számára olyan utánpótlási pontokról biztosítsa a szükséges készleteket, amelyek máskülönben nem lennének elérhetõek.\n§GKattints§! a prioritások váltogatásához."
-    AIR_OVERVIEW_CATEGORY_8:0 "Légi erőinkben $COUNT|H$ §HTengeri Járőr Bombázó§! repülőgép van:"
-  TARGET_HAS_CATEGORY_8:0 "$COUNTRY|H$ birtokol $COUNT|H$ §HTengeri Járőr Bombázót§!."
-  AIR_OVERVIEW_CATEGORY_REGULAR_8:0 "$COUNT|H$ §HTengeri Járőr Bombázó§! repülőgép"
+  AIR_OVERVIEW_CATEGORY_8:0 "Légi erõinkben $COUNT|H$ §HTengeri Járõr Bombázó§! repülõgép van:"
+  TARGET_HAS_CATEGORY_8:0 "$COUNTRY|H$ birtokol $COUNT|H$ §HTengeri Járõr Bombázót§!."
+  AIR_OVERVIEW_CATEGORY_REGULAR_8:0 "$COUNT|H$ §HTengeri Járõr Bombázó§! repülõgép"
   UNASSIGNED_AIR_WINGS:1 "Csoportosítatlan Légi Egységek"
   AIR_GROUP_NAME_PATTERN:0 "$ADJECTIVE$ Légi Csoport $NUMBER$"
   ARMY_NAVIES_DESTROYED_SHIP_BY_CONVOY:1 "$SHIP_TYPE$ $SHIP|H$-t elsüllyesztette §Y$KILLER_SHIP$§! a(z) $REGION$ régióban $DATE$-én."
-  OFFICER_CORP_SPECIAL_FORCES_DOCTRINE: "Különleges Erők"
-
+  OFFICER_CORP_SPECIAL_FORCES_DOCTRINE: "Különleges Erõk"
+  
