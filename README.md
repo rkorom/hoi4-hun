@@ -28,5 +28,5 @@ Fontos, hogy ebben az esetben a mod __nem fog automatikusan frissülni__, így n
 
 Olvasd el a [Közreműködés](CONTRIBUTING.md) részt, hogy megtudd, hogyan kezdj neki a fordításnak!
 
-Amennyiben elakadtál, vagy kérdésed van, vedd fel velem a kapcsolatot [Discordon](https://discord.gg/NcptrNxQAp) keresztül.
+Amennyiben elakadtál, vagy kérdésed van, vedd fel velünk a kapcsolatot [Discordon](https://discord.gg/CykJwfGhpd) keresztül.
 
