@@ -43,7 +43,7 @@
   FIN_embraced_by_the_white_death_desc: "Simo Häyhä, annak ellenére, hogy többször is majdnem halálos sebesülést szerzett, továbbra is a halál és a félelem hideg karját hozza el ellenségeinkre."
   
   
-
+  
   
   
   FIN_the_lapland_war: "Részvétel a Lappföldi Háborúban"
@@ -51,7 +51,7 @@
   FIN_compensation_for_side_switch_bad: "Háborús Jóvátétel"
   FIN_sami_pathfinders_recon_bonus_tt: "§YFelderítés és $long_range_patrol_support$:§! Felderítés: §G+100.0%§!, §Y$snow$§!: Mozgás: §G+10%§!, §Y$forest$§!, §Y$hills$§!, §Y$mountain$§!, §Y$marsh$§!, §Y$plains$§! és §Y$river$§!: Mozgás: §G+5%§!"
   FIN_finnish_army_dynamic_modifier_tt: "[GetMolotovCocktailsTooltip]"
-  FIN_oy_alkoholiliike_dynamic_modifier_tt: "§YMinden $infantry$§! és §Y$motorized$§!/§Y$mechanized$§!: Kemény Támadás: §G+25%§!, Átütőerő: §G+100%§!\n"
+  FIN_oy_alkoholiliike_dynamic_modifier_tt: "§YMinden $infantry$§! és §Y$motorized$§!/§Y$mechanized$§!: Kemény Támadás: §G+25%§!, Átütõerõ: §G+100%§!\n"
   FIN_finnish_airforce_dynamic_modifier_tt: "[GetCasOrFighterDesignsTooltip][GetNavalAirforceTooltip]"
   FIN_support_for_ground_forces_dynamic_modifier_tt: "§YMinden $cas_bomber$§!: $production_cost_tt$ §G-5.00%§!\n"
   FIN_dominate_the_skies_dynamic_modifier_tt: "§YMinden $light_fighter$§!: $production_cost_tt$ §G-5.00%§!\n"
@@ -64,48 +64,48 @@
   FIN_conversion_of_civilian_vessels_dynamic_modifier_tt: "§Y$screen_ship$§! és §Y$ship_hull_cruiser_coastal_defense_ship$§!: $production_cost_tt$ §G-10.00%§!\n"
   FIN_conversion_of_civilian_vessels_dynamic_modifier_no_mtg_tt: "§Y$screen_ship$§!: $production_cost_tt$ §G-10.00%§!\n"
   FIN_repurposed_small_industries: "Átalakított Kisipar"
-  FIN_repurposed_small_industries_desc: "A kisipari vállalatok állami irányítás alá vonásával és háborús célokra történő átállításával a finn kormány mostantól mozgósíthatja erőforrásait, és teljes mértékben mozgósíthatja gazdaságát polgári és katonai szükségletek kielégítésére."
+  FIN_repurposed_small_industries_desc: "A kisipari vállalatok állami irányítás alá vonásával és háborús célokra történõ átállításával a finn kormány mostantól mozgósíthatja erõforrásait, és teljes mértékben mozgósíthatja gazdaságát polgári és katonai szükségletek kielégítésére."
   FIN_lotta_svard: "Lotta Svärd"
-  FIN_lotta_svard_desc: "A Lotta Svärd már évek óta segíti fegyveres erőinket kiegészítő kapacitásban. Az ország mostani súlyos helyzetére tekintettel kibővítettük szerepüket, fegyverrel láttuk el őket, és lehetővé tettük tagjaik számára, hogy közvetlenebb szerepet vállaljanak az ország védelmének támogatásában."
-  FIN_lotta_svard_support_battalions_bonus_tt: "§Y$category_support_battalions$:§! Szervezettség: §G+10§!, Életerő: §G+5§!"
+  FIN_lotta_svard_desc: "A Lotta Svärd már évek óta segíti fegyveres erõinket kiegészítõ kapacitásban. Az ország mostani súlyos helyzetére tekintettel kibõvítettük szerepüket, fegyverrel láttuk el õket, és lehetõvé tettük tagjaik számára, hogy közvetlenebb szerepet vállaljanak az ország védelmének támogatásában."
+  FIN_lotta_svard_support_battalions_bonus_tt: "§Y$category_support_battalions$:§! Szervezettség: §G+10§!, Életerõ: §G+5§!"
   FIN_international_volunteers: "Nemzetközi Önkéntesek"
-  FIN_international_volunteers_desc: "Önkéntesek a világ minden tájáról utaznak Finnországba, hogy csatlakozzanak erőinkhez. A finnek nem harcolnak egyedül ebben a háborúban!"
+  FIN_international_volunteers_desc: "Önkéntesek a világ minden tájáról utaznak Finnországba, hogy csatlakozzanak erõinkhez. A finnek nem harcolnak egyedül ebben a háborúban!"
   FIN_militarized_society_requirement_tt: "§RIdeiglenesen eltávolításra kerül§!, ha nem §Y$all_adults_serve$§! vagy §Y$scraping_the_barrel$§! hadkötelezettségi törvény alatt áll."
   FIN_the_lone_wolf_tt: "§RNem hozhat létre és nem csatlakozhat frakcióhoz§!"
   FIN_popular_support_for_the_revolution: "Népi Támogatás a Forradalomhoz"
   FIN_popular_support_for_the_revolution_desc: "A [FIN.GetAdjective] proletariátus végre fellázadt, és lerázta a burzsoázia elnyomásának láncait. Együttesen mozgalmunk megrengeti az imperializmus alapjait nemcsak [FIN.GetNonIdeologyName]-ben, hanem az egész világon!"
-  FIN_imprisoned_right_wing_leaders: "Jobboldali Vezetők Letartóztatva"
-  FIN_imprisoned_right_wing_leaders_desc: "A különböző jobboldali frakciók vezetőit, például politikusokat és üzleti vezetőket előzetesen letartóztatták, hogy megakadályozzák őket ellenforradalmi tevékenységek végrehajtásában."
-
-
-
+  FIN_imprisoned_right_wing_leaders: "Jobboldali Vezetõk Letartóztatva"
+  FIN_imprisoned_right_wing_leaders_desc: "A különbözõ jobboldali frakciók vezetõit, például politikusokat és üzleti vezetõket elõzetesen letartóztatták, hogy megakadályozzák õket ellenforradalmi tevékenységek végrehajtásában."
+  
+  
+  
   
   FIN_low_army_morale: "Alacsony hadseregi morál"
-  FIN_low_army_morale_desc: "Fegyveres erőink kevésbé lelkesek egy újabb polgárháború kilátásai miatt, ilyen hamar az előző után. Különösen a morál szenvedett komoly csapást a harcok kitörése óta."
-  FIN_commitment_from_construction_workers: "Építőmunkások elkötelezettsége"
-  FIN_commitment_from_construction_workers_desc: "Az építőmunkások jól ismerik a kapitalista kizsákmányolás kegyetlenségeit. Sokan ezért váltak forradalmi mozgalmunk lelkes támogatóivá. Míg egyesek a fegyveres erőkhöz csatlakoztak, sokan arra kötelezték magukat, hogy szakértelmüket bármilyen állami építkezési tevékenység szolgálatába állítják, amely szükséges a háború megvívásához."
+  FIN_low_army_morale_desc: "Fegyveres erõink kevésbé lelkesek egy újabb polgárháború kilátásai miatt, ilyen hamar az elõzõ után. Különösen a morál szenvedett komoly csapást a harcok kitörése óta."
+  FIN_commitment_from_construction_workers: "Építõmunkások elkötelezettsége"
+  FIN_commitment_from_construction_workers_desc: "Az építõmunkások jól ismerik a kapitalista kizsákmányolás kegyetlenségeit. Sokan ezért váltak forradalmi mozgalmunk lelkes támogatóivá. Míg egyesek a fegyveres erõkhöz csatlakoztak, sokan arra kötelezték magukat, hogy szakértelmüket bármilyen állami építkezési tevékenység szolgálatába állítják, amely szükséges a háború megvívásához."
   FIN_commitment_from_the_trade_unions: "Szakszervezetek elkötelezettsége"
   FIN_commitment_from_the_trade_unions_desc: "A szakszervezetek évtizedek óta keserű harcot vívnak a munkahelyi kapitalista elnyomás igazságtalanságai ellen, és kulcsszerepet játszottak a társadalmi osztálytudat felemelésében. Most teljes szívvel csatlakoznak forradalmi mozgalmunkhoz, hogy egyszer és mindenkorra véget vessenek a kapitalizmusnak."
   FIN_infiltrated_assets: "Beépített eszközök"
-  FIN_infiltrated_assets_desc: "Újonnan létrejött kereskedelmi megállapodásaink más nemzetekkel lehetőséget adtak arra is, hogy beépüljünk partnereinkhez. Ez remélhetőleg jobb megértéshez vezet majd céljaik és motivációik tekintetében, ami segít hatékonyabban megvédeni saját érdekeinket."
+  FIN_infiltrated_assets_desc: "Újonnan létrejött kereskedelmi megállapodásaink más nemzetekkel lehetõséget adtak arra is, hogy beépüljünk partnereinkhez. Ez remélhetõleg jobb megértéshez vezet majd céljaik és motivációik tekintetében, ami segít hatékonyabban megvédeni saját érdekeinket."
   FIN_baltic_sea_focus: "Balti-tengeri fókusz"
-  FIN_baltic_sea_focus_desc: "A Balti-tenger kulcsfontosságú a nemzet védelme szempontjából. Gondoskodnunk kell arról, hogy haditengerészetünk megkapja a szükséges kiképzést és erőforrásokat céljaik hatékony végrehajtásához a térségben."
+  FIN_baltic_sea_focus_desc: "A Balti-tenger kulcsfontosságú a nemzet védelme szempontjából. Gondoskodnunk kell arról, hogy haditengerészetünk megkapja a szükséges kiképzést és erõforrásokat céljaik hatékony végrehajtásához a térségben."
   FIN_finnish_goods: "Finn termékek"
-  FIN_finnish_goods_desc: "Egy ügyes manőverrel szilárd kereskedelmi megállapodást kötöttünk Kuusinen [FIN.GetName] országával, amely biztosítja számunkra értékes árucikkeik előnyös hozzáférését, és rendkívül kedvező feltételeket biztosít beszerzésükhöz."
+  FIN_finnish_goods_desc: "Egy ügyes manõverrel szilárd kereskedelmi megállapodást kötöttünk Kuusinen [FIN.GetName] országával, amely biztosítja számunkra értékes árucikkeik elõnyös hozzáférését, és rendkívül kedvezõ feltételeket biztosít beszerzésükhöz."
   FIN_fascist_regime: "Fasiszta rezsim"
   FIN_fascist_regime_desc: "$FIN_a_fascist_regime$"
   FIN_patriotic_peoples_movement_ns_1: "$FIN_patriotic_peoples_movement$"
   FIN_academic_karelian_society_ns_1: "$FIN_academic_karelian_society$"
   FIN_suojeluskunta_ns_1: "Suojeluskunta"
   FIN_anti_soviet_sentiment: "Szovjetellenes érzelmek"
-  FIN_anti_soviet_sentiment_desc: "Ennek az államnak a lakói mély nehezteléssel viseltetnek [SOU.GetNameDef] iránt, és semmi másnak nem tekintik, mint egy újramárkázott Orosz Birodalomnak vagy a hagyományos értékeikre leselkedő fenyegetésnek."
+  FIN_anti_soviet_sentiment_desc: "Ennek az államnak a lakói mély nehezteléssel viseltetnek [SOU.GetNameDef] iránt, és semmi másnak nem tekintik, mint egy újramárkázott Orosz Birodalomnak vagy a hagyományos értékeikre leselkedõ fenyegetésnek."
   FIN_confederation_of_finno_russian_republics_dm: "Finn-orosz Köztársaságok Konföderációja"
   FIN_confederation_of_finno_russian_republics_dm_desc: "$FIN_confederated_finno_russian_republics$"
-
-
-
-
-
+  
+  
+  
+  
+  
   #NORWAY - National Spirits
   # Ideas
   NOR_complacent_cabinet_ns: "Complacent Cabinet"
