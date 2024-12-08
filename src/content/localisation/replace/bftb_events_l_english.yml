@@ -1717,3 +1717,4 @@
   bftb_news.302.c:0 "Ez semmit sem ér nekik!"
   bftb_news.302.d:0 "Hũha."
   TUR_straits_remain_demilitarised_tt:0 "\nA §YTörök-szörös§! demilitarizált marad és nem lesz befolyásunk a tengeri forgalom fölött, amely áthalad a §YTörök-szorosokon§!, amíg háborúban vagyunk. \n\n§REz az utolsó esélyünk a deeszkalációra: ha [SOV.GetNameDef] tovább feszegeti a kérdést, akkor az háborúhoz fog vezetni!§!"
+  bftb_bulgarian_claims.6.b: "They have no right!"

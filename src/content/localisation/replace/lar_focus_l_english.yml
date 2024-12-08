@@ -1305,3 +1305,4 @@
   POR_nationalize_industry:0 "Az ipar államosítása"
   POR_metropolitan_army:0 "Fõvárosi hadsereg"
   POR_metropolitan_army_desc:0 "Portugália számára a legnagyobb veszélyt az jelenti, hogy belerángatják egy európai háborúba, és hogy szárazföldünket megszállják. Csak egy erõs, modern hadsereg riaszthatja el ellenségeinket!"
+  FRA_disunite_germany_tt: "Renames the §YContinental System§! to §YConfédération du Rhin§!"

@@ -62,3 +62,6 @@
   MAPMODE_ALL_ENTRY_DETAILS:0 "§GKattints§! a kiválasztáshoz.\n§GJobb-kattints§! a kiválasztáshoz és a bezáráshoz."
   MAPMODE_TOOLTIP_INFRASTRUCTURE:0 "£infrastructure_texticon  Infrastruktúra $INF|Y$"
   MAPMODE_TOOLTIP_MANPOWER:1 "£population_texticon  Népesség $MP|*Y$"
+  MAPMODE_RAIDS_NAME: "Military Raids"
+  MAPMODE_RAIDS: "§HMilitary Raids§! map mode"
+  MAPMODE_RAIDS_DESCRIPTION: "Shows all planned and ongoing raids"

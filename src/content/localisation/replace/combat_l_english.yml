@@ -395,3 +395,5 @@
   PIERCING_ENEMIES_THRESHOLD_ENTRY:0 "Ez a hadosztály képes $PIERCE_VALUE|%H$ értékű sebzést átvinni $NUM|H$ ellenséges hadosztály páncélján."
   COMBAT_LOG_FRIENDLY:0 "Baráti erõk"
   COMBAT_LOG_ENEMY:0 "Ellenséges erõk"
+  street_fighting: "Street Fighting"
+  TACTICS_ACTIVATION_REQUIREMENTS: "Activation requirements"

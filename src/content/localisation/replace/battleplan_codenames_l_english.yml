@@ -434,3 +434,13 @@
   o_clipper:0 "Clipper"
   o_aintree:0 "Aintree"
   o_fusilade:0 "Fusilade"
+  o_margarethe: "Unternehmen Margarethe" #hungary
+  o_sudwind: "Unternehmen Südwind" #hungary
+  o_eiche: "Unternehmen Eiche" #italy
+  o_achse: "Fall Achse" #italy
+  o_alarich: "Unternehmen Alarich" #italy
+  o_scwartz: "Unternehmen Schwartz" #italy
+  o_konstantin: "Unternehmen Konstantin" #italy
+  o_Geier:0 "Geier"
+  o_felix: "Unternehmen Felix" #Iberia
+  o_munchen: "Unternehmen München" # Bessarabia

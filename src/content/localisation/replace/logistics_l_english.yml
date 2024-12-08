@@ -122,3 +122,4 @@
   LOGISTICS_NEED_OPERATION_REQUEST_HIGH_VALUE:0 "Átlagosan naponta $NEED|^0Y$ egységeket küldünk mũveletre"
   LOGISTICS_INSTOCK_BALANCED: "There is currently no surplus or deficit of $EQUIPMENT|H$ equipment.\n"
   LOGISTICS_VIEWING_WHICH_COUNTRY:0 "Currently viewing logistics for $COUNTRY|H$."
+  LOGISTICS_RESOURCES_PROJECT: "Special projects require $NEED|Y$ units of $RESOURCE|H$ for maximal output."

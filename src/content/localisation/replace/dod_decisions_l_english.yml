@@ -59,3 +59,4 @@
   ROM_present_ultimatum:0 "Az ultimátum bemutatása"
   ROM_claim_bosnia:0 "Claim [104.GetName]"
   ROM_claim_ljubljana:0 "Claim [853.GetName]"
+  ROM_claim_debar: "Claim [970.GetName]"

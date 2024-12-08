@@ -85,3 +85,7 @@
   TOPBAR_FACTORY_STATUS_OCCUPIED: "From occupation: §G+$COUNT$§!"
   TOPBAR_FACTORY_STATUS_TRADED: "From trade: §G+$COUNT$§!"
   TOPBAR_FACTORY_STATUS_DAMAGED: "Damaged: §R-$COUNT$§!"
+  TOPBAR_TECHNOLOGY_PROTOTYPE_REWARD: "You have $AMOUNT|Y$ completed prototype iteration reward(s) to read"
+  TOPBAR_TECHNOLOGY_LEFT_CLICK: "§GLeft-Click§! to open on the research slots tab"
+  TOPBAR_TECHNOLOGY_RIGHT_CLICK: "§GRight-Click§! to open on the facilities tab"
+  COUNTRY_NUCLEAR_PRODUCTION_INFO: "Nuclear Reactors built: $NUM|Y$"

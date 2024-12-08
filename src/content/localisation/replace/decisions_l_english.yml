@@ -232,3 +232,9 @@
   refit_to_destroyer_mass_nor: "Konvojok tömeges átalakítása rombolókká"
   nor_building_ship: "Hajók átalakítása folyamatban"
   
+  decision_cost_CP_50_ArmXP_15: "£command_power  §Y50§! £army_experience  §Y15§!"
+  decision_cost_CP_50_ArmXP_15_blocked: "£command_power  §R50§! £army_experience  §R15§!"
+  decision_cost_CP_50_ArmXP_15_tooltip: "It costs £command_power  §Y50§! £army_experience  §Y15§! to take the decision"
+  decision_cost_CP_25_ArmXP_15: "£command_power  §Y25§! £army_experience  §Y15§!"
+  decision_cost_CP_25_ArmXP_15_blocked: "£command_power  §R25§! £army_experience  §R15§!"
+  decision_cost_CP_25_ArmXP_15_tooltip: "It costs £command_power  §Y25§! £army_experience  §Y15§! to take the decision"

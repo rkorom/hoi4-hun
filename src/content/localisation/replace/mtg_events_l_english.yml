@@ -1501,3 +1501,6 @@
   mtg_news.64.a:0 "Népeink egységben védik hazájukat."
   mtg_news.64.b:0 "Újbóli egyesülés? Készüljünk föl lelkileg."
   broken_naval_treaty_opinion_mod:0 "Ignored Treaty Sanctions"
+  mtg_news.3.g: "Yet their support for us is unwavering!"
+  mtg_news.3.g_tt: "Their guarantee of us is §Rnot§! affected by this!"
+  MTG_naval_treaty.9.d:  "Who cares about navies..."

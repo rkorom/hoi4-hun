@@ -239,3 +239,7 @@
   DLC_OWNED_TEXT: "§GYou own this content!§!"
   DLC_NOT_OWNED_TEXT: "§HClick to visit the store page for this content.§!"
   
+  CAREER_PROFILE_SPECIAL_PROJECTS_COMPLETED_LABEL: "Special Projects completed"
+  CAREER_PROFILE_LAUNCHED_RAIDS_LABEL: "Launched raids"
+  CAREER_PROFILE_SCIENTIST_LEVEL_UPS_LABEL: "Scientist level-ups"
+  REQUIRES_DLC_TEXT: "Requires DLC $DLC|Y$"

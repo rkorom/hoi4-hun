@@ -181,3 +181,4 @@
   IDEA_COST_NAVY_XP:0 "Költség (£navy_experience ): $VALUE|-0$"
   IDEA_COST_COMPACT_NAVY_XP:0 "£navy_experience  $VALUE|0$"
   SHOW_EXILED_STATUS_LEGITIMACY:0 "Legitimacy: $VALUE|0H$"
+  COMMAND_POWER_CAP_ADD_ADVISOR: "\nMax. Command Power increase (£command_power ): $VALUE|+=0$"

@@ -308,3 +308,7 @@
   BONUS_PRODUCTION_RESOURCE_NEED_FACTOR: "Production resource need"
   BONUS_PRODUCTION_RESOURCE_PENALTY_FACTOR: "Production resource penalty"
   BONUS_PRODUCTION_CONVERSION_SPEED_FACTOR: "Production conversion speed"
+  MISSILE_LAUNCHER_COMPOSITION_TITLE: "Set the default composition of rockets for the missile launcher"
+  ROCKET_WING_LIMITS_DESC: "Rocket capacity"
+  ROCKET_WING_LIMIT_DESC_UNDER: "§YThe capacity of this missile launcher won't be fully used§!"
+  ROCKET_WING_LIMIT_DESC_OVER: "§RThe capacity of this missile launcher will be exceeded and all rockets will not be loaded§!"

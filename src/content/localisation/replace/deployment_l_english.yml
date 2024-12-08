@@ -156,3 +156,6 @@
   DIVISION_CAP_LIMIT_DESC:0 "Ez a hadosztály a sablon limitjét használja, mivel ez a legalacsonyabb limit."
   DEPLOYMENT_VIEW_SPECIAL_FORCES_DETAILS: "$USED$/$CAP$"
   
+  DEPLOYMENT_RAIDS_DESC: "§YRaids§!\n§TSet priority for equipment going to preparation of Raids§!"
+  DEPLOYMENT_RAIDS_EMPTY:0 "§GNo current requests for raids.§!"
+  HAS_EXILE_TRANSFER_WITH_TEMPLATE: "§RCannot delete this Template because $AMOUNT|H$ Divisions escaping into exile are using it.§!"

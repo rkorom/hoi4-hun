@@ -1961,3 +1961,7 @@
   SOV_into_central_asia_desc:0 "Conquest of Central Asia will bring us into a position to threaten India, while also netting us access to the Persian Gulf. The strategic necessity is clear, and ours is an empire that will not find its graveyard here."
   SOV_the_last_break_southward:0 "The Last Break Southward"
   SOV_the_last_break_southward_desc:0 "A final series of conquests will finally secure the remainder of Western Asia and the Bosporus, allowing us to wrest control from India with our flank secure. We will at long last obtain undisputed access to the seas, from the nearby Mediterranean all the way to the Indian Ocean."
+  SOV_modernize_aircraft_facilities_tt: "If there are no other §YExperimental Facilities§! in §Y[260.GetName]§!, we will gain §G1§! §YAerodynamics and Avionics Facility§! in §Y[260.GetName]§!."
+  SOV_soviet_atomic_bomb_project_tt: "If there are no other §YExperimental Facilities§! in §Y[588.GetName]§!, we will gain §G1§! §YNuclear Research Facility§! in §Y[588.GetName]§!."
+  SOV_reclaim_uryankhay_krai: "Reclaim Uryankhay Krai"
+  SOV_reclaim_uryankhay_krai_desc: "In the Mongolian Revolution of 1911 the Uryankhay Republic and the Bogd Khanate of Mongolia broke off from the Qing Empire, and we stepped in to protect them, turning the Uryankhay region into a [ROOT.GetAdjective] territory. With the recent turmoil of civil war however, it seems that they seek independence from us, something which we must not grant them, lest the world powers look down upon us for centuries to come!"

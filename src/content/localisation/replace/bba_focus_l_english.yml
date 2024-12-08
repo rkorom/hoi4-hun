@@ -2104,3 +2104,4 @@
   HOA_control_ethiopia_tt:0 "Controls all Ethiopian Territory"
   HOA_proclaim_east-african_hegemony:0 "Proclaim East-African Hegemony"
   HOA_proclaim_east-african_hegemony_desc:0 "The ever turbulent situation in the Horn of Africa can only be stabilized under the rule of our glorious emperor, [ROOT.GetName]. The time to unify the region is at hand."
+  ITA_citta_dell_aria_tt: "If there are no other §YExperimental Facilities§! in §Y[2.GetName]§!, we will gain §G1§! §YAerodynamics and Avionics Facility§! in §Y[2.GetName]§!."

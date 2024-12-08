@@ -105,3 +105,4 @@
   RULES_TITLE:0 "§HSzabályok összefoglalása:§!"
   RULES_DESC:0 "Az országod szabályzata ideológiától függõen változik, az ideológiát pedig a frakciód, a minisztered, illetve a nemzeti jellemzõ befolyásolja."
   DAILY_EXPERIENCE_GAIN_OFFICERS:0 "Hozam:"
+  COMMAND_POWER_CAP_CHANGE: "CP cap:"

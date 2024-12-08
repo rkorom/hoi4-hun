@@ -1583,3 +1583,7 @@
   ARG_embargoed_us: "[ARG.GetNameDefCap] embargót hirdetett ellenünk"
   ARG_embargoed_us_desc: "[ARG.GetNameDefCap] embargót hirdetett ellenünk [USA.GetNameDef] nyomására."
   
+  ger_por_alliance_focus: "German-Portuguese Alliance Focus"
+  HUN_has_threatening_ambitions: "Hungary has threatening ambitions"
+  BUL_hindered_planned_expansion: "Hindered Planned Expansion"
+  BEL_embargoed_us: "Belgium embargoed us"

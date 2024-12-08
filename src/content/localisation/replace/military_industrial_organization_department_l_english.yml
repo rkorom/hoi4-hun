@@ -108,3 +108,7 @@
   INDUSTRIAL_ORG_EQUIPMENT_modern_tank_artillery_chassis: "$modern_tank_artillery_chassis$"
   INDUSTRIAL_ORG_EQUIPMENT_modern_tank_destroyer_chassis: "$modern_tank_destroyer_chassis$"
   INDUSTRIAL_ORG_EQUIPMENT_gw_tank_equipment: "$gw_tank_equipment$"
+  INDUSTRIAL_ORG_EQUIPMENT_armored_recovery_vehicle: "$armored_recovery_vehicle$"
+  INDUSTRIAL_ORG_EQUIPMENT_clearance_vehicle: "$clearance_vehicle$"
+  INDUSTRIAL_ORG_EQUIPMENT_crossing_support_vehicle: "$crossing_support_vehicle$"
+  INDUSTRIAL_ORG_EQUIPMENT_land_cruiser: "$land_cruiser$"

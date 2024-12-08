@@ -353,3 +353,6 @@
   support_nationalist_spain_short_desc:0 "Küldj felszerelést a Spanyol Polgárháborúban résztvevõ Nemzeti Spanyolország részére"
   may_provoke_hostility:0 "§R[This.GetName] és más nemzetek ellenségesen reagálhatnak erre a lépésre.§!"
   
+  MR_pact_molotov: "Molotov"
+  MR_pact_litvinov: "Litvinov"
+  MR_pact_ribbentrop: "Ribbentrop"

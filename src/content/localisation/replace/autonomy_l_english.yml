@@ -68,3 +68,6 @@
   autonomy_communist_satellite:0 "Szatellit"
   autonomy_occupation_zone:0 "Megszállási övezet"
   autonomy_aat_defense_council_member: "Északi védelmi tanács tagja"
+  autonomy_austro_hungarian_subject: "Austro-Hungarian Vassal"
+  autonomy_volkskommissariat: "Volkskommissariat"
+  autonomy_eu_member: "EU Member State"
