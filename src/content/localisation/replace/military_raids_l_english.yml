@@ -4,18 +4,18 @@
   RAIDS_TARGET_CATEGORIES_TEXT: "Rajtaütés Kategóriák"
   raid_category_air_raids: "Légi Rajtaütés"
   raid_category_nuclear_raids: "Nukleáris Csapás"
-  raid_category_paratrooper_raids: "Ejtőernyős"
+  raid_category_paratrooper_raids: "Ejtõernyõs"
   raid_category_naval_commando_raids: "Tengerészeti Kommandó Rajtaütés"
   raid_category_land_infiltration_raids: "Szárazföldi Rajtaütés"
   raid_category_header_air_raids: "Légi Rajtaütések"
   raid_category_header_nuclear_raids: "Nukleáris Csapások"
-  raid_category_header_paratrooper_raids: "Ejtőernyős Rajtaütések"
+  raid_category_header_paratrooper_raids: "Ejtõernyõs Rajtaütések"
   raid_category_header_naval_commando_raids: "Tengerészeti Rajtaütések"
   raid_category_header_land_infiltration_raids: "Szárazföldi Rajtaütések"
   tooltip_raid_category_air_raids: "§HLégi Bombázó Rajtaütések§! \nEgyetlen légi egység által végrehajtott támadások, amelyek célja egy adott célpont megsemmisítése."
   tooltip_raid_category_nuclear_raids: "§HNukleáris rajtaütések§! \nStratégiai bombázók vagy ballisztikus rakéták által végrehajtott nukleáris fegyveres csapások."
-  tooltip_raid_category_paratrooper_raids: "§HEjtőernyős rajtaütések§! \nSpeciális egységek kis létszámú rajtaütései az ellenséges vonalak mögött, veszélyes szabotázs küldetések végrehajtására."
-  tooltip_raid_category_naval_commando_raids: "§HTengerészeti Kommandó rajtaütések§! \nTengerészgyalogosok kis létszámú rajtaütései a part menti területeken, gyors motorcsónakokkal, gyors csapásokat mérve és eltűnve, mielőtt az ellenség reagálhatna."
+  tooltip_raid_category_paratrooper_raids: "§HEjtõernyõs rajtaütések§! \nSpeciális egységek kis létszámú rajtaütései az ellenséges vonalak mögött, veszélyes szabotázs küldetések végrehajtására."
+  tooltip_raid_category_naval_commando_raids: "§HTengerészeti Kommandó rajtaütések§! \nTengerészgyalogosok kis létszámú rajtaütései a part menti területeken, gyors motorcsónakokkal, gyors csapásokat mérve és eltűnve, mielõtt az ellenség reagálhatna."
   tooltip_launch_all_button_first: "§GKattints§! az összes kész rajtaütés indításához"
   tooltip_launch_all_button_second: "$NUM|H$ rajtaütés kész az indításra"
   tooltip_launch_button_enabled: "§GKattints§! a rajtaütés indításához"
@@ -25,64 +25,64 @@
   tooltip_for_no_items: "§RNincs elem§!"
   raid_type_facility_strike: "Létesítmény Csapás"
   raid_type_facility_strike_desc: "Légi támadás egy ellenséges kísérleti létesítmény ellen, azzal a céllal, hogy súlyos károkat okozzon a létesítményben és annak projektjeiben."
-
+  
   raid_type_lock_bombing_raid: "Zsilip Bombázó Rajtaütés"
-  raid_type_lock_bombing_raid_desc: "Speciális pattogó bombákkal felszerelt repülőgépek próbálják megsemmisíteni a zsilipet, hogy megakadályozzák a csatornán való áthaladást."
+  raid_type_lock_bombing_raid_desc: "Speciális pattogó bombákkal felszerelt repülõgépek próbálják megsemmisíteni a zsilipet, hogy megakadályozzák a csatornán való áthaladást."
   raid_type_lock_bombing_raid_no_bba: "$raid_type_lock_bombing_raid$"
   raid_type_lock_bombing_raid_no_bba_desc: "$raid_type_lock_bombing_raid_desc$"
-
+  
   raid_type_dam_bombing_raid: "Gát Bombázó Rajtaütés"
-  raid_type_dam_bombing_raid_desc: "Speciális pattogó bombákkal felszerelt repülőgépek próbálják megsemmisíteni a gátat, csökkentve annak hatékonyságát, és megnehezítve az ellenség mozgását a területen."
+  raid_type_dam_bombing_raid_desc: "Speciális pattogó bombákkal felszerelt repülõgépek próbálják megsemmisíteni a gátat, csökkentve annak hatékonyságát, és megnehezítve az ellenség mozgását a területen."
   raid_type_dam_bombing_raid_no_bba: "$raid_type_dam_bombing_raid$"
   raid_type_dam_bombing_raid_no_bba_desc: "$raid_type_dam_bombing_raid_desc$"
-
+  
   raid_type_gun_emplacement_raid: "Tüzérségi Állás Csapás"
   raid_type_gun_emplacement_raid_desc: "Egy földrengésbomba által felszerelt bombázó kötelék próbálja megsemmisíteni a $mega_gun_emplacement$ állását."
   raid_type_gun_emplacement_raid_no_bba: "$raid_type_gun_emplacement_raid$"
   raid_type_gun_emplacement_raid_no_bba_desc: "$raid_type_gun_emplacement_raid_desc$"
-
+  
   raid_type_mega_gun_emplacement_strike: "Mega Tüzérségi Állás Csapás"
   raid_type_mega_gun_emplacement_strike_desc: "Csapás egy Mega Tüzérségi Állás ellen Földrengésbombák segítségével."
   raid_type_mega_gun_emplacement_strike_no_bba: "$raid_type_mega_gun_emplacement_strike$"
   raid_type_mega_gun_emplacement_strike_no_bba_desc: "$raid_type_mega_gun_emplacement_strike_desc$"
-
-  raid_type_oilfield_raid: "Olajmező Rajtaütés"
-  raid_type_oilfield_raid_desc: "Légi csapás, amelynek célja egy jelentős olajmező és a hozzá kapcsolódó finomítók kiiktatása, hogy hosszabb időre súlyosan megzavarja az ellenség üzemanyag-termelését."
+  
+  raid_type_oilfield_raid: "Olajmezõ Rajtaütés"
+  raid_type_oilfield_raid_desc: "Légi csapás, amelynek célja egy jelentõs olajmezõ és a hozzá kapcsolódó finomítók kiiktatása, hogy hosszabb idõre súlyosan megzavarja az ellenség üzemanyag-termelését."
   raid_type_nuclear_strike: "Nukleáris Csapás"
   raid_type_nuclear_strike_desc: "Egy stratégiai bombázó és annak kísérete a kijelölt célpontra repül, hogy ledobja az atombombát. Ezután a bombázó megpróbálja elhagyni a területet, hogy elkerülje a lökéshullámot."
   raid_type_nuclear_missile_strike: "Nukleáris Rakétacsapás"
-  raid_type_nuclear_missile_strike_desc: "Egy hosszú hatótávú rakéta szuborbitális ballisztikus pályán indul a kijelölt indítóhelyről a célpont felé. A megfelelő pillanatban a rakéta fedélzetén lévő robbanófej atombombát robbant."
+  raid_type_nuclear_missile_strike_desc: "Egy hosszú hatótávú rakéta szuborbitális ballisztikus pályán indul a kijelölt indítóhelyrõl a célpont felé. A megfelelõ pillanatban a rakéta fedélzetén lévõ robbanófej atombombát robbant."
   raid_type_paratrooper_facility_sabotage: "Létesítmény Szabotázs Rajtaütés"
-  raid_type_paratrooper_facility_sabotage_desc: "Ejtőernyősök csapata ugrik egy ellenséges létesítményre, hogy rögzített töltetekkel megsemmisítse a létfontosságú berendezéseket, és ezzel megzavarja a tudományos fejlődésüket."
+  raid_type_paratrooper_facility_sabotage_desc: "Ejtõernyõsök csapata ugrik egy ellenséges létesítményre, hogy rögzített töltetekkel megsemmisítse a létfontosságú berendezéseket, és ezzel megzavarja a tudományos fejlõdésüket."
   raid_type_mine_sabotage_raid: "Bánya Szabotázs Rajtaütés"
-  raid_type_mine_sabotage_raid_desc: "Ejtőernyősök csapata ugrik egy jelentős ellenséges bánya komplexumra, hogy robbanótöltetekkel hosszabb időre megzavarja a termelést."
-  raid_type_pathfinder_raid: "Úttörő Rajtaütés"
-  raid_type_pathfinder_raid_desc: "Ejtőernyősök csapata ugrik az ellenséges vonalak mögé, hogy egy közelgő inváziót készítsenek elő kulcsfontosságú hidak megsemmisítésével, csapdák felállításával, és általános zavarkeltéssel."
-  raid_type_commando_port_raid: "Tengerészeti Kikötő Rajtaütés"
-  raid_type_commando_port_raid_desc: "Egy csoport tengerészgyalogos elindul, hogy kárt okozzon egy nagy, ellenség által ellenőrzött $naval_base$-ben. A kikötőben lévő hajók is sérülhetnek."
+  raid_type_mine_sabotage_raid_desc: "Ejtõernyõsök csapata ugrik egy jelentõs ellenséges bánya komplexumra, hogy robbanótöltetekkel hosszabb idõre megzavarja a termelést."
+  raid_type_pathfinder_raid: "Úttörõ Rajtaütés"
+  raid_type_pathfinder_raid_desc: "Ejtõernyõsök csapata ugrik az ellenséges vonalak mögé, hogy egy közelgõ inváziót készítsenek elõ kulcsfontosságú hidak megsemmisítésével, csapdák felállításával, és általános zavarkeltéssel."
+  raid_type_commando_port_raid: "Tengerészeti Kikötõ Rajtaütés"
+  raid_type_commando_port_raid_desc: "Egy csoport tengerészgyalogos elindul, hogy kárt okozzon egy nagy, ellenség által ellenõrzött $naval_base$-ben. A kikötõben lévõ hajók is sérülhetnek."
   raid_type_commando_facility_raid: "Tengerészeti Létesítmény Rajtaütés"
   raid_type_commando_facility_raid_desc: "Egy csoport tengerészgyalogos elindul, hogy kárt okozzon egy kísérleti létesítményben egy part menti tartományban."
-  raid_type_airfield_raid: "Repülőtér Rajtaütés"
+  raid_type_airfield_raid: "Repülõtér Rajtaütés"
   raid_type_supply_hub_raid: "Ellátóközpont Rajtaütés"
   raid_type_demo_dam_raid: "Demo Gátrobbantó Rajtaütés"
   raid_type_AUS_reichstag_bombing: "Reichstag Bombázó Rajtaütés"
-  raid_type_AUS_reichstag_bombing_desc: "Bombázók csoportját küldve az ellenség főhadiszállására, valamint Németország hatalmának szimbolikus helyére, növelhetjük népünk morálját, miközben egyidőben csapást mérünk ellenségeinkre."
+  raid_type_AUS_reichstag_bombing_desc: "Bombázók csoportját küldve az ellenség fõhadiszállására, valamint Németország hatalmának szimbolikus helyére, növelhetjük népünk morálját, miközben egyidõben csapást mérünk ellenségeinkre."
   raid_type_ENG_reichstag_bombing: "Reichstag Bombázó Rajtaütés"
-  raid_type_ENG_reichstag_bombing_desc: "Bombázók csoportját küldve az ellenség főhadiszállására, valamint Németország hatalmának szimbolikus helyére, növelhetjük népünk morálját, miközben csapást mérünk az ellenség moráljára."
+  raid_type_ENG_reichstag_bombing_desc: "Bombázók csoportját küldve az ellenség fõhadiszállására, valamint Németország hatalmának szimbolikus helyére, növelhetjük népünk morálját, miközben csapást mérünk az ellenség moráljára."
   raid_type_GER_eben_emael_raid: "Eben Emael Rajtaütés"
-  raid_type_GER_eben_emael_raid_desc: "Ejtőernyősök és vitorlázó csapatok viharcsoportja támadja meg a stratégiai elhelyezkedésű erődöt felülről, valamint elfoglalja a környék kulcsfontosságú hídjait, útjait és vasútjait, hogy megnyissa az utat a fő támadó erők számára."
+  raid_type_GER_eben_emael_raid_desc: "Ejtõernyõsök és vitorlázó csapatok viharcsoportja támadja meg a stratégiai elhelyezkedésű erõdöt felülrõl, valamint elfoglalja a környék kulcsfontosságú hídjait, útjait és vasútjait, hogy megnyissa az utat a fõ támadó erõk számára."
   raid_type_GER_big_ben_bombing: "Big Ben Bombázó Rajtaütés"
   raid_type_GER_statue_of_liberty_bombing: "Szabadság-szobor Bombázó Rajtaütés"
   raid_type_GER_kremlin_bombing: "Kreml Bombázó Rajtaütés"
   raid_type_ENG_operation_jericho: "Jericho Hadművelet"
-  raid_type_ENG_operation_jericho_desc: "A francia ellenállás információi alapján Németország nagyszámú ellenálló harcost tart fogva Amiensben. Repülőgépek egy századát küldve a börtön falainak áttörésére, jelentős számú ellenálló harcost szabadíthatunk ki."
+  raid_type_ENG_operation_jericho_desc: "A francia ellenállás információi alapján Németország nagyszámú ellenálló harcost tart fogva Amiensben. Repülõgépek egy századát küldve a börtön falainak áttörésére, jelentõs számú ellenálló harcost szabadíthatunk ki."
   raid_type_thermonuclear_strike: "Termonukleáris Csapás"
   raid_type_thermonuclear_strike_desc: "Egy stratégiai bombázó és annak kísérete a kijelölt célpontra repül, hogy ledobja a termonukleáris bombát. Ezután a bombázó megpróbálja elhagyni a területet, hogy elkerülje a lökéshullámot."
   raid_type_thermonuclear_missile_strike: "Termonukleáris Rakétacsapás"
-  raid_type_thermonuclear_missile_strike_desc: "Egy hosszú hatótávú rakéta szuborbitális ballisztikus pályán indul a kijelölt indítóhelyről a célpont felé. A megfelelő pillanatban a rakéta fedélzetén lévő robbanófej termonukleáris robbanást idéz elő."
+  raid_type_thermonuclear_missile_strike_desc: "Egy hosszú hatótávú rakéta szuborbitális ballisztikus pályán indul a kijelölt indítóhelyrõl a célpont felé. A megfelelõ pillanatban a rakéta fedélzetén lévõ robbanófej termonukleáris robbanást idéz elõ."
   raid_type_CHI_huansheng_raid: "Huansheng Hadművelet"
-  raid_type_CHI_huansheng_raid_desc: "Hírszerzésünk szerint, bár értékes célpontok, a Yawata acélművek és a Sasebo Haditengerészeti Arzenál jelenleg túl nehezen támadható légi erőink számára. Ezért úgy döntöttek, hogy a háború legjobb módja az lenne, ha felhívnánk a japán nép figyelmét az imperialista japán háborús bűnösök által elkövetett rémtettekre Kínában, röplapok ledobásával olyan városok fölé, mint Nagaszaki, Fukuoka, Saga és Oszaka."
-
+  raid_type_CHI_huansheng_raid_desc: "Hírszerzésünk szerint, bár értékes célpontok, a Yawata acélművek és a Sasebo Haditengerészeti Arzenál jelenleg túl nehezen támadható légi erõink számára. Ezért úgy döntöttek, hogy a háború legjobb módja az lenne, ha felhívnánk a japán nép figyelmét az imperialista japán háborús bűnösök által elkövetett rémtettekre Kínában, röplapok ledobásával olyan városok fölé, mint Nagaszaki, Fukuoka, Saga és Oszaka."
+  
   RAID_TARGET_NAME: "$WHAT|H$ in $LOCATION|H$"
   TOOLTIP_POTENTIAL_TARGET_ENTRY: "§GClick§! to raid $CONTROLLER_FLAG$$TARGET_NAME$"
   TOOLTIP_POTENTIAL_TARGET_ENTRY_NOT_ALLOWED: "§RCannot§! raid $CONTROLLER_FLAG$$TARGET_NAME$"
@@ -182,7 +182,7 @@
   tooltip_additional_equipment_header: "The raid requires the listed equipment to be assembled before preparation can start."
   tooltip_raid_launch_button_assembling: "The raid is §Hassembling§!"
   tooltip_raid_launch_button_preparing: "The raid is preparing ($PROGRESS|H0%$)"
-
+  
   raid_filter_tooltip_explanation: "§HRaids§! allow you to do precision strikes against important targets, gaining strategic advantages."
   raid_filter_tooltip_explanation_extra: "§HRaid Targets§! are shown on the map. The filter buttons below can be used to configure which targets are shown."
   raid_filter_normal_button_prompt_show: "§GClick§! to show $CATEGORY|H$ in this map mode"
@@ -191,7 +191,7 @@
   raid_filter_free_selection_button_prompt_disable: "§GClick§! to stop planning a $CATEGORY|H$"
   raid_filter_expand_prompt: "§GClick§! to show raid categories"
   raid_filter_collapse_prompt: "§GClick§! to hide raid categories"
-
+  
   raid_success_chance_risk_taking: "Risk taking: $VAL$"
   raid_disaster_risk_risk_taking: "Risk taking: $VAL|%0-=$"
   raid_success_chance_modifier_value: "$VAL|%0+=$"
@@ -211,38 +211,38 @@
   raid_source_distance_to_target: "$DIST|0H$ km"
   raid_source_tooltip_header: "Use this $SOURCE$ as the starting point for the raid"
   raid_source_tooltip_distance: "Distance from target: $DIST|0H$ km"
-
+  
   tooltip_raid_auto_launch_description: "Launch the raid automatically when prepared and the §Hsuccess chance§! is above the specified threshold."
   tooltip_raid_auto_launch_threshold: "Launch the raid when the §Hsuccess chance§! is above $VAL$"
-
+  
   # Raid Outcome Tooltips
   raid_aborted_tt: "§RMission Aborted§!\n"
   dud_missile_tt: "Missile Failed to Explode"
   missile_hit_wrong_target_tt: "Missile Hit the Wrong Target"
   raid_nuclear_strike_tt: "Hit by nuclear strike"
   raid_nuclear_secondary_target_tt: "Failed to properly hit intented target"
-
+  
   raid_repair_speed_tt: "[THIS.GETName] suffers Reduction to Ship Repair Speed for 30 days"
   raid_damage_to_ships_tt: "Any ships in port suffer §R$DAMAGE$%§! damage"
-
+  
   raid_facility_damage_tt: "The Experimental Facility suffers §R$DAMAGE$%§! damage. Projects in the facility will be slowed down until repaired.\n"
-
+  
   raid_building_destroyed_tt: "The §Y$BUILDING$§! is §Rdestroyed§! by the raid."
   raid_building_levels_destroyed_tt: "The §Y$BUILDING$§! loses §R$DESTROY$§! level, and §R$DAMAGE$§! levels are damaged."
-
+  
   operation_jericho_failure_tt: "The Raid is a complete disaster, none of the prisoners manage to escape. Enemy control of the area increases"
   operation_jericho_limited_success_tt: "The daring bombing run manages to blow a hole in the prison wall. However, many of the prisoners are injured and or fail to escape."
   operation_jericho_success_tt: "The daring bombing run manages to blow a big hole in the prison wall. Some of the prisoners are injured or fail to escape, but a substantial number manage to escape, and are picked up by the local resistance."
   operation_jericho_critical_success_tt: "The daring bombing run manages to blow a huge hole in the prison wall without injuring any of the prisoners. Most prisoners manage to escape, and are picked up by the local resistance."
-
+  
   operation_huansheng_failure_tt: "The Raid is a complete disaster, none of bombers reach their designated drop-zones, and many are shot down by naval air defenses."
   operation_huansheng_limited_success_tt: "The daring bombing run manages to deliver leaflets over most of the designated cities. However, most are scattered in inaccessible areas and quickly cleaned up by enemy forces."
   operation_huansheng_success_tt: "The daring bombing run manages to deliver leaflets over all of the designated cities. Some leaflets are scattered on roofs or in forested areas, but a majority of them land in accessible and populated areas, and are quickly picked up by local residents."
   operation_huansheng_critical_success_tt: "The daring bombing run manages to deliver leaflets over all of the designated cities. All of them land in accessible and populated areas, and are quickly picked up by local residents, spreading the news of the Japanese invasion far and wide."
-
+  
   # History Entries
   commando_port_raid_history_entry: "Having successfully taken part in a $raid_type_commando_port_raid$"
-
+  
   # Modifiers from raids
   dam_blown_modifier: "Dam Blown"
   refinery_damaged_modifier: "Oil Refineries Damaged"
@@ -260,12 +260,12 @@
   kiel_canal_damaged_tt: "Canal blocked due to damage to locks"
   kiel_canal_damaged_tt_NOT: "$kiel_canal_damaged_tt$"
   panama_canal_damaged_modifier: "Panama Canal Damaged"
-
+  
   tooltip_raid_warning_counterplay_header: "§GTo increase the chance of a successful defense:§!"
   tooltip_raid_success_chance_improvement_header: "§GTo increase the chance of a successful raid:§!"
   tooltip_raid_modifier_effect_improvement: "  §g(current effect: §!$VALUE$/$MAX$§g from§! $SOURCE$§g)§!"
   tooltip_raid_warning_success_chance_header: "Chance to repel the raid: $VALUE|H%1$"
-
+  
   # Success chance modifiers
   # If you want a separate negative or positive statement, add a specific *_positive or *_negative entry
   success_modifier_prep_time: "§HPreparation§!"
@@ -316,11 +316,11 @@
   success_modifier_strength: "unit §HStrength§!"
   success_modifier_strength_negative: "low unit §HStrength§!"
   success_modifier_enemy_defense_aggregate: "enemy §HCountermeasures§!"
-
+  
   raid_command_cost_can_afford: "£command_power£$COST|H0$"
   raid_command_cost_cannot_afford: "£command_power£$COST|R0$"
   raid_insufficient_command_power: "§RInsufficient command power§! (£command_power£$COST|R0$ needed)"
-
+  
   raid_type_outcome_header: "$RAID_TYPE$ outcome"
   raid_type_outcome_header_actor: "$RAID_TYPE|H$ finished"
   raid_type_outcome_header_victim: "Hit by $RAID_TYPE|H$"
@@ -336,105 +336,105 @@
   tooltip_raid_insufficient_target_information: "§RInsufficient target information for launch ($CURRENT|0H$/$REQUIRED|0H$)§!"
   RAID_OUTCOME_DISMISS: "Dismiss"
   TOOLTIP_RAID_OUTCOME_DISMISS: "Close the report and dismiss it."
-
+  
   tooltip_raid_warning_header: "§RIncoming raid detected:§!"
   tooltip_raid_warning_description: "$COUNTRY$: $RAID$"
   tooltip_raid_result: "The $RAID_DESC|H$ ended in $OUTCOME_TYPE|H$."
   tooltip_raid_view_details_prompt: "§GClick§! to view details"
   tooltip_raid_close_report_prompt: "§GRight Click§! to dismiss the report"
-
+  
   cancel_raid_popup_title: "Confirm Cancellation"
   cancel_raid_popup_desc: "Are you sure you want to §Rabort§! the $RAID|H$?"
-
+  
   raid_intel_level: "Target Information: $AMOUNT|H0$"
   raid_intel_min: "Minimum: $AMOUNT|H0$"
   raid_intel_tooltip_header: "§HTarget Information: $AMOUNT|0$§!"
-
+  
   raid_target_intel_from_civilian_intel: "- From civilian intel over country: $AMOUNT|+1$"
   raid_target_intel_from_army_intel: "- From army intel over country: $AMOUNT|+1$"
   raid_target_intel_from_navy_intel: "- From navy intel over country: $AMOUNT|+1$"
   raid_target_intel_from_airforce_intel: "- From air force intel over country: $AMOUNT|+1$"
-
+  
   raid_target_intel_from_network_strength: "- From network strength: $AMOUNT|+1$"
   raid_target_intel_from_controlled_neighbour_states: "- From controlled neighbour states: $AMOUNT|+1$"
   raid_target_intel_from_air_superiority: "- From air superiority: $AMOUNT|+1$"
   raid_target_intel_from_decryption: "- From having broken enemy ciphers: $AMOUNT|+1$"
   raid_target_intel_from_enemy_counter_intel: "- From enemy counter intel: $AMOUNT|+1$"
-
+  
   # Unlock Tooltip
   SP_UNLOCK_RAID: "Unlocks Raid: $RAID_TYPE|Y$"
   SP_UNLOCK_RAID_CATEGORY: "Unlocks: $RAID_CATEGORY|Y$"
-
+  
   raid_category_fluff_text_air_raids: "§LAir Force Command§!"
   raid_category_fluff_text_nuclear_raids: "§LStrategic Command§!"
   raid_category_fluff_text_naval_commando_raids: "§LNavy Command§!"
   raid_category_fluff_text_paratrooper_raids: "§LAirborne Command§!"
   raid_category_fluff_text_land_infiltration_raids: "§LShady Infiltrator Company§!"
-
+  
   ENG_raid_category_fluff_text_air_raids: "§LRAF Bomber Command§!"
   ENG_raid_category_fluff_text_nuclear_raids: "§LStrategic Command§!"
   ENG_raid_category_fluff_text_naval_commando_raids: "§LSpecial Service Brigade§!"
   ENG_raid_category_fluff_text_paratrooper_raids: "§LSpecial Air Service§!"
   ENG_raid_category_fluff_text_land_infiltration_raids: "§LLRDG§!"
-
+  
   USA_raid_category_fluff_text_air_raids: "§LUSAAF§!"
   USA_raid_category_fluff_text_nuclear_raids: "§LStrategic Air Command§!"
   USA_raid_category_fluff_text_naval_commando_raids: "§LU.S. Army Rangers§!"
   USA_raid_category_fluff_text_paratrooper_raids: "§LOffice of Strategic Services§!"
   USA_raid_category_fluff_text_land_infiltration_raids: "§LOffice of Strategic Services§!"
-
+  
   FRA_raid_category_fluff_text_air_raids: "§LForces Aériennes Françaises§!"
   FRA_raid_category_fluff_text_nuclear_raids: "§LForces Aériennes Françaises§!"
   FRA_raid_category_fluff_text_naval_commando_raids: "§LCommandos Marine§!"
   FRA_raid_category_fluff_text_paratrooper_raids: "§LBCRA§!"
   FRA_raid_category_fluff_text_land_infiltration_raids: "§LBCRA§!"
-
+  
   ITA_raid_category_fluff_text_air_raids: "§LRegia Aeronautica§!"
   ITA_raid_category_fluff_text_nuclear_raids: "§LRegia Aeronautica§!"
   ITA_raid_category_fluff_text_naval_commando_raids: "§LDecima Flottiglia MAS§!"
   ITA_raid_category_fluff_text_paratrooper_raids: "§LArditi§!"
   ITA_raid_category_fluff_text_land_infiltration_raids: "§LArditi§!"
-
+  
   GER_raid_category_fluff_text_air_raids: "§LKG 100§!"
   GER_raid_category_fluff_text_nuclear_raids: "§LKG 100§!"
   GER_raid_category_fluff_text_naval_commando_raids: "§LKriegsmarine§!"
   GER_raid_category_fluff_text_paratrooper_raids: "§LFallschirmjäger§!"
   GER_raid_category_fluff_text_land_infiltration_raids: "§LBrandenburg Division§!"
-
+  
   JAP_raid_category_fluff_text_air_raids: "§LImperial Army Air Service§!"
   JAP_raid_category_fluff_text_nuclear_raids: "§LImperial Army Air Service§!"
   JAP_raid_category_fluff_text_naval_commando_raids: "§LSNLF§!"
   JAP_raid_category_fluff_text_paratrooper_raids: "§LTeishin Shudan§!"
   JAP_raid_category_fluff_text_land_infiltration_raids: "§LGiretsu Kuteitai§!"
-
+  
   raid_unit_requirements_equipment_header: "- $EQUIPMENT$ x$AMOUNT|H$"
   raid_unit_requirements_module_header: "§HModules:§!"
   raid_unit_requirements_module: "$NAME$"
   raid_unit_requirements_module_group: "- $LIST$"
   raid_unit_requirements_battalion: "- $NAME$: $LIMIT|H$ battalions"
-
+  
   raid_ship_source_move_warning: "§RWarning: moving ships assigned to§! §HRaids§! §Rwill cancel the raid if the target goes out of range!§!"
-
+  
   raid_distance_info: "Distance from $SOURCE$ to $TARGET$: $TOTAL_DISTANCE|0H$ km\nDistance covered: $COVERED_DISTANCE|0H$ km\nSpeed: $SPEED|1H$ km/h"
   raid_is_waiting_at: "$UNIT|H$ is waiting at $SOURCE$"
   raid_is_moving_towards: "$UNIT|H$ is moving towards $TARGET$"
   raid_is_on_its_way_to: "$UNIT|H$ is on its way to $SOURCE$"
   raid_distance_to_starting_point: "Distance to starting point: $DISTANCE|0H$ km"
   raid_left_click: "§GClick§! to select and pan to the unit"
-
+  
   airwing_state_raid: "Assigned to a raid"
-
+  
   raid_canceled_title: "Raid Canceled"
   raid_canceled_cannot_unassign_unit: "$UNIT|H$ is currently busy with other orders and cannot be unassigned.\n\n$RAID|H$ has been canceled."
   raid_canceled_cannot_reach_source: "$UNIT|H$ was unable to reach $SOURCE$.\n\n$RAID|H$ has been canceled."
   raid_canceled_source_moved_out_of_range: "$SOURCE|H$ was moved out of range of its raid target. \n\n$RAID|H$ has been canceled."
   raid_canceled_no_unit: "The unit assigned to $RAID|H$ does no longer exist."
-
+  
   raid_unit_not_yet_at_source: "$UNIT|H$ is on its way to $SOURCE$."
-
+  
   nuclear_bomb: "Nuclear Bomb"
   thermonuclear_bomb: "Thermonuclear Bomb"
-
+  
   raid_target_name_victory_point: "$VICTORY_POINT|H$"
   raid_target_name_mine: "£resources_strip|5 §HMine§! in $LOCATION|H$"
   raid_target_name_oil_field: "£resources_strip|1 §HOil Field§! in $LOCATION|H$"
