@@ -1,6 +1,6 @@
 ﻿l_english:
-  CHAT_USERJOINEDCHANNEL:0 "$NAME$ csatlakozott."
-  CHAT_USERDISCONNECTED:0 "$NAME$ lecsatlakozott."
-  CHAT_USERWASBANNED:0 "$NAME$ bannolva lett."
-  CHAT_USERLEFTCHANNEL:0 "$NAME$ elhagyta a csatornát."
-  CHAT_CHANNEL_GENERAL:0 "Általános"
+ CHAT_USERJOINEDCHANNEL:0 "$NAME$ csatlakozott."
+ CHAT_USERDISCONNECTED:0 "$NAME$ lecsatlakozott."
+ CHAT_USERWASBANNED:0 "$NAME$ bannolva lett."
+ CHAT_USERLEFTCHANNEL:0 "$NAME$ elhagyta a csatornát."
+ CHAT_CHANNEL_GENERAL:0 "Általános"
