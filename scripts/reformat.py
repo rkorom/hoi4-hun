@@ -23,7 +23,7 @@ def reformat_files(directory):
                     reformatted_lines.append(f"{line}\n")
                 else:
                     # Ensure all other lines have exactly 2 leading spaces
-                    reformatted_lines.append(f" {line}\n")
+                    reformatted_lines.append(f"  {line}\n")
 
             # Write back the reformatted lines
             with open(file_path, "w", encoding="utf-8") as file:
