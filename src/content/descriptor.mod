@@ -4,5 +4,5 @@ tags={
     "Localisation"
 }
 name="Magyar nyelvű fordítás"
-supported_version="1.14.*"
+supported_version="1.15.*"
 remote_file_id="3281592737"
